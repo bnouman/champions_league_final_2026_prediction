@@ -1,0 +1,754 @@
+season,match_number,round_number,home_team,away_team,group,home_goals,away_goals,goal_difference_home,result_90min,match_winner,knockout_aggregate,knockout_winner
+2021-22,2,1,Young Boys,Man. United,Group F,2.0,1.0,1.0,H,Young Boys,,
+2021-22,3,1,Sevilla,Salzburg,Group G,1.0,1.0,0.0,D,Draw,,
+2021-22,1,1,Villarreal,Atalanta,Group F,2.0,2.0,0.0,D,Draw,,
+2021-22,4,1,Dynamo Kyiv,Benfica,Group E,0.0,0.0,0.0,D,Draw,,
+2021-22,5,1,Barcelona,Bayern,Group E,0.0,3.0,-3.0,A,Bayern,,
+2021-22,6,1,LOSC,Wolfsburg,Group G,0.0,0.0,0.0,D,Draw,,
+2021-22,7,1,Malmö,Juventus,Group H,0.0,3.0,-3.0,A,Juventus,,
+2021-22,8,1,Chelsea,Zenit,Group H,1.0,0.0,1.0,H,Chelsea,,
+2021-22,9,1,Besiktas,Dortmund,Group C,1.0,2.0,-1.0,A,Dortmund,,
+2021-22,10,1,Sheriff,Shakhtar Donetsk,Group D,2.0,0.0,2.0,H,Sheriff,,
+2021-22,11,1,Club Brugge,Paris,Group A,1.0,1.0,0.0,D,Draw,,
+2021-22,12,1,Man. City,Leipzig,Group A,6.0,3.0,3.0,H,Man. City,,
+2021-22,13,1,Atlético,Porto,Group B,0.0,0.0,0.0,D,Draw,,
+2021-22,14,1,Liverpool,Milan,Group B,3.0,2.0,1.0,H,Liverpool,,
+2021-22,15,1,Sporting CP,Ajax,Group C,1.0,5.0,-4.0,A,Ajax,,
+2021-22,16,1,Inter,Real Madrid,Group D,0.0,1.0,-1.0,A,Real Madrid,,
+2021-22,17,2,Ajax,Besiktas,Group C,2.0,0.0,2.0,H,Ajax,,
+2021-22,18,2,Shakhtar Donetsk,Inter,Group D,0.0,0.0,0.0,D,Draw,,
+2021-22,19,2,Paris,Man. City,Group A,2.0,0.0,2.0,H,Paris,,
+2021-22,20,2,Leipzig,Club Brugge,Group A,1.0,2.0,-1.0,A,Club Brugge,,
+2021-22,21,2,Porto,Liverpool,Group B,1.0,5.0,-4.0,A,Liverpool,,
+2021-22,22,2,Milan,Atlético,Group B,1.0,2.0,-1.0,A,Atlético,,
+2021-22,23,2,Dortmund,Sporting CP,Group C,1.0,0.0,1.0,H,Dortmund,,
+2021-22,24,2,Real Madrid,Sheriff,Group D,1.0,2.0,-1.0,A,Sheriff,,
+2021-22,25,2,Atalanta,Young Boys,Group F,1.0,0.0,1.0,H,Atalanta,,
+2021-22,26,2,Zenit,Malmö,Group H,4.0,0.0,4.0,H,Zenit,,
+2021-22,27,2,Bayern,Dynamo Kyiv,Group E,5.0,0.0,5.0,H,Bayern,,
+2021-22,28,2,Benfica,Barcelona,Group E,3.0,0.0,3.0,H,Benfica,,
+2021-22,29,2,Man. United,Villarreal,Group F,2.0,1.0,1.0,H,Man. United,,
+2021-22,30,2,Wolfsburg,Sevilla,Group G,1.0,1.0,0.0,D,Draw,,
+2021-22,31,2,Salzburg,LOSC,Group G,2.0,1.0,1.0,H,Salzburg,,
+2021-22,32,2,Juventus,Chelsea,Group H,1.0,0.0,1.0,H,Juventus,,
+2021-22,33,3,Club Brugge,Man. City,Group A,1.0,5.0,-4.0,A,Man. City,,
+2021-22,34,3,Besiktas,Sporting CP,Group C,1.0,4.0,-3.0,A,Sporting CP,,
+2021-22,35,3,Paris,Leipzig,Group A,3.0,2.0,1.0,H,Paris,,
+2021-22,36,3,Porto,Milan,Group B,1.0,0.0,1.0,H,Porto,,
+2021-22,37,3,Atlético,Liverpool,Group B,2.0,3.0,-1.0,A,Liverpool,,
+2021-22,38,3,Ajax,Dortmund,Group C,4.0,0.0,4.0,H,Ajax,,
+2021-22,39,3,Inter,Sheriff,Group D,3.0,1.0,2.0,H,Inter,,
+2021-22,40,3,Shakhtar Donetsk,Real Madrid,Group D,0.0,5.0,-5.0,A,Real Madrid,,
+2021-22,41,3,Barcelona,Dynamo Kyiv,Group E,1.0,0.0,1.0,H,Barcelona,,
+2021-22,42,3,Salzburg,Wolfsburg,Group G,3.0,1.0,2.0,H,Salzburg,,
+2021-22,43,3,Benfica,Bayern,Group E,0.0,4.0,-4.0,A,Bayern,,
+2021-22,44,3,Young Boys,Villarreal,Group F,1.0,4.0,-3.0,A,Villarreal,,
+2021-22,45,3,Man. United,Atalanta,Group F,3.0,2.0,1.0,H,Man. United,,
+2021-22,46,3,LOSC,Sevilla,Group G,0.0,0.0,0.0,D,Draw,,
+2021-22,47,3,Chelsea,Malmö,Group H,4.0,0.0,4.0,H,Chelsea,,
+2021-22,48,3,Zenit,Juventus,Group H,0.0,1.0,-1.0,A,Juventus,,
+2021-22,49,4,Wolfsburg,Salzburg,Group G,2.0,1.0,1.0,H,Wolfsburg,,
+2021-22,50,4,Malmö,Chelsea,Group H,0.0,1.0,-1.0,A,Chelsea,,
+2021-22,51,4,Dynamo Kyiv,Barcelona,Group E,0.0,1.0,-1.0,A,Barcelona,,
+2021-22,52,4,Bayern,Benfica,Group E,5.0,2.0,3.0,H,Bayern,,
+2021-22,53,4,Villarreal,Young Boys,Group F,2.0,0.0,2.0,H,Villarreal,,
+2021-22,54,4,Atalanta,Man. United,Group F,2.0,2.0,0.0,D,Draw,,
+2021-22,55,4,Sevilla,LOSC,Group G,1.0,2.0,-1.0,A,LOSC,,
+2021-22,56,4,Juventus,Zenit,Group H,4.0,2.0,2.0,H,Juventus,,
+2021-22,57,4,Milan,Porto,Group B,1.0,1.0,0.0,D,Draw,,
+2021-22,58,4,Real Madrid,Shakhtar Donetsk,Group D,2.0,1.0,1.0,H,Real Madrid,,
+2021-22,59,4,Man. City,Club Brugge,Group A,4.0,1.0,3.0,H,Man. City,,
+2021-22,60,4,Leipzig,Paris,Group A,2.0,2.0,0.0,D,Draw,,
+2021-22,61,4,Liverpool,Atlético,Group B,2.0,0.0,2.0,H,Liverpool,,
+2021-22,62,4,Sporting CP,Besiktas,Group C,4.0,0.0,4.0,H,Sporting CP,,
+2021-22,63,4,Dortmund,Ajax,Group C,1.0,3.0,-2.0,A,Ajax,,
+2021-22,64,4,Sheriff,Inter,Group D,1.0,3.0,-2.0,A,Inter,,
+2021-22,65,5,Dynamo Kyiv,Bayern,Group E,1.0,2.0,-1.0,A,Bayern,,
+2021-22,66,5,Villarreal,Man. United,Group F,0.0,2.0,-2.0,A,Man. United,,
+2021-22,67,5,Barcelona,Benfica,Group E,0.0,0.0,0.0,D,Draw,,
+2021-22,68,5,Young Boys,Atalanta,Group F,3.0,3.0,0.0,D,Draw,,
+2021-22,69,5,LOSC,Salzburg,Group G,1.0,0.0,1.0,H,LOSC,,
+2021-22,70,5,Sevilla,Wolfsburg,Group G,2.0,0.0,2.0,H,Sevilla,,
+2021-22,71,5,Malmö,Zenit,Group H,1.0,1.0,0.0,D,Draw,,
+2021-22,72,5,Chelsea,Juventus,Group H,4.0,0.0,4.0,H,Chelsea,,
+2021-22,73,5,Besiktas,Ajax,Group C,1.0,2.0,-1.0,A,Ajax,,
+2021-22,74,5,Inter,Shakhtar Donetsk,Group D,2.0,0.0,2.0,H,Inter,,
+2021-22,75,5,Club Brugge,Leipzig,Group A,0.0,5.0,-5.0,A,Leipzig,,
+2021-22,76,5,Man. City,Paris,Group A,2.0,1.0,1.0,H,Man. City,,
+2021-22,77,5,Atlético,Milan,Group B,0.0,1.0,-1.0,A,Milan,,
+2021-22,78,5,Liverpool,Porto,Group B,2.0,0.0,2.0,H,Liverpool,,
+2021-22,79,5,Sporting CP,Dortmund,Group C,3.0,1.0,2.0,H,Sporting CP,,
+2021-22,80,5,Sheriff,Real Madrid,Group D,0.0,3.0,-3.0,A,Real Madrid,,
+2021-22,81,6,Paris,Club Brugge,Group A,4.0,1.0,3.0,H,Paris,,
+2021-22,82,6,Leipzig,Man. City,Group A,2.0,1.0,1.0,H,Leipzig,,
+2021-22,83,6,Milan,Liverpool,Group B,1.0,2.0,-1.0,A,Liverpool,,
+2021-22,84,6,Porto,Atlético,Group B,1.0,3.0,-2.0,A,Atlético,,
+2021-22,85,6,Dortmund,Besiktas,Group C,5.0,0.0,5.0,H,Dortmund,,
+2021-22,86,6,Ajax,Sporting CP,Group C,4.0,2.0,2.0,H,Ajax,,
+2021-22,87,6,Real Madrid,Inter,Group D,2.0,0.0,2.0,H,Real Madrid,,
+2021-22,88,6,Shakhtar Donetsk,Sheriff,Group D,1.0,1.0,0.0,D,Draw,,
+2021-22,89,6,Juventus,Malmö,Group H,1.0,0.0,1.0,H,Juventus,,
+2021-22,90,6,Zenit,Chelsea,Group H,3.0,3.0,0.0,D,Draw,,
+2021-22,91,6,Benfica,Dynamo Kyiv,Group E,2.0,0.0,2.0,H,Benfica,,
+2021-22,92,6,Bayern,Barcelona,Group E,3.0,0.0,3.0,H,Bayern,,
+2021-22,93,6,Man. United,Young Boys,Group F,1.0,1.0,0.0,D,Draw,,
+2021-22,95,6,Salzburg,Sevilla,Group G,1.0,0.0,1.0,H,Salzburg,,
+2021-22,96,6,Wolfsburg,LOSC,Group G,1.0,3.0,-2.0,A,LOSC,,
+2021-22,94,6,Atalanta,Villarreal,Group F,2.0,3.0,-1.0,A,Villarreal,,
+2021-22,97,7,Paris,Real Madrid,,1.0,0.0,1.0,H,Paris,0-1,Real Madrid
+2021-22,98,7,Sporting CP,Man. City,,0.0,5.0,-5.0,A,Man. City,1-3,Man City
+2021-22,99,7,Inter,Liverpool,,0.0,2.0,-2.0,A,Liverpool,1-0,Bayern
+2021-22,100,7,Salzburg,Bayern,,1.0,1.0,0.0,D,Draw,2-0,Paris
+2021-22,101,7,Villarreal,Juventus,,1.0,1.0,0.0,D,Draw,1-0,Inter
+2021-22,102,7,Chelsea,LOSC,,2.0,0.0,2.0,H,Chelsea,1-1,Dortmund
+2021-22,103,7,Atlético,Man. United,,1.0,1.0,0.0,D,Draw,1-0,
+2021-22,104,7,Benfica,Ajax,,2.0,2.0,0.0,D,Draw,1-1,Barcelona
+2021-22,105,8,Bayern,Salzburg,,7.0,1.0,6.0,H,Bayern,1-3,Bayern
+2021-22,106,8,Liverpool,Inter,,0.0,1.0,-1.0,A,Inter,4-1,Paris
+2021-22,107,8,Man. City,Sporting CP,,0.0,0.0,0.0,D,Draw,1-2,Real Madrid
+2021-22,108,8,Real Madrid,Paris,,3.0,1.0,2.0,H,Real Madrid,2-6,Man City
+2021-22,109,8,Ajax,Benfica,,0.0,1.0,-1.0,A,Benfica,1-1,
+2021-22,110,8,Man. United,Atlético,,0.0,1.0,-1.0,A,Atlético,2-4,Barcelona
+2021-22,111,8,LOSC,Chelsea,,1.0,2.0,-1.0,A,Chelsea,2-2,Inter
+2021-22,112,8,Juventus,Villarreal,,0.0,3.0,-3.0,A,Villarreal,1-3,Dortmund
+2021-22,113,9,Man. City,Atlético,,1.0,0.0,1.0,H,Man. City,2-2,Bayern
+2021-22,114,9,Benfica,Liverpool,,1.0,3.0,-2.0,A,Liverpool,3-3,Man City
+2021-22,115,9,Chelsea,Real Madrid,,1.0,3.0,-2.0,A,Real Madrid,2-1,Dortmund
+2021-22,116,9,Villarreal,Bayern,,1.0,0.0,1.0,H,Villarreal,2-3,Paris
+2021-22,117,10,Bayern,Villarreal,,1.0,1.0,0.0,D,Draw,6-4,Paris
+2021-22,118,10,Real Madrid,Chelsea,,2.0,3.0,-1.0,A,Chelsea,4-5,Dortmund
+2021-22,119,10,Liverpool,Benfica,,3.0,3.0,0.0,D,Draw,4-4,Man City
+2021-22,120,10,Atlético,Man. City,,0.0,0.0,0.0,D,Draw,2-3,Bayern
+2021-22,121,11,Man. City,Real Madrid,,4.0,3.0,1.0,H,Man. City,2-2,Real Madrid
+2021-22,122,11,Liverpool,Villarreal,,2.0,0.0,2.0,H,Liverpool,1-0,Dortmund
+2021-22,123,12,Villarreal,Liverpool,,2.0,3.0,-1.0,A,Liverpool,2-0,Dortmund
+2021-22,124,12,Real Madrid,Man. City,,3.0,1.0,2.0,H,Real Madrid,3-4,Real Madrid
+2021-22,125,13,Liverpool,Real Madrid,,0.0,1.0,-1.0,A,Real Madrid,,
+2022-23,1,1,Dinamo Zagreb,Chelsea,Group E,1.0,0.0,1.0,H,Dinamo Zagreb,,
+2022-23,2,1,Dortmund,Copenhagen,Group G,3.0,0.0,3.0,H,Dortmund,,
+2022-23,3,1,Salzburg,Milan,Group E,1.0,1.0,0.0,D,Draw,,
+2022-23,4,1,Celtic,Real Madrid,Group F,0.0,3.0,-3.0,A,Real Madrid,,
+2022-23,5,1,Leipzig,Shakhtar Donetsk,Group F,1.0,4.0,-3.0,A,Shakhtar Donetsk,,
+2022-23,6,1,Sevilla,Man City,Group G,0.0,4.0,-4.0,A,Man City,,
+2022-23,7,1,Paris,Juventus,Group H,2.0,1.0,1.0,H,Paris,,
+2022-23,8,1,Benfica,M. Haifa,Group H,2.0,0.0,2.0,H,Benfica,,
+2022-23,9,1,Ajax,Rangers,Group A,4.0,0.0,4.0,H,Ajax,,
+2022-23,10,1,Frankfurt,Sporting CP,Group D,0.0,3.0,-3.0,A,Sporting CP,,
+2022-23,11,1,Napoli,Liverpool,Group A,4.0,1.0,3.0,H,Napoli,,
+2022-23,12,1,Atlético,Porto,Group B,2.0,1.0,1.0,H,Atlético,,
+2022-23,13,1,Club Brugge,Leverkusen,Group B,1.0,0.0,1.0,H,Club Brugge,,
+2022-23,14,1,Barcelona,Plzen,Group C,5.0,1.0,4.0,H,Barcelona,,
+2022-23,15,1,Inter,Bayern,Group C,0.0,2.0,-2.0,A,Bayern,,
+2022-23,16,1,Tottenham,Marseille,Group D,2.0,0.0,2.0,H,Tottenham,,
+2022-23,17,2,Plzen,Inter,Group C,0.0,2.0,-2.0,A,Inter,,
+2022-23,18,2,Sporting CP,Tottenham,Group D,2.0,0.0,2.0,H,Sporting CP,,
+2022-23,19,2,Liverpool,Ajax,Group A,2.0,1.0,1.0,H,Liverpool,,
+2022-23,21,2,Porto,Club Brugge,Group B,0.0,4.0,-4.0,A,Club Brugge,,
+2022-23,22,2,Leverkusen,Atlético,Group B,2.0,0.0,2.0,H,Leverkusen,,
+2022-23,23,2,Bayern,Barcelona,Group C,2.0,0.0,2.0,H,Bayern,,
+2022-23,24,2,Marseille,Frankfurt,Group D,0.0,1.0,-1.0,A,Frankfurt,,
+2022-23,25,2,Milan,Dinamo Zagreb,Group E,3.0,1.0,2.0,H,Milan,,
+2022-23,26,2,Shakhtar Donetsk,Celtic,Group F,1.0,1.0,0.0,D,Draw,,
+2022-23,20,2,Rangers,Napoli,Group A,0.0,3.0,-3.0,A,Napoli,,
+2022-23,27,2,Chelsea,Salzburg,Group E,1.0,1.0,0.0,D,Draw,,
+2022-23,28,2,Real Madrid,Leipzig,Group F,2.0,0.0,2.0,H,Real Madrid,,
+2022-23,29,2,Man City,Dortmund,Group G,2.0,1.0,1.0,H,Man City,,
+2022-23,30,2,Copenhagen,Sevilla,Group G,0.0,0.0,0.0,D,Draw,,
+2022-23,31,2,Juventus,Benfica,Group H,1.0,2.0,-1.0,A,Benfica,,
+2022-23,32,2,M. Haifa,Paris,Group H,1.0,3.0,-2.0,A,Paris,,
+2022-23,33,3,Bayern,Plzen,Group C,5.0,0.0,5.0,H,Bayern,,
+2022-23,34,3,Marseille,Sporting CP,Group D,4.0,1.0,3.0,H,Marseille,,
+2022-23,35,3,Liverpool,Rangers,Group A,2.0,0.0,2.0,H,Liverpool,,
+2022-23,36,3,Ajax,Napoli,Group A,1.0,6.0,-5.0,A,Napoli,,
+2022-23,37,3,Porto,Leverkusen,Group B,2.0,0.0,2.0,H,Porto,,
+2022-23,38,3,Club Brugge,Atlético,Group B,2.0,0.0,2.0,H,Club Brugge,,
+2022-23,39,3,Inter,Barcelona,Group C,1.0,0.0,1.0,H,Inter,,
+2022-23,40,3,Frankfurt,Tottenham,Group D,0.0,0.0,0.0,D,Draw,,
+2022-23,41,3,Salzburg,Dinamo Zagreb,Group E,1.0,0.0,1.0,H,Salzburg,,
+2022-23,42,3,Leipzig,Celtic,Group F,3.0,1.0,2.0,H,Leipzig,,
+2022-23,43,3,Chelsea,Milan,Group E,3.0,0.0,3.0,H,Chelsea,,
+2022-23,44,3,Real Madrid,Shakhtar Donetsk,Group F,2.0,1.0,1.0,H,Real Madrid,,
+2022-23,45,3,Man City,Copenhagen,Group G,5.0,0.0,5.0,H,Man City,,
+2022-23,46,3,Sevilla,Dortmund,Group G,1.0,4.0,-3.0,A,Dortmund,,
+2022-23,47,3,Juventus,M. Haifa,Group H,3.0,1.0,2.0,H,Juventus,,
+2022-23,48,3,Benfica,Paris,Group H,1.0,1.0,0.0,D,Draw,,
+2022-23,49,4,Copenhagen,Man City,Group G,0.0,0.0,0.0,D,Draw,,
+2022-23,50,4,M. Haifa,Juventus,Group H,2.0,0.0,2.0,H,M. Haifa,,
+2022-23,51,4,Dinamo Zagreb,Salzburg,Group E,1.0,1.0,0.0,D,Draw,,
+2022-23,52,4,Milan,Chelsea,Group E,0.0,2.0,-2.0,A,Chelsea,,
+2022-23,53,4,Shakhtar Donetsk,Real Madrid,Group F,1.0,1.0,0.0,D,Draw,,
+2022-23,54,4,Celtic,Leipzig,Group F,0.0,2.0,-2.0,A,Leipzig,,
+2022-23,55,4,Dortmund,Sevilla,Group G,1.0,1.0,0.0,D,Draw,,
+2022-23,56,4,Paris,Benfica,Group H,1.0,1.0,0.0,D,Draw,,
+2022-23,57,4,Napoli,Ajax,Group A,4.0,2.0,2.0,H,Napoli,,
+2022-23,58,4,Atlético,Club Brugge,Group B,0.0,0.0,0.0,D,Draw,,
+2022-23,59,4,Rangers,Liverpool,Group A,1.0,7.0,-6.0,A,Liverpool,,
+2022-23,60,4,Leverkusen,Porto,Group B,0.0,3.0,-3.0,A,Porto,,
+2022-23,61,4,Barcelona,Inter,Group C,3.0,3.0,0.0,D,Draw,,
+2022-23,62,4,Plzen,Bayern,Group C,2.0,4.0,-2.0,A,Bayern,,
+2022-23,63,4,Tottenham,Frankfurt,Group D,3.0,2.0,1.0,H,Tottenham,,
+2022-23,64,4,Sporting CP,Marseille,Group D,0.0,2.0,-2.0,A,Marseille,,
+2022-23,65,5,Salzburg,Chelsea,Group E,1.0,2.0,-1.0,A,Chelsea,,
+2022-23,66,5,Sevilla,Copenhagen,Group G,3.0,0.0,3.0,H,Sevilla,,
+2022-23,67,5,Dinamo Zagreb,Milan,Group E,0.0,4.0,-4.0,A,Milan,,
+2022-23,68,5,Celtic,Shakhtar Donetsk,Group F,1.0,1.0,0.0,D,Draw,,
+2022-23,69,5,Leipzig,Real Madrid,Group F,3.0,2.0,1.0,H,Leipzig,,
+2022-23,70,5,Dortmund,Man City,Group G,0.0,0.0,0.0,D,Draw,,
+2022-23,71,5,Paris,M. Haifa,Group H,7.0,2.0,5.0,H,Paris,,
+2022-23,72,5,Benfica,Juventus,Group H,4.0,3.0,1.0,H,Benfica,,
+2022-23,73,5,Club Brugge,Porto,Group B,0.0,4.0,-4.0,A,Porto,,
+2022-23,74,5,Inter,Plzen,Group C,4.0,0.0,4.0,H,Inter,,
+2022-23,75,5,Napoli,Rangers,Group A,3.0,0.0,3.0,H,Napoli,,
+2022-23,76,5,Ajax,Liverpool,Group A,0.0,3.0,-3.0,A,Liverpool,,
+2022-23,77,5,Atlético,Leverkusen,Group B,2.0,2.0,0.0,D,Draw,,
+2022-23,78,5,Barcelona,Bayern,Group C,0.0,3.0,-3.0,A,Bayern,,
+2022-23,79,5,Tottenham,Sporting CP,Group D,1.0,1.0,0.0,D,Draw,,
+2022-23,80,5,Frankfurt,Marseille,Group D,2.0,1.0,1.0,H,Frankfurt,,
+2022-23,81,6,Porto,Atlético,Group B,2.0,1.0,1.0,H,Porto,,
+2022-23,82,6,Leverkusen,Club Brugge,Group B,0.0,0.0,0.0,D,Draw,,
+2022-23,83,6,Liverpool,Napoli,Group A,2.0,0.0,2.0,H,Liverpool,,
+2022-23,84,6,Rangers,Ajax,Group A,1.0,3.0,-2.0,A,Ajax,,
+2022-23,85,6,Bayern,Inter,Group C,2.0,0.0,2.0,H,Bayern,,
+2022-23,86,6,Plzen,Barcelona,Group C,2.0,4.0,-2.0,A,Barcelona,,
+2022-23,87,6,Sporting CP,Frankfurt,Group D,1.0,2.0,-1.0,A,Frankfurt,,
+2022-23,88,6,Marseille,Tottenham,Group D,1.0,2.0,-1.0,A,Tottenham,,
+2022-23,89,6,Real Madrid,Celtic,Group F,5.0,1.0,4.0,H,Real Madrid,,
+2022-23,90,6,Shakhtar Donetsk,Leipzig,Group F,0.0,4.0,-4.0,A,Leipzig,,
+2022-23,91,6,Chelsea,Dinamo Zagreb,Group E,2.0,1.0,1.0,H,Chelsea,,
+2022-23,92,6,Milan,Salzburg,Group E,4.0,0.0,4.0,H,Milan,,
+2022-23,93,6,Man City,Sevilla,Group G,3.0,1.0,2.0,H,Man City,,
+2022-23,94,6,Copenhagen,Dortmund,Group G,1.0,1.0,0.0,D,Draw,,
+2022-23,95,6,Juventus,Paris,Group H,1.0,2.0,-1.0,A,Paris,,
+2022-23,96,6,M. Haifa,Benfica,Group H,1.0,6.0,-5.0,A,Benfica,,
+2022-23,97,7,Milan,Tottenham,,1.0,0.0,1.0,H,Milan,0-1,Real Madrid
+2022-23,98,7,Paris,Bayern,,0.0,1.0,-1.0,A,Bayern,1-3,Man City
+2022-23,99,7,Club Brugge,Benfica,,0.0,2.0,-2.0,A,Benfica,1-0,Bayern
+2022-23,100,7,Dortmund,Chelsea,,1.0,0.0,1.0,H,Dortmund,2-0,Paris
+2022-23,101,7,Liverpool,Real Madrid,,2.0,5.0,-3.0,A,Real Madrid,1-0,Inter
+2022-23,102,7,Frankfurt,Napoli,,0.0,2.0,-2.0,A,Napoli,1-1,Dortmund
+2022-23,103,7,Leipzig,Man City,,1.0,1.0,0.0,D,Draw,1-0,
+2022-23,104,7,Inter,Porto,,1.0,0.0,1.0,H,Inter,1-1,Barcelona
+2022-23,105,8,Benfica,Club Brugge,,5.0,1.0,4.0,H,Benfica,1-3,Bayern
+2022-23,106,8,Chelsea,Dortmund,,2.0,0.0,2.0,H,Chelsea,4-1,Paris
+2022-23,108,8,Bayern,Paris,,2.0,0.0,2.0,H,Bayern,2-6,Man City
+2022-23,107,8,Tottenham,Milan,,0.0,0.0,0.0,D,Draw,1-2,Real Madrid
+2022-23,109,8,Man City,Leipzig,,7.0,0.0,7.0,H,Man City,1-1,
+2022-23,110,8,Porto,Inter,,0.0,0.0,0.0,D,Draw,2-4,Barcelona
+2022-23,111,8,Real Madrid,Liverpool,,1.0,0.0,1.0,H,Real Madrid,2-2,Inter
+2022-23,112,8,Napoli,Frankfurt,,3.0,0.0,3.0,H,Napoli,1-3,Dortmund
+2022-23,113,9,Benfica,Inter,,0.0,2.0,-2.0,A,Inter,2-2,Bayern
+2022-23,114,9,Man City,Bayern,,3.0,0.0,3.0,H,Man City,3-3,Man City
+2022-23,115,9,Real Madrid,Chelsea,,2.0,0.0,2.0,H,Real Madrid,2-1,Dortmund
+2022-23,116,9,Milan,Napoli,,1.0,0.0,1.0,H,Milan,2-3,Paris
+2022-23,117,10,Napoli,Milan,,1.0,1.0,0.0,D,Draw,6-4,Paris
+2022-23,118,10,Chelsea,Real Madrid,,0.0,2.0,-2.0,A,Real Madrid,4-5,Dortmund
+2022-23,119,10,Bayern,Man City,,1.0,1.0,0.0,D,Draw,4-4,Man City
+2022-23,120,10,Inter,Benfica,,3.0,3.0,0.0,D,Draw,2-3,Bayern
+2022-23,121,11,Real Madrid,Man City,,1.0,1.0,0.0,D,Draw,2-2,Real Madrid
+2022-23,122,11,Milan,Inter,,0.0,2.0,-2.0,A,Inter,1-0,Dortmund
+2022-23,123,12,Inter,Milan,,1.0,0.0,1.0,H,Inter,2-0,Dortmund
+2022-23,124,12,Man City,Real Madrid,,4.0,0.0,4.0,H,Man City,3-4,Real Madrid
+2022-23,125,13,Man City,Inter,,1.0,0.0,1.0,H,Man City,,
+2023-24,1,1,Milan,Newcastle,Group F,0.0,0.0,0.0,D,Draw,,
+2023-24,2,1,Young Boys,Leipzig,Group G,1.0,3.0,-2.0,A,Leipzig,,
+2023-24,3,1,Feyenoord,Celtic,Group E,2.0,0.0,2.0,H,Feyenoord,,
+2023-24,4,1,Lazio,Atlético de Madrid,Group E,1.0,1.0,0.0,D,Draw,,
+2023-24,5,1,Paris,Dortmund,Group F,2.0,0.0,2.0,H,Paris,,
+2023-24,6,1,Man City,Crvena zvezda,Group G,3.0,1.0,2.0,H,Man City,,
+2023-24,7,1,Barcelona,Antwerp,Group H,5.0,0.0,5.0,H,Barcelona,,
+2023-24,8,1,Shakhtar Donetsk,FC Porto,Group H,1.0,3.0,-2.0,A,FC Porto,,
+2023-24,9,1,Galatasaray,Copenhagen,Group A,2.0,2.0,0.0,D,Draw,,
+2023-24,10,1,Real Madrid,Union Berlin,Group C,1.0,0.0,1.0,H,Real Madrid,,
+2023-24,11,1,Bayern,Man United,Group A,4.0,3.0,1.0,H,Bayern,,
+2023-24,12,1,Sevilla,Lens,Group B,1.0,1.0,0.0,D,Draw,,
+2023-24,13,1,Arsenal,PSV,Group B,4.0,0.0,4.0,H,Arsenal,,
+2023-24,14,1,Braga,Napoli,Group C,1.0,2.0,-1.0,A,Napoli,,
+2023-24,15,1,Real Sociedad,Inter,Group D,1.0,1.0,0.0,D,Draw,,
+2023-24,16,1,Benfica,Salzburg,Group D,0.0,2.0,-2.0,A,Salzburg,,
+2023-24,17,2,Union Berlin,Braga,Group C,2.0,3.0,-1.0,A,Braga,,
+2023-24,18,2,Salzburg,Real Sociedad,Group D,0.0,2.0,-2.0,A,Real Sociedad,,
+2023-24,19,2,Man United,Galatasaray,Group A,2.0,3.0,-1.0,A,Galatasaray,,
+2023-24,20,2,Copenhagen,Bayern,Group A,1.0,2.0,-1.0,A,Bayern,,
+2023-24,21,2,Lens,Arsenal,Group B,2.0,1.0,1.0,H,Lens,,
+2023-24,22,2,PSV,Sevilla,Group B,2.0,2.0,0.0,D,Draw,,
+2023-24,23,2,Napoli,Real Madrid,Group C,2.0,3.0,-1.0,A,Real Madrid,,
+2023-24,24,2,Inter,Benfica,Group D,1.0,0.0,1.0,H,Inter,,
+2023-24,25,2,Atlético de Madrid,Feyenoord,Group E,3.0,2.0,1.0,H,Atlético de Madrid,,
+2023-24,26,2,Antwerp,Shakhtar Donetsk,Group H,2.0,3.0,-1.0,A,Shakhtar Donetsk,,
+2023-24,27,2,Celtic,Lazio,Group E,1.0,2.0,-1.0,A,Lazio,,
+2023-24,28,2,Dortmund,Milan,Group F,0.0,0.0,0.0,D,Draw,,
+2023-24,29,2,Newcastle,Paris,Group F,4.0,1.0,3.0,H,Newcastle,,
+2023-24,30,2,Leipzig,Man City,Group G,1.0,3.0,-2.0,A,Man City,,
+2023-24,31,2,Crvena zvezda,Young Boys,Group G,2.0,2.0,0.0,D,Draw,,
+2023-24,32,2,FC Porto,Barcelona,Group H,0.0,1.0,-1.0,A,Barcelona,,
+2023-24,33,3,Galatasaray,Bayern,Group A,1.0,3.0,-2.0,A,Bayern,,
+2023-24,34,3,Inter,Salzburg,Group D,2.0,1.0,1.0,H,Inter,,
+2023-24,35,3,Man United,Copenhagen,Group A,1.0,0.0,1.0,H,Man United,,
+2023-24,36,3,Sevilla,Arsenal,Group B,1.0,2.0,-1.0,A,Arsenal,,
+2023-24,37,3,Lens,PSV,Group B,1.0,1.0,0.0,D,Draw,,
+2023-24,38,3,Braga,Real Madrid,Group C,1.0,2.0,-1.0,A,Real Madrid,,
+2023-24,39,3,Union Berlin,Napoli,Group C,0.0,1.0,-1.0,A,Napoli,,
+2023-24,40,3,Benfica,Real Sociedad,Group D,0.0,1.0,-1.0,A,Real Sociedad,,
+2023-24,41,3,Feyenoord,Lazio,Group E,3.0,1.0,2.0,H,Feyenoord,,
+2023-24,42,3,Barcelona,Shakhtar Donetsk,Group H,2.0,1.0,1.0,H,Barcelona,,
+2023-24,43,3,Celtic,Atlético de Madrid,Group E,2.0,2.0,0.0,D,Draw,,
+2023-24,44,3,Paris,Milan,Group F,3.0,0.0,3.0,H,Paris,,
+2023-24,45,3,Newcastle,Dortmund,Group F,0.0,1.0,-1.0,A,Dortmund,,
+2023-24,46,3,Leipzig,Crvena zvezda,Group G,3.0,1.0,2.0,H,Leipzig,,
+2023-24,47,3,Young Boys,Man City,Group G,1.0,3.0,-2.0,A,Man City,,
+2023-24,48,3,Antwerp,FC Porto,Group H,1.0,4.0,-3.0,A,FC Porto,,
+2023-24,49,4,Dortmund,Newcastle,Group F,2.0,0.0,2.0,H,Dortmund,,
+2023-24,50,4,Shakhtar Donetsk,Barcelona,Group H,1.0,0.0,1.0,H,Shakhtar Donetsk,,
+2023-24,51,4,Atlético de Madrid,Celtic,Group E,6.0,0.0,6.0,H,Atlético de Madrid,,
+2023-24,52,4,Lazio,Feyenoord,Group E,1.0,0.0,1.0,H,Lazio,,
+2023-24,53,4,Milan,Paris,Group F,2.0,1.0,1.0,H,Milan,,
+2023-24,54,4,Man City,Young Boys,Group G,3.0,0.0,3.0,H,Man City,,
+2023-24,55,4,Crvena zvezda,Leipzig,Group G,1.0,2.0,-1.0,A,Leipzig,,
+2023-24,56,4,FC Porto,Antwerp,Group H,2.0,0.0,2.0,H,FC Porto,,
+2023-24,57,4,Napoli,Union Berlin,Group C,1.0,1.0,0.0,D,Draw,,
+2023-24,58,4,Real Sociedad,Benfica,Group D,3.0,1.0,2.0,H,Real Sociedad,,
+2023-24,59,4,Bayern,Galatasaray,Group A,2.0,1.0,1.0,H,Bayern,,
+2023-24,60,4,Copenhagen,Man United,Group A,4.0,3.0,1.0,H,Copenhagen,,
+2023-24,61,4,Arsenal,Sevilla,Group B,2.0,0.0,2.0,H,Arsenal,,
+2023-24,62,4,PSV,Lens,Group B,1.0,0.0,1.0,H,PSV,,
+2023-24,63,4,Real Madrid,Braga,Group C,3.0,0.0,3.0,H,Real Madrid,,
+2023-24,64,4,Salzburg,Inter,Group D,0.0,1.0,-1.0,A,Inter,,
+2023-24,65,5,Lazio,Celtic,Group E,2.0,0.0,2.0,H,Lazio,,
+2023-24,66,5,Shakhtar Donetsk,Antwerp,Group H,1.0,0.0,1.0,H,Shakhtar Donetsk,,
+2023-24,67,5,Feyenoord,Atlético de Madrid,Group E,1.0,3.0,-2.0,A,Atlético de Madrid,,
+2023-24,68,5,Paris,Newcastle,Group F,1.0,1.0,0.0,D,Draw,,
+2023-24,69,5,Milan,Dortmund,Group F,1.0,3.0,-2.0,A,Dortmund,,
+2023-24,70,5,Man City,Leipzig,Group G,3.0,2.0,1.0,H,Man City,,
+2023-24,71,5,Young Boys,Crvena zvezda,Group G,2.0,0.0,2.0,H,Young Boys,,
+2023-24,72,5,Barcelona,FC Porto,Group H,2.0,1.0,1.0,H,Barcelona,,
+2023-24,73,5,Galatasaray,Man United,Group A,3.0,3.0,0.0,D,Draw,,
+2023-24,74,5,Sevilla,PSV,Group B,2.0,3.0,-1.0,A,PSV,,
+2023-24,75,5,Bayern,Copenhagen,Group A,0.0,0.0,0.0,D,Draw,,
+2023-24,76,5,Arsenal,Lens,Group B,6.0,0.0,6.0,H,Arsenal,,
+2023-24,77,5,Real Madrid,Napoli,Group C,4.0,2.0,2.0,H,Real Madrid,,
+2023-24,78,5,Braga,Union Berlin,Group C,1.0,1.0,0.0,D,Draw,,
+2023-24,79,5,Benfica,Inter,Group D,3.0,3.0,0.0,D,Draw,,
+2023-24,80,5,Real Sociedad,Salzburg,Group D,0.0,0.0,0.0,D,Draw,,
+2023-24,81,6,Lens,Sevilla,Group B,2.0,1.0,1.0,H,Lens,,
+2023-24,82,6,PSV,Arsenal,Group B,1.0,1.0,0.0,D,Draw,,
+2023-24,83,6,Man United,Bayern,Group A,0.0,1.0,-1.0,A,Bayern,,
+2023-24,84,6,Copenhagen,Galatasaray,Group A,1.0,0.0,1.0,H,Copenhagen,,
+2023-24,85,6,Napoli,Braga,Group C,2.0,0.0,2.0,H,Napoli,,
+2023-24,86,6,Union Berlin,Real Madrid,Group C,2.0,3.0,-1.0,A,Real Madrid,,
+2023-24,87,6,Inter,Real Sociedad,Group D,0.0,0.0,0.0,D,Draw,,
+2023-24,88,6,Salzburg,Benfica,Group D,1.0,3.0,-2.0,A,Benfica,,
+2023-24,89,6,Leipzig,Young Boys,Group G,2.0,1.0,1.0,H,Leipzig,,
+2023-24,90,6,Crvena zvezda,Man City,Group G,2.0,3.0,-1.0,A,Man City,,
+2023-24,91,6,Atlético de Madrid,Lazio,Group E,2.0,0.0,2.0,H,Atlético de Madrid,,
+2023-24,92,6,Celtic,Feyenoord,Group E,2.0,1.0,1.0,H,Celtic,,
+2023-24,93,6,Dortmund,Paris,Group F,1.0,1.0,0.0,D,Draw,,
+2023-24,94,6,Newcastle,Milan,Group F,1.0,2.0,-1.0,A,Milan,,
+2023-24,95,6,FC Porto,Shakhtar Donetsk,Group H,5.0,3.0,2.0,H,FC Porto,,
+2023-24,96,6,Antwerp,Barcelona,Group H,3.0,2.0,1.0,H,Antwerp,,
+2023-24,97,7,Leipzig,Real Madrid,,0.0,1.0,-1.0,A,Real Madrid,0-1,Real Madrid
+2023-24,98,7,Copenhagen,Man City,,1.0,3.0,-2.0,A,Man City,1-3,Man City
+2023-24,99,7,Lazio,Bayern,,1.0,0.0,1.0,H,Lazio,1-0,Bayern
+2023-24,100,7,Paris,Real Sociedad,,2.0,0.0,2.0,H,Paris,2-0,Paris
+2023-24,101,7,Inter,Atlético de Madrid,,1.0,0.0,1.0,H,Inter,1-0,Inter
+2023-24,102,7,PSV,Dortmund,,1.0,1.0,0.0,D,Draw,1-1,Dortmund
+2023-24,103,7,FC Porto,Arsenal,,1.0,0.0,1.0,H,FC Porto,1-0,
+2023-24,104,7,Napoli,Barcelona,,1.0,1.0,0.0,D,Draw,1-1,Barcelona
+2023-24,105,8,Bayern,Lazio,,3.0,0.0,3.0,H,Bayern,1-3,Bayern
+2023-24,106,8,Real Sociedad,Paris,,1.0,2.0,-1.0,A,Paris,4-1,Paris
+2023-24,107,8,Real Madrid,Leipzig,,1.0,1.0,0.0,D,Draw,1-2,Real Madrid
+2023-24,108,8,Man City,Copenhagen,,3.0,1.0,2.0,H,Man City,2-6,Man City
+2023-24,109,8,Arsenal,FC Porto,,1.0,0.0,1.0,H,Arsenal,1-1,
+2023-24,110,8,Barcelona,Napoli,,3.0,1.0,2.0,H,Barcelona,2-4,Barcelona
+2023-24,111,8,Atlético de Madrid,Inter,,2.0,1.0,1.0,H,Atlético de Madrid,2-2,Inter
+2023-24,112,8,Dortmund,PSV,,2.0,0.0,2.0,H,Dortmund,1-3,Dortmund
+2023-24,113,9,Arsenal,Bayern,,2.0,2.0,0.0,D,Draw,2-2,Bayern
+2023-24,114,9,Real Madrid,Man City,,3.0,3.0,0.0,D,Draw,3-3,Man City
+2023-24,115,9,Atlético de Madrid,Dortmund,,2.0,1.0,1.0,H,Atlético de Madrid,2-1,Dortmund
+2023-24,116,9,Paris,Barcelona,,2.0,3.0,-1.0,A,Barcelona,2-3,Paris
+2023-24,117,10,Barcelona,Paris,,1.0,4.0,-3.0,A,Paris,6-4,Paris
+2023-24,118,10,Dortmund,Atlético de Madrid,,4.0,2.0,2.0,H,Dortmund,4-5,Dortmund
+2023-24,119,10,Man City,Real Madrid,,1.0,1.0,0.0,D,Draw,4-4,Man City
+2023-24,120,10,Bayern,Arsenal,,1.0,0.0,1.0,H,Bayern,2-3,Bayern
+2023-24,121,11,Bayern,Real Madrid,,2.0,2.0,0.0,D,Draw,2-2,Real Madrid
+2023-24,122,11,Dortmund,Paris,,1.0,0.0,1.0,H,Dortmund,1-0,Dortmund
+2023-24,123,12,Paris,Dortmund,,0.0,1.0,-1.0,A,Dortmund,2-0,Dortmund
+2023-24,124,12,Real Madrid,Bayern,,2.0,1.0,1.0,H,Real Madrid,3-4,Real Madrid
+2023-24,125,13,Dortmund,Real Madrid,,0.0,2.0,-2.0,A,Real Madrid,,
+2024-25,1,1,Juventus,PSV,,3.0,1.0,2.0,H,Juventus,,
+2024-25,2,1,Young Boys,Aston Villa,,0.0,3.0,-3.0,A,Aston Villa,,
+2024-25,3,1,Bayern München,GNK Dinamo,,9.0,2.0,7.0,H,Bayern München,,
+2024-25,4,1,Milan,Liverpool,,1.0,3.0,-2.0,A,Liverpool,,
+2024-25,5,1,Real Madrid,Stuttgart,,3.0,1.0,2.0,H,Real Madrid,,
+2024-25,6,1,Sporting CP,Lille,,2.0,0.0,2.0,H,Sporting CP,,
+2024-25,7,1,Bologna,Shakhtar,,0.0,0.0,0.0,D,Draw,,
+2024-25,8,1,Sparta Praha,Salzburg,,3.0,0.0,3.0,H,Sparta Praha,,
+2024-25,9,1,Club Brugge,B. Dortmund,,0.0,3.0,-3.0,A,B. Dortmund,,
+2024-25,10,1,Celtic,S. Bratislava,,5.0,1.0,4.0,H,Celtic,,
+2024-25,11,1,Man City,Inter,,0.0,0.0,0.0,D,Draw,,
+2024-25,12,1,Paris,Girona,,1.0,0.0,1.0,H,Paris,,
+2024-25,13,1,Crvena Zvezda,Benfica,,1.0,2.0,-1.0,A,Benfica,,
+2024-25,14,1,Feyenoord,Leverkusen,,0.0,4.0,-4.0,A,Leverkusen,,
+2024-25,15,1,Atalanta,Arsenal,,0.0,0.0,0.0,D,Draw,,
+2024-25,16,1,Atleti,Leipzig,,2.0,1.0,1.0,H,Atleti,,
+2024-25,17,1,Monaco,Barcelona,,2.0,1.0,1.0,H,Monaco,,
+2024-25,18,1,Brest,Sturm Graz,,2.0,1.0,1.0,H,Brest,,
+2024-25,19,2,Salzburg,Brest,,0.0,4.0,-4.0,A,Brest,,
+2024-25,20,2,Stuttgart,Sparta Praha,,1.0,1.0,0.0,D,Draw,,
+2024-25,21,2,Inter,Crvena Zvezda,,4.0,0.0,4.0,H,Inter,,
+2024-25,22,2,B. Dortmund,Celtic,,7.0,1.0,6.0,H,B. Dortmund,,
+2024-25,23,2,Barcelona,Young Boys,,5.0,0.0,5.0,H,Barcelona,,
+2024-25,24,2,Leverkusen,Milan,,1.0,0.0,1.0,H,Leverkusen,,
+2024-25,25,2,Arsenal,Paris,,2.0,0.0,2.0,H,Arsenal,,
+2024-25,26,2,PSV,Sporting CP,,1.0,1.0,0.0,D,Draw,,
+2024-25,27,2,S. Bratislava,Man City,,0.0,4.0,-4.0,A,Man City,,
+2024-25,28,2,Shakhtar,Atalanta,,0.0,3.0,-3.0,A,Atalanta,,
+2024-25,29,2,Girona,Feyenoord,,2.0,3.0,-1.0,A,Feyenoord,,
+2024-25,30,2,Liverpool,Bologna,,2.0,0.0,2.0,H,Liverpool,,
+2024-25,31,2,Leipzig,Juventus,,2.0,3.0,-1.0,A,Juventus,,
+2024-25,32,2,Benfica,Atleti,,4.0,0.0,4.0,H,Benfica,,
+2024-25,33,2,GNK Dinamo,Monaco,,2.0,2.0,0.0,D,Draw,,
+2024-25,34,2,Lille,Real Madrid,,1.0,0.0,1.0,H,Lille,,
+2024-25,35,2,Aston Villa,Bayern München,,1.0,0.0,1.0,H,Aston Villa,,
+2024-25,36,2,Sturm Graz,Club Brugge,,0.0,1.0,-1.0,A,Club Brugge,,
+2024-25,37,3,Milan,Club Brugge,,3.0,1.0,2.0,H,Milan,,
+2024-25,38,3,Monaco,Crvena Zvezda,,5.0,1.0,4.0,H,Monaco,,
+2024-25,39,3,Paris,PSV,,1.0,1.0,0.0,D,Draw,,
+2024-25,40,3,Juventus,Stuttgart,,0.0,1.0,-1.0,A,Stuttgart,,
+2024-25,41,3,Arsenal,Shakhtar,,1.0,0.0,1.0,H,Arsenal,,
+2024-25,42,3,Aston Villa,Bologna,,2.0,0.0,2.0,H,Aston Villa,,
+2024-25,43,3,Girona,S. Bratislava,,2.0,0.0,2.0,H,Girona,,
+2024-25,44,3,Sturm Graz,Sporting CP,,0.0,2.0,-2.0,A,Sporting CP,,
+2024-25,45,3,Real Madrid,B. Dortmund,,5.0,2.0,3.0,H,Real Madrid,,
+2024-25,46,3,Atalanta,Celtic,,0.0,0.0,0.0,D,Draw,,
+2024-25,47,3,Brest,Leverkusen,,1.0,1.0,0.0,D,Draw,,
+2024-25,48,3,Man City,Sparta Praha,,5.0,0.0,5.0,H,Man City,,
+2024-25,49,3,Leipzig,Liverpool,,0.0,1.0,-1.0,A,Liverpool,,
+2024-25,50,3,Barcelona,Bayern München,,4.0,1.0,3.0,H,Barcelona,,
+2024-25,51,3,Atleti,Lille,,1.0,3.0,-2.0,A,Lille,,
+2024-25,52,3,Benfica,Feyenoord,,1.0,3.0,-2.0,A,Feyenoord,,
+2024-25,53,3,Salzburg,GNK Dinamo,,0.0,2.0,-2.0,A,GNK Dinamo,,
+2024-25,54,3,Young Boys,Inter,,0.0,1.0,-1.0,A,Inter,,
+2024-25,55,4,PSV,Girona,,4.0,0.0,4.0,H,PSV,,
+2024-25,56,4,S. Bratislava,GNK Dinamo,,1.0,4.0,-3.0,A,GNK Dinamo,,
+2024-25,57,4,Real Madrid,Milan,,1.0,3.0,-2.0,A,Milan,,
+2024-25,58,4,Liverpool,Leverkusen,,4.0,0.0,4.0,H,Liverpool,,
+2024-25,59,4,B. Dortmund,Sturm Graz,,1.0,0.0,1.0,H,B. Dortmund,,
+2024-25,60,4,Sporting CP,Man City,,4.0,1.0,3.0,H,Sporting CP,,
+2024-25,61,4,Lille,Juventus,,1.0,1.0,0.0,D,Draw,,
+2024-25,62,4,Celtic,Leipzig,,3.0,1.0,2.0,H,Celtic,,
+2024-25,63,4,Bologna,Monaco,,0.0,1.0,-1.0,A,Monaco,,
+2024-25,64,4,Club Brugge,Aston Villa,,1.0,0.0,1.0,H,Club Brugge,,
+2024-25,65,4,Shakhtar,Young Boys,,2.0,1.0,1.0,H,Shakhtar,,
+2024-25,67,4,Paris,Atleti,,1.0,2.0,-1.0,A,Atleti,,
+2024-25,68,4,Inter,Arsenal,,1.0,0.0,1.0,H,Inter,,
+2024-25,69,4,Feyenoord,Salzburg,,1.0,3.0,-2.0,A,Salzburg,,
+2024-25,70,4,Crvena Zvezda,Barcelona,,2.0,5.0,-3.0,A,Barcelona,,
+2024-25,71,4,Sparta Praha,Brest,,1.0,2.0,-1.0,A,Brest,,
+2024-25,72,4,Stuttgart,Atalanta,,0.0,2.0,-2.0,A,Atalanta,,
+2024-25,66,4,Bayern München,Benfica,,1.0,0.0,1.0,H,Bayern München,,
+2024-25,73,5,S. Bratislava,Milan,,2.0,3.0,-1.0,A,Milan,,
+2024-25,74,5,Sparta Praha,Atleti,,0.0,6.0,-6.0,A,Atleti,,
+2024-25,75,5,Man City,Feyenoord,,3.0,3.0,0.0,D,Draw,,
+2024-25,76,5,Bayern München,Paris,,1.0,0.0,1.0,H,Bayern München,,
+2024-25,77,5,Inter,Leipzig,,1.0,0.0,1.0,H,Inter,,
+2024-25,78,5,Barcelona,Brest,,3.0,0.0,3.0,H,Barcelona,,
+2024-25,79,5,Leverkusen,Salzburg,,5.0,0.0,5.0,H,Leverkusen,,
+2024-25,80,5,Sporting CP,Arsenal,,1.0,5.0,-4.0,A,Arsenal,,
+2024-25,81,5,Young Boys,Atalanta,,1.0,6.0,-5.0,A,Atalanta,,
+2024-25,82,5,Crvena Zvezda,Stuttgart,,5.0,1.0,4.0,H,Crvena Zvezda,,
+2024-25,83,5,Sturm Graz,Girona,,1.0,0.0,1.0,H,Sturm Graz,,
+2024-25,84,5,Liverpool,Real Madrid,,2.0,0.0,2.0,H,Liverpool,,
+2024-25,85,5,PSV,Shakhtar,,3.0,2.0,1.0,H,PSV,,
+2024-25,86,5,GNK Dinamo,B. Dortmund,,0.0,3.0,-3.0,A,B. Dortmund,,
+2024-25,87,5,Celtic,Club Brugge,,1.0,1.0,0.0,D,Draw,,
+2024-25,88,5,Monaco,Benfica,,2.0,3.0,-1.0,A,Benfica,,
+2024-25,89,5,Aston Villa,Juventus,,0.0,0.0,0.0,D,Draw,,
+2024-25,90,5,Bologna,Lille,,1.0,2.0,-1.0,A,Lille,,
+2024-25,91,6,GNK Dinamo,Celtic,,0.0,0.0,0.0,D,Draw,,
+2024-25,92,6,Girona,Liverpool,,0.0,1.0,-1.0,A,Liverpool,,
+2024-25,93,6,Leipzig,Aston Villa,,2.0,3.0,-1.0,A,Aston Villa,,
+2024-25,94,6,Leverkusen,Inter,,1.0,0.0,1.0,H,Leverkusen,,
+2024-25,95,6,Atalanta,Real Madrid,,2.0,3.0,-1.0,A,Real Madrid,,
+2024-25,96,6,Club Brugge,Sporting CP,,2.0,1.0,1.0,H,Club Brugge,,
+2024-25,97,6,Shakhtar,Bayern München,,1.0,5.0,-4.0,A,Bayern München,0-1,Real Madrid
+2024-25,98,6,Salzburg,Paris,,0.0,3.0,-3.0,A,Paris,1-3,Man City
+2024-25,99,6,Brest,PSV,,1.0,0.0,1.0,H,Brest,1-0,Bayern
+2024-25,100,6,Atleti,S. Bratislava,,3.0,1.0,2.0,H,Atleti,2-0,Paris
+2024-25,101,6,Lille,Sturm Graz,,3.0,2.0,1.0,H,Lille,1-0,Inter
+2024-25,102,6,B. Dortmund,Barcelona,,2.0,3.0,-1.0,A,Barcelona,1-1,Dortmund
+2024-25,103,6,Juventus,Man City,,2.0,0.0,2.0,H,Juventus,1-0,
+2024-25,104,6,Benfica,Bologna,,0.0,0.0,0.0,D,Draw,1-1,Barcelona
+2024-25,105,6,Arsenal,Monaco,,3.0,0.0,3.0,H,Arsenal,1-3,Bayern
+2024-25,106,6,Milan,Crvena Zvezda,,2.0,1.0,1.0,H,Milan,4-1,Paris
+2024-25,107,6,Feyenoord,Sparta Praha,,4.0,2.0,2.0,H,Feyenoord,1-2,Real Madrid
+2024-25,108,6,Stuttgart,Young Boys,,5.0,1.0,4.0,H,Stuttgart,2-6,Man City
+2024-25,109,7,Atalanta,Sturm Graz,,5.0,0.0,5.0,H,Atalanta,1-1,
+2024-25,110,7,Monaco,Aston Villa,,1.0,0.0,1.0,H,Monaco,2-4,Barcelona
+2024-25,111,7,S. Bratislava,Stuttgart,,1.0,3.0,-2.0,A,Stuttgart,2-2,Inter
+2024-25,112,7,Club Brugge,Juventus,,0.0,0.0,0.0,D,Draw,1-3,Dortmund
+2024-25,113,7,Atleti,Leverkusen,,2.0,1.0,1.0,H,Atleti,2-2,Bayern
+2024-25,114,7,Benfica,Barcelona,,4.0,5.0,-1.0,A,Barcelona,3-3,Man City
+2024-25,115,7,Liverpool,Lille,,2.0,1.0,1.0,H,Liverpool,2-1,Dortmund
+2024-25,116,7,Bologna,B. Dortmund,,2.0,1.0,1.0,H,Bologna,2-3,Paris
+2024-25,117,7,Crvena Zvezda,PSV,,2.0,3.0,-1.0,A,PSV,6-4,Paris
+2024-25,118,7,Leipzig,Sporting CP,,2.0,1.0,1.0,H,Leipzig,4-5,Dortmund
+2024-25,119,7,Shakhtar,Brest,,2.0,0.0,2.0,H,Shakhtar,4-4,Man City
+2024-25,120,7,Real Madrid,Salzburg,,5.0,1.0,4.0,H,Real Madrid,2-3,Bayern
+2024-25,121,7,Paris,Man City,,4.0,2.0,2.0,H,Paris,2-2,Real Madrid
+2024-25,122,7,Sparta Praha,Inter,,0.0,1.0,-1.0,A,Inter,1-0,Dortmund
+2024-25,123,7,Arsenal,GNK Dinamo,,3.0,0.0,3.0,H,Arsenal,2-0,Dortmund
+2024-25,124,7,Celtic,Young Boys,,1.0,0.0,1.0,H,Celtic,3-4,Real Madrid
+2024-25,125,7,Feyenoord,Bayern München,,3.0,0.0,3.0,H,Feyenoord,,
+2024-25,126,7,Milan,Girona,,1.0,0.0,1.0,H,Milan,,
+2024-25,127,8,Sporting CP,Bologna,,1.0,1.0,0.0,D,Draw,,
+2024-25,128,8,PSV,Liverpool,,3.0,2.0,1.0,H,PSV,,
+2024-25,129,8,Young Boys,Crvena Zvezda,,0.0,1.0,-1.0,A,Crvena Zvezda,,
+2024-25,130,8,Stuttgart,Paris,,1.0,4.0,-3.0,A,Paris,,
+2024-25,131,8,Sturm Graz,Leipzig,,1.0,0.0,1.0,H,Sturm Graz,,
+2024-25,132,8,Man City,Club Brugge,,3.0,1.0,2.0,H,Man City,,
+2024-25,133,8,Bayern München,S. Bratislava,,3.0,1.0,2.0,H,Bayern München,,
+2024-25,134,8,Inter,Monaco,,3.0,0.0,3.0,H,Inter,,
+2024-25,135,8,B. Dortmund,Shakhtar,,3.0,1.0,2.0,H,B. Dortmund,4-2,Benfica
+2024-25,136,8,Barcelona,Atalanta,,2.0,2.0,0.0,D,Draw,,
+2024-25,137,8,Leverkusen,Sparta Praha,,2.0,0.0,2.0,H,Leverkusen,,
+2024-25,138,8,Juventus,Benfica,,0.0,2.0,-2.0,A,Benfica,,
+2024-25,139,8,GNK Dinamo,Milan,,2.0,1.0,1.0,H,GNK Dinamo,,
+2024-25,140,8,Salzburg,Atleti,,1.0,4.0,-3.0,A,Atleti,,
+2024-25,141,8,Lille,Feyenoord,,6.0,1.0,5.0,H,Lille,,
+2024-25,142,8,Aston Villa,Celtic,,4.0,2.0,2.0,H,Aston Villa,,
+2024-25,143,8,Girona,Arsenal,,1.0,2.0,-1.0,A,Arsenal,,
+2024-25,144,8,Brest,Real Madrid,,0.0,3.0,-3.0,A,Real Madrid,,
+2024-25,145,9,Brest,Paris,,0.0,3.0,-3.0,A,Paris,5-2,Galatasaray
+2024-25,146,9,Man City,Real Madrid,,2.0,3.0,-1.0,A,Real Madrid,2-3,Paris
+2024-25,147,9,Juventus,PSV,,2.0,1.0,1.0,H,Juventus,5-2,Benfica
+2024-25,148,9,Sporting CP,B. Dortmund,,0.0,3.0,-3.0,A,B. Dortmund,2-0,Atalanta
+2024-25,149,9,Club Brugge,Atalanta,,2.0,1.0,1.0,H,Club Brugge,1-6,Newcastle
+2024-25,150,9,Feyenoord,Milan,,1.0,0.0,1.0,H,Feyenoord,0-2,Leverkusen
+2024-25,151,9,Celtic,Bayern München,,1.0,2.0,-1.0,A,Bayern München,3-1,Bodø/Glimt
+2024-25,152,9,Monaco,Benfica,,0.0,1.0,-1.0,A,Benfica,3-3,Atleti
+2024-25,153,10,Milan,Feyenoord,,1.0,1.0,0.0,D,Draw,4-7,Atleti
+2024-25,154,10,Atalanta,Club Brugge,,1.0,3.0,-2.0,A,Club Brugge,0-2,Leverkusen
+2024-25,155,10,Bayern München,Celtic,,1.0,1.0,0.0,D,Draw,5-2,Bodø/Glimt
+2024-25,156,10,Benfica,Monaco,,3.0,3.0,0.0,D,Draw,3-9,Newcastle
+2024-25,157,10,B. Dortmund,Sporting CP,,0.0,0.0,0.0,D,Draw,3-4,Atalanta
+2024-25,158,10,Paris,Brest,,7.0,0.0,7.0,H,Paris,4-5,Paris
+2024-25,159,10,Real Madrid,Man City,,3.0,1.0,2.0,H,Real Madrid,7-5,Galatasaray
+2024-25,160,10,PSV,Juventus,,3.0,1.0,2.0,H,PSV,3-4,PSV
+2024-25,161,11,Club Brugge,Aston Villa,,1.0,3.0,-2.0,A,Aston Villa,1-0,Liverpool
+2024-25,162,11,Real Madrid,Atleti,,2.0,1.0,1.0,H,Real Madrid,1-6,Bayern München
+2024-25,163,11,PSV,Arsenal,,1.0,7.0,-6.0,A,Arsenal,1-1,Barcelona
+2024-25,164,11,B. Dortmund,Lille,,1.0,1.0,0.0,D,Draw,5-2,Atleti
+2024-25,165,11,Feyenoord,Inter,,0.0,2.0,-2.0,A,Inter,1-1,Arsenal
+2024-25,166,11,Paris,Liverpool,,0.0,1.0,-1.0,A,Liverpool,5-2,Paris
+2024-25,167,11,Bayern München,Leverkusen,,3.0,0.0,3.0,H,Bayern München,3-0,Real Madrid
+2024-25,168,11,Benfica,Barcelona,,0.0,1.0,-1.0,A,Barcelona,3-0,Sporting CP
+2024-25,169,12,Barcelona,Benfica,,3.0,1.0,2.0,H,Barcelona,3-5,Sporting CP
+2024-25,170,12,Liverpool,Paris,,0.0,1.0,-1.0,A,Paris,8-2,Paris
+2024-25,171,12,Inter,Feyenoord,,2.0,1.0,1.0,H,Inter,5-1,Real Madrid
+2024-25,172,12,Leverkusen,Bayern München,,0.0,2.0,-2.0,A,Bayern München,1-3,Arsenal
+2024-25,173,12,Lille,B. Dortmund,,1.0,2.0,-1.0,A,B. Dortmund,3-8,Barcelona
+2024-25,174,12,Aston Villa,Club Brugge,,3.0,0.0,3.0,H,Aston Villa,1-4,Liverpool
+2024-25,175,12,Atleti,Real Madrid,,1.0,0.0,1.0,H,Atleti,2-10,Bayern München
+2024-25,176,12,Arsenal,PSV,,2.0,2.0,0.0,D,Draw,7-5,Atleti
+2024-25,177,13,Arsenal,Real Madrid,,3.0,0.0,3.0,H,Arsenal,1-2,Bayern München
+2024-25,178,13,Bayern München,Inter,,1.0,2.0,-1.0,A,Inter,0-1,Arsenal
+2024-25,179,13,Paris,Aston Villa,,3.0,1.0,2.0,H,Paris,2-0,Paris
+2024-25,180,13,Barcelona,B. Dortmund,,4.0,0.0,4.0,H,Barcelona,0-2,Atleti
+2024-25,181,14,B. Dortmund,Barcelona,,3.0,1.0,2.0,H,B. Dortmund,2-3,Atleti
+2024-25,182,14,Aston Villa,Paris,,3.0,2.0,1.0,H,Aston Villa,4-0,Paris
+2024-25,183,14,Inter,Bayern München,,2.0,2.0,0.0,D,Draw,0-1,Arsenal
+2024-25,184,14,Real Madrid,Arsenal,,1.0,2.0,-1.0,A,Arsenal,4-6,Bayern München
+2024-25,185,15,Arsenal,Paris,,0.0,1.0,-1.0,A,Paris,5-4,Paris
+2024-25,186,15,Barcelona,Inter,,3.0,3.0,0.0,D,Draw,1-1,Arsenal
+2024-25,187,16,Inter,Barcelona,,4.0,3.0,1.0,H,Inter,1-2,Arsenal
+2024-25,188,16,Paris,Arsenal,,2.0,1.0,1.0,H,Paris,6-5,Paris
+2024-25,189,17,Paris,Inter,,5.0,0.0,5.0,H,Paris,,
+2025-26,1,1,PSV,Union SG,,1.0,3.0,-2.0,A,Union SG,,
+2025-26,2,1,Athletic Club,Arsenal,,0.0,2.0,-2.0,A,Arsenal,,
+2025-26,3,1,Real Madrid,Marseille,,2.0,1.0,1.0,H,Real Madrid,,
+2025-26,4,1,Benfica,Qarabag,,2.0,3.0,-1.0,A,Qarabag,,
+2025-26,5,1,Juventus,B. Dortmund,,4.0,4.0,0.0,D,Draw,,
+2025-26,6,1,Tottenham,Villarreal,,1.0,0.0,1.0,H,Tottenham,,
+2025-26,7,1,Olympiacos,Pafos,,0.0,0.0,0.0,D,Draw,,
+2025-26,8,1,Slavia Praha,Bodø/Glimt,,2.0,2.0,0.0,D,Draw,,
+2025-26,9,1,Paris,Atalanta,,4.0,0.0,4.0,H,Paris,,
+2025-26,10,1,Bayern München,Chelsea,,3.0,1.0,2.0,H,Bayern München,,
+2025-26,11,1,Liverpool,Atleti,,3.0,2.0,1.0,H,Liverpool,,
+2025-26,12,1,Ajax,Inter,,0.0,2.0,-2.0,A,Inter,,
+2025-26,13,1,Club Brugge,Monaco,,4.0,1.0,3.0,H,Club Brugge,,
+2025-26,14,1,Copenhagen,Leverkusen,,2.0,2.0,0.0,D,Draw,,
+2025-26,15,1,Man City,Napoli,,2.0,0.0,2.0,H,Man City,,
+2025-26,16,1,Frankfurt,Galatasaray,,5.0,1.0,4.0,H,Frankfurt,,
+2025-26,17,1,Sporting CP,Kairat Almaty,,4.0,1.0,3.0,H,Sporting CP,,
+2025-26,18,1,Newcastle,Barcelona,,1.0,2.0,-1.0,A,Barcelona,,
+2025-26,19,2,Atalanta,Club Brugge,,2.0,1.0,1.0,H,Atalanta,,
+2025-26,20,2,Kairat Almaty,Real Madrid,,0.0,5.0,-5.0,A,Real Madrid,,
+2025-26,21,2,Inter,Slavia Praha,,3.0,0.0,3.0,H,Inter,,
+2025-26,22,2,Chelsea,Benfica,,1.0,0.0,1.0,H,Chelsea,,
+2025-26,23,2,Atleti,Frankfurt,,5.0,1.0,4.0,H,Atleti,,
+2025-26,24,2,Bodø/Glimt,Tottenham,,2.0,2.0,0.0,D,Draw,,
+2025-26,25,2,Marseille,Ajax,,4.0,0.0,4.0,H,Marseille,,
+2025-26,26,2,Galatasaray,Liverpool,,1.0,0.0,1.0,H,Galatasaray,,
+2025-26,27,2,Pafos,Bayern München,,1.0,5.0,-4.0,A,Bayern München,,
+2025-26,28,2,Union SG,Newcastle,,0.0,4.0,-4.0,A,Newcastle,,
+2025-26,29,2,Qarabag,Copenhagen,,2.0,0.0,2.0,H,Qarabag,,
+2025-26,30,2,Arsenal,Olympiacos,,2.0,0.0,2.0,H,Arsenal,,
+2025-26,31,2,Leverkusen,PSV,,1.0,1.0,0.0,D,Draw,,
+2025-26,32,2,Villarreal,Juventus,,2.0,2.0,0.0,D,Draw,,
+2025-26,33,2,Napoli,Sporting CP,,2.0,1.0,1.0,H,Napoli,,
+2025-26,34,2,Monaco,Man City,,2.0,2.0,0.0,D,Draw,,
+2025-26,35,2,B. Dortmund,Athletic Club,,4.0,1.0,3.0,H,B. Dortmund,,
+2025-26,36,2,Barcelona,Paris,,1.0,2.0,-1.0,A,Paris,,
+2025-26,37,3,Barcelona,Olympiacos,,6.0,1.0,5.0,H,Barcelona,,
+2025-26,38,3,Kairat Almaty,Pafos,,0.0,0.0,0.0,D,Draw,,
+2025-26,39,3,Arsenal,Atleti,,4.0,0.0,4.0,H,Arsenal,,
+2025-26,40,3,Leverkusen,Paris,,2.0,7.0,-5.0,A,Paris,,
+2025-26,41,3,Villarreal,Man City,,0.0,2.0,-2.0,A,Man City,,
+2025-26,42,3,PSV,Napoli,,6.0,2.0,4.0,H,PSV,,
+2025-26,43,3,Copenhagen,B. Dortmund,,2.0,4.0,-2.0,A,B. Dortmund,,
+2025-26,44,3,Union SG,Inter,,0.0,4.0,-4.0,A,Inter,,
+2025-26,45,3,Newcastle,Benfica,,3.0,0.0,3.0,H,Newcastle,,
+2025-26,46,3,Galatasaray,Bodø/Glimt,,3.0,1.0,2.0,H,Galatasaray,,
+2025-26,47,3,Athletic Club,Qarabag,,3.0,1.0,2.0,H,Athletic Club,,
+2025-26,48,3,Chelsea,Ajax,,5.0,1.0,4.0,H,Chelsea,,
+2025-26,49,3,Atalanta,Slavia Praha,,0.0,0.0,0.0,D,Draw,,
+2025-26,50,3,Frankfurt,Liverpool,,1.0,5.0,-4.0,A,Liverpool,,
+2025-26,51,3,Sporting CP,Marseille,,2.0,1.0,1.0,H,Sporting CP,,
+2025-26,52,3,Monaco,Tottenham,,0.0,0.0,0.0,D,Draw,,
+2025-26,53,3,Real Madrid,Juventus,,1.0,0.0,1.0,H,Real Madrid,,
+2025-26,54,3,Bayern München,Club Brugge,,4.0,0.0,4.0,H,Bayern München,,
+2025-26,55,4,Napoli,Frankfurt,,0.0,0.0,0.0,D,Draw,,
+2025-26,56,4,Slavia Praha,Arsenal,,0.0,3.0,-3.0,A,Arsenal,,
+2025-26,57,4,Paris,Bayern München,,1.0,2.0,-1.0,A,Bayern München,,
+2025-26,58,4,Liverpool,Real Madrid,,1.0,0.0,1.0,H,Liverpool,,
+2025-26,59,4,Atleti,Union SG,,3.0,1.0,2.0,H,Atleti,,
+2025-26,60,4,Juventus,Sporting CP,,1.0,1.0,0.0,D,Draw,,
+2025-26,61,4,Tottenham,Copenhagen,,4.0,0.0,4.0,H,Tottenham,,
+2025-26,62,4,Olympiacos,PSV,,1.0,1.0,0.0,D,Draw,,
+2025-26,63,4,Bodø/Glimt,Monaco,,0.0,1.0,-1.0,A,Monaco,,
+2025-26,64,4,Qarabag,Chelsea,,2.0,2.0,0.0,D,Draw,,
+2025-26,65,4,Pafos,Villarreal,,1.0,0.0,1.0,H,Pafos,,
+2025-26,66,4,Man City,B. Dortmund,,4.0,1.0,3.0,H,Man City,,
+2025-26,67,4,Inter,Kairat Almaty,,2.0,1.0,1.0,H,Inter,,
+2025-26,68,4,Benfica,Leverkusen,,0.0,1.0,-1.0,A,Leverkusen,,
+2025-26,69,4,Club Brugge,Barcelona,,3.0,3.0,0.0,D,Draw,,
+2025-26,70,4,Ajax,Galatasaray,,0.0,3.0,-3.0,A,Galatasaray,,
+2025-26,71,4,Marseille,Atalanta,,0.0,1.0,-1.0,A,Atalanta,,
+2025-26,72,4,Newcastle,Athletic Club,,2.0,0.0,2.0,H,Newcastle,,
+2025-26,73,5,Ajax,Benfica,,0.0,2.0,-2.0,A,Benfica,,
+2025-26,74,5,Galatasaray,Union SG,,0.0,1.0,-1.0,A,Union SG,,
+2025-26,75,5,Man City,Leverkusen,,0.0,2.0,-2.0,A,Leverkusen,,
+2025-26,76,5,Chelsea,Barcelona,,3.0,0.0,3.0,H,Chelsea,,
+2025-26,77,5,B. Dortmund,Villarreal,,4.0,0.0,4.0,H,B. Dortmund,,
+2025-26,78,5,Napoli,Qarabag,,2.0,0.0,2.0,H,Napoli,,
+2025-26,79,5,Slavia Praha,Athletic Club,,0.0,0.0,0.0,D,Draw,,
+2025-26,80,5,Bodø/Glimt,Juventus,,2.0,3.0,-1.0,A,Juventus,,
+2025-26,81,5,Marseille,Newcastle,,2.0,1.0,1.0,H,Marseille,,
+2025-26,82,5,Copenhagen,Kairat Almaty,,3.0,2.0,1.0,H,Copenhagen,,
+2025-26,83,5,Pafos,Monaco,,2.0,2.0,0.0,D,Draw,,
+2025-26,84,5,Paris,Tottenham,,5.0,3.0,2.0,H,Paris,,
+2025-26,85,5,Liverpool,PSV,,1.0,4.0,-3.0,A,PSV,,
+2025-26,86,5,Arsenal,Bayern München,,3.0,1.0,2.0,H,Arsenal,,
+2025-26,87,5,Atleti,Inter,,2.0,1.0,1.0,H,Atleti,,
+2025-26,88,5,Frankfurt,Atalanta,,0.0,3.0,-3.0,A,Atalanta,,
+2025-26,89,5,Sporting CP,Club Brugge,,3.0,0.0,3.0,H,Sporting CP,,
+2025-26,90,5,Olympiacos,Real Madrid,,3.0,4.0,-1.0,A,Real Madrid,,
+2025-26,91,6,Kairat Almaty,Olympiacos,,0.0,1.0,-1.0,A,Olympiacos,,
+2025-26,92,6,Bayern München,Sporting CP,,3.0,1.0,2.0,H,Bayern München,,
+2025-26,93,6,Inter,Liverpool,,0.0,1.0,-1.0,A,Liverpool,,
+2025-26,94,6,Barcelona,Frankfurt,,2.0,1.0,1.0,H,Barcelona,,
+2025-26,95,6,Atalanta,Chelsea,,2.0,1.0,1.0,H,Atalanta,,
+2025-26,96,6,Tottenham,Slavia Praha,,3.0,0.0,3.0,H,Tottenham,,
+2025-26,97,6,PSV,Atleti,,2.0,3.0,-1.0,A,Atleti,0-1,Real Madrid
+2025-26,98,6,Monaco,Galatasaray,,1.0,0.0,1.0,H,Monaco,1-3,Man City
+2025-26,99,6,Union SG,Marseille,,2.0,3.0,-1.0,A,Marseille,1-0,Bayern
+2025-26,100,6,Villarreal,Copenhagen,,2.0,3.0,-1.0,A,Copenhagen,2-0,Paris
+2025-26,101,6,Qarabag,Ajax,,2.0,4.0,-2.0,A,Ajax,1-0,Inter
+2025-26,102,6,B. Dortmund,Bodø/Glimt,,2.0,2.0,0.0,D,Draw,1-1,Dortmund
+2025-26,103,6,Leverkusen,Newcastle,,2.0,2.0,0.0,D,Draw,1-0,
+2025-26,104,6,Benfica,Napoli,,2.0,0.0,2.0,H,Benfica,1-1,Barcelona
+2025-26,105,6,Juventus,Pafos,,2.0,0.0,2.0,H,Juventus,1-3,Bayern
+2025-26,106,6,Club Brugge,Arsenal,,0.0,3.0,-3.0,A,Arsenal,4-1,Paris
+2025-26,107,6,Athletic Club,Paris,,0.0,0.0,0.0,D,Draw,1-2,Real Madrid
+2025-26,108,6,Real Madrid,Man City,,1.0,2.0,-1.0,A,Man City,2-6,Man City
+2025-26,109,7,Kairat Almaty,Club Brugge,,1.0,4.0,-3.0,A,Club Brugge,1-1,
+2025-26,110,7,Bodø/Glimt,Man City,,3.0,1.0,2.0,H,Bodø/Glimt,2-4,Barcelona
+2025-26,111,7,Real Madrid,Monaco,,6.0,1.0,5.0,H,Real Madrid,2-2,Inter
+2025-26,112,7,Inter,Arsenal,,1.0,3.0,-2.0,A,Arsenal,1-3,Dortmund
+2025-26,113,7,Villarreal,Ajax,,1.0,2.0,-1.0,A,Ajax,2-2,Bayern
+2025-26,114,7,Tottenham,B. Dortmund,,2.0,0.0,2.0,H,Tottenham,3-3,Man City
+2025-26,115,7,Sporting CP,Paris,,2.0,1.0,1.0,H,Sporting CP,2-1,Dortmund
+2025-26,116,7,Olympiacos,Leverkusen,,2.0,0.0,2.0,H,Olympiacos,2-3,Paris
+2025-26,117,7,Copenhagen,Napoli,,1.0,1.0,0.0,D,Draw,6-4,Paris
+2025-26,118,7,Galatasaray,Atleti,,1.0,1.0,0.0,D,Draw,4-5,Dortmund
+2025-26,119,7,Qarabag,Frankfurt,,3.0,2.0,1.0,H,Qarabag,4-4,Man City
+2025-26,120,7,Chelsea,Pafos,,1.0,0.0,1.0,H,Chelsea,2-3,Bayern
+2025-26,121,7,Atalanta,Athletic Club,,2.0,3.0,-1.0,A,Athletic Club,2-2,Real Madrid
+2025-26,122,7,Juventus,Benfica,,2.0,0.0,2.0,H,Juventus,1-0,Dortmund
+2025-26,123,7,Slavia Praha,Barcelona,,2.0,4.0,-2.0,A,Barcelona,2-0,Dortmund
+2025-26,124,7,Marseille,Liverpool,,0.0,3.0,-3.0,A,Liverpool,3-4,Real Madrid
+2025-26,125,7,Newcastle,PSV,,3.0,0.0,3.0,H,Newcastle,,
+2025-26,126,7,Bayern München,Union SG,,2.0,0.0,2.0,H,Bayern München,,
+2025-26,127,8,Paris,Newcastle,,1.0,1.0,0.0,D,Draw,,
+2025-26,128,8,Man City,Galatasaray,,2.0,0.0,2.0,H,Man City,,
+2025-26,129,8,Liverpool,Qarabag,,6.0,0.0,6.0,H,Liverpool,,
+2025-26,130,8,B. Dortmund,Inter,,0.0,2.0,-2.0,A,Inter,,
+2025-26,131,8,Barcelona,Copenhagen,,4.0,1.0,3.0,H,Barcelona,,
+2025-26,132,8,Arsenal,Kairat Almaty,,3.0,2.0,1.0,H,Arsenal,,
+2025-26,133,8,Leverkusen,Villarreal,,3.0,0.0,3.0,H,Leverkusen,,
+2025-26,134,8,Atleti,Bodø/Glimt,,1.0,2.0,-1.0,A,Bodø/Glimt,,
+2025-26,135,8,Benfica,Real Madrid,,4.0,2.0,2.0,H,Benfica,4-2,Benfica
+2025-26,136,8,Frankfurt,Tottenham,,0.0,2.0,-2.0,A,Tottenham,,
+2025-26,137,8,Club Brugge,Marseille,,3.0,0.0,3.0,H,Club Brugge,,
+2025-26,138,8,PSV,Bayern München,,1.0,2.0,-1.0,A,Bayern München,,
+2025-26,139,8,Ajax,Olympiacos,,1.0,2.0,-1.0,A,Olympiacos,,
+2025-26,140,8,Napoli,Chelsea,,2.0,3.0,-1.0,A,Chelsea,,
+2025-26,141,8,Monaco,Juventus,,0.0,0.0,0.0,D,Draw,,
+2025-26,142,8,Union SG,Atalanta,,1.0,0.0,1.0,H,Union SG,,
+2025-26,143,8,Athletic Club,Sporting CP,,2.0,3.0,-1.0,A,Sporting CP,,
+2025-26,144,8,Pafos,Slavia Praha,,4.0,1.0,3.0,H,Pafos,,
+2025-26,145,9,Galatasaray,Juventus,,5.0,2.0,3.0,H,Galatasaray,5-2,Galatasaray
+2025-26,146,9,Monaco,Paris,,2.0,3.0,-1.0,A,Paris,2-3,Paris
+2025-26,147,9,Benfica,Real Madrid,,0.0,1.0,-1.0,A,Real Madrid,5-2,Benfica
+2025-26,148,9,B. Dortmund,Atalanta,,2.0,0.0,2.0,H,B. Dortmund,2-0,Atalanta
+2025-26,149,9,Qarabag,Newcastle,,1.0,6.0,-5.0,A,Newcastle,1-6,Newcastle
+2025-26,150,9,Olympiacos,Leverkusen,,0.0,2.0,-2.0,A,Leverkusen,0-2,Leverkusen
+2025-26,151,9,Bodø/Glimt,Inter,,3.0,1.0,2.0,H,Bodø/Glimt,3-1,Bodø/Glimt
+2025-26,152,9,Club Brugge,Atleti,,3.0,3.0,0.0,D,Draw,3-3,Atleti
+2025-26,153,10,Atleti,Club Brugge,,4.0,1.0,3.0,H,Atleti,4-7,Atleti
+2025-26,154,10,Leverkusen,Olympiacos,,0.0,0.0,0.0,D,Draw,0-2,Leverkusen
+2025-26,155,10,Inter,Bodø/Glimt,,1.0,2.0,-1.0,A,Bodø/Glimt,5-2,Bodø/Glimt
+2025-26,156,10,Newcastle,Qarabag,,3.0,2.0,1.0,H,Newcastle,3-9,Newcastle
+2025-26,157,10,Atalanta,B. Dortmund,,4.0,1.0,3.0,H,Atalanta,3-4,Atalanta
+2025-26,158,10,Paris,Monaco,,2.0,2.0,0.0,D,Draw,4-5,Paris
+2025-26,159,10,Juventus,Galatasaray,,3.0,2.0,1.0,H,Juventus,7-5,Galatasaray
+2025-26,160,10,Real Madrid,Benfica,,2.0,1.0,1.0,H,Real Madrid,3-4,PSV
+2025-26,161,11,Galatasaray,Liverpool,,1.0,0.0,1.0,H,Galatasaray,1-0,Liverpool
+2025-26,162,11,Atalanta,Bayern München,,1.0,6.0,-5.0,A,Bayern München,1-6,Bayern München
+2025-26,163,11,Newcastle,Barcelona,,1.0,1.0,0.0,D,Draw,1-1,Barcelona
+2025-26,164,11,Atleti,Tottenham,,5.0,2.0,3.0,H,Atleti,5-2,Atleti
+2025-26,165,11,Leverkusen,Arsenal,,1.0,1.0,0.0,D,Draw,1-1,Arsenal
+2025-26,166,11,Paris,Chelsea,,5.0,2.0,3.0,H,Paris,5-2,Paris
+2025-26,167,11,Real Madrid,Man City,,3.0,0.0,3.0,H,Real Madrid,3-0,Real Madrid
+2025-26,168,11,Bodø/Glimt,Sporting CP,,3.0,0.0,3.0,H,Bodø/Glimt,3-0,Sporting CP
+2025-26,169,12,Sporting CP,Bodø/Glimt,,5.0,0.0,5.0,H,Sporting CP,3-5,Sporting CP
+2025-26,170,12,Chelsea,Paris,,0.0,3.0,-3.0,A,Paris,8-2,Paris
+2025-26,171,12,Man City,Real Madrid,,1.0,2.0,-1.0,A,Real Madrid,5-1,Real Madrid
+2025-26,172,12,Arsenal,Leverkusen,,2.0,0.0,2.0,H,Arsenal,1-3,Arsenal
+2025-26,173,12,Barcelona,Newcastle,,7.0,2.0,5.0,H,Barcelona,3-8,Barcelona
+2025-26,174,12,Liverpool,Galatasaray,,4.0,0.0,4.0,H,Liverpool,1-4,Liverpool
+2025-26,175,12,Bayern München,Atalanta,,4.0,1.0,3.0,H,Bayern München,2-10,Bayern München
+2025-26,176,12,Tottenham,Atleti,,3.0,2.0,1.0,H,Tottenham,7-5,Atleti
+2025-26,177,13,Real Madrid,Bayern München,,1.0,2.0,-1.0,A,Bayern München,1-2,Bayern München
+2025-26,178,13,Sporting CP,Arsenal,,0.0,1.0,-1.0,A,Arsenal,0-1,Arsenal
+2025-26,179,13,Paris,Liverpool,,2.0,0.0,2.0,H,Paris,2-0,Paris
+2025-26,180,13,Barcelona,Atleti,,0.0,2.0,-2.0,A,Atleti,0-2,Atleti
+2025-26,181,14,Atleti,Barcelona,,1.0,2.0,-1.0,A,Barcelona,2-3,Atleti
+2025-26,182,14,Liverpool,Paris,,0.0,2.0,-2.0,A,Paris,4-0,Paris
+2025-26,183,14,Arsenal,Sporting CP,,0.0,0.0,0.0,D,Draw,0-1,Arsenal
+2025-26,184,14,Bayern München,Real Madrid,,4.0,3.0,1.0,H,Bayern München,4-6,Bayern München
+2025-26,185,15,Paris,Bayern München,,5.0,4.0,1.0,H,Paris,5-4,Paris
+2025-26,186,15,Atleti,Arsenal,,1.0,1.0,0.0,D,Draw,1-1,Arsenal
+2025-26,187,16,Arsenal,Atleti,,1.0,0.0,1.0,H,Arsenal,1-2,Arsenal
+2025-26,188,16,Bayern München,Paris,,1.0,1.0,0.0,D,Draw,6-5,Paris
+2025-26,189,17,Paris,Arsenal,,,,,D,Draw,,

@@ -1,0 +1,754 @@
+﻿season,match_number,round_number,date_utc,location,home_team,away_team,group,home_goals,away_goals,source_url,total_goals,goal_difference_home,result_90min
+2021-22,2,1,2021-09-14 16:45:00+00:00,Stadion Wankdorf,Young Boys,Man. United,Group F,2,1,https://fixturedownload.com/feed/json/champions-league-2021,3,1,H
+2021-22,3,1,2021-09-14 16:45:00+00:00,Estadio Ramón Sánchez-Pizjuán,Sevilla,Salzburg,Group G,1,1,https://fixturedownload.com/feed/json/champions-league-2021,2,0,D
+2021-22,1,1,2021-09-14 19:00:00+00:00,Estadio de la Cerámica,Villarreal,Atalanta,Group F,2,2,https://fixturedownload.com/feed/json/champions-league-2021,4,0,D
+2021-22,4,1,2021-09-14 19:00:00+00:00,NSC Olimpiyskiy,Dynamo Kyiv,Benfica,Group E,0,0,https://fixturedownload.com/feed/json/champions-league-2021,0,0,D
+2021-22,5,1,2021-09-14 19:00:00+00:00,Camp Nou,Barcelona,Bayern,Group E,0,3,https://fixturedownload.com/feed/json/champions-league-2021,3,-3,A
+2021-22,6,1,2021-09-14 19:00:00+00:00,Stade Pierre Mauroy,LOSC,Wolfsburg,Group G,0,0,https://fixturedownload.com/feed/json/champions-league-2021,0,0,D
+2021-22,7,1,2021-09-14 19:00:00+00:00,Malmö New Stadium,Malmö,Juventus,Group H,0,3,https://fixturedownload.com/feed/json/champions-league-2021,3,-3,A
+2021-22,8,1,2021-09-14 19:00:00+00:00,Stamford Bridge,Chelsea,Zenit,Group H,1,0,https://fixturedownload.com/feed/json/champions-league-2021,1,1,H
+2021-22,9,1,2021-09-15 16:45:00+00:00,Besiktas Park,Besiktas,Dortmund,Group C,1,2,https://fixturedownload.com/feed/json/champions-league-2021,3,-1,A
+2021-22,10,1,2021-09-15 16:45:00+00:00,Sheriff Stadion,Sheriff,Shakhtar Donetsk,Group D,2,0,https://fixturedownload.com/feed/json/champions-league-2021,2,2,H
+2021-22,11,1,2021-09-15 19:00:00+00:00,Jan Breydelstadion,Club Brugge,Paris,Group A,1,1,https://fixturedownload.com/feed/json/champions-league-2021,2,0,D
+2021-22,12,1,2021-09-15 19:00:00+00:00,City of Manchester Stadium,Man. City,Leipzig,Group A,6,3,https://fixturedownload.com/feed/json/champions-league-2021,9,3,H
+2021-22,13,1,2021-09-15 19:00:00+00:00,Estadio Metropolitano,Atlético,Porto,Group B,0,0,https://fixturedownload.com/feed/json/champions-league-2021,0,0,D
+2021-22,14,1,2021-09-15 19:00:00+00:00,Anfield,Liverpool,Milan,Group B,3,2,https://fixturedownload.com/feed/json/champions-league-2021,5,1,H
+2021-22,15,1,2021-09-15 19:00:00+00:00,Estádio José Alvalade,Sporting CP,Ajax,Group C,1,5,https://fixturedownload.com/feed/json/champions-league-2021,6,-4,A
+2021-22,16,1,2021-09-15 19:00:00+00:00,Stadio San Siro,Inter,Real Madrid,Group D,0,1,https://fixturedownload.com/feed/json/champions-league-2021,1,-1,A
+2021-22,17,2,2021-09-28 16:45:00+00:00,Johan Cruijff ArenA,Ajax,Besiktas,Group C,2,0,https://fixturedownload.com/feed/json/champions-league-2021,2,2,H
+2021-22,18,2,2021-09-28 16:45:00+00:00,NSC Olimpiyskiy,Shakhtar Donetsk,Inter,Group D,0,0,https://fixturedownload.com/feed/json/champions-league-2021,0,0,D
+2021-22,19,2,2021-09-28 19:00:00+00:00,Parc des Princes,Paris,Man. City,Group A,2,0,https://fixturedownload.com/feed/json/champions-league-2021,2,2,H
+2021-22,20,2,2021-09-28 19:00:00+00:00,RB Arena,Leipzig,Club Brugge,Group A,1,2,https://fixturedownload.com/feed/json/champions-league-2021,3,-1,A
+2021-22,21,2,2021-09-28 19:00:00+00:00,Estádio do Dragão,Porto,Liverpool,Group B,1,5,https://fixturedownload.com/feed/json/champions-league-2021,6,-4,A
+2021-22,22,2,2021-09-28 19:00:00+00:00,Stadio San Siro,Milan,Atlético,Group B,1,2,https://fixturedownload.com/feed/json/champions-league-2021,3,-1,A
+2021-22,23,2,2021-09-28 19:00:00+00:00,BVB Stadion Dortmund,Dortmund,Sporting CP,Group C,1,0,https://fixturedownload.com/feed/json/champions-league-2021,1,1,H
+2021-22,24,2,2021-09-28 19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Sheriff,Group D,1,2,https://fixturedownload.com/feed/json/champions-league-2021,3,-1,A
+2021-22,25,2,2021-09-29 16:45:00+00:00,Stadio di Bergamo,Atalanta,Young Boys,Group F,1,0,https://fixturedownload.com/feed/json/champions-league-2021,1,1,H
+2021-22,26,2,2021-09-29 16:45:00+00:00,Gazprom Arena,Zenit,Malmö,Group H,4,0,https://fixturedownload.com/feed/json/champions-league-2021,4,4,H
+2021-22,27,2,2021-09-29 19:00:00+00:00,Fußball Arena München,Bayern,Dynamo Kyiv,Group E,5,0,https://fixturedownload.com/feed/json/champions-league-2021,5,5,H
+2021-22,28,2,2021-09-29 19:00:00+00:00,Estádio do SL Benfica,Benfica,Barcelona,Group E,3,0,https://fixturedownload.com/feed/json/champions-league-2021,3,3,H
+2021-22,29,2,2021-09-29 19:00:00+00:00,Old Trafford,Man. United,Villarreal,Group F,2,1,https://fixturedownload.com/feed/json/champions-league-2021,3,1,H
+2021-22,30,2,2021-09-29 19:00:00+00:00,VfL Wolfsburg Arena,Wolfsburg,Sevilla,Group G,1,1,https://fixturedownload.com/feed/json/champions-league-2021,2,0,D
+2021-22,31,2,2021-09-29 19:00:00+00:00,Stadion Salzburg,Salzburg,LOSC,Group G,2,1,https://fixturedownload.com/feed/json/champions-league-2021,3,1,H
+2021-22,32,2,2021-09-29 19:00:00+00:00,Juventus Stadium,Juventus,Chelsea,Group H,1,0,https://fixturedownload.com/feed/json/champions-league-2021,1,1,H
+2021-22,33,3,2021-10-19 16:45:00+00:00,Jan Breydelstadion,Club Brugge,Man. City,Group A,1,5,https://fixturedownload.com/feed/json/champions-league-2021,6,-4,A
+2021-22,34,3,2021-10-19 16:45:00+00:00,Besiktas Park,Besiktas,Sporting CP,Group C,1,4,https://fixturedownload.com/feed/json/champions-league-2021,5,-3,A
+2021-22,35,3,2021-10-19 19:00:00+00:00,Parc des Princes,Paris,Leipzig,Group A,3,2,https://fixturedownload.com/feed/json/champions-league-2021,5,1,H
+2021-22,36,3,2021-10-19 19:00:00+00:00,Estádio do Dragão,Porto,Milan,Group B,1,0,https://fixturedownload.com/feed/json/champions-league-2021,1,1,H
+2021-22,37,3,2021-10-19 19:00:00+00:00,Estadio Metropolitano,Atlético,Liverpool,Group B,2,3,https://fixturedownload.com/feed/json/champions-league-2021,5,-1,A
+2021-22,38,3,2021-10-19 19:00:00+00:00,Johan Cruijff ArenA,Ajax,Dortmund,Group C,4,0,https://fixturedownload.com/feed/json/champions-league-2021,4,4,H
+2021-22,39,3,2021-10-19 19:00:00+00:00,Stadio San Siro,Inter,Sheriff,Group D,3,1,https://fixturedownload.com/feed/json/champions-league-2021,4,2,H
+2021-22,40,3,2021-10-19 19:00:00+00:00,NSC Olimpiyskiy,Shakhtar Donetsk,Real Madrid,Group D,0,5,https://fixturedownload.com/feed/json/champions-league-2021,5,-5,A
+2021-22,41,3,2021-10-20 16:45:00+00:00,Camp Nou,Barcelona,Dynamo Kyiv,Group E,1,0,https://fixturedownload.com/feed/json/champions-league-2021,1,1,H
+2021-22,42,3,2021-10-20 16:45:00+00:00,Stadion Salzburg,Salzburg,Wolfsburg,Group G,3,1,https://fixturedownload.com/feed/json/champions-league-2021,4,2,H
+2021-22,43,3,2021-10-20 19:00:00+00:00,Estádio do SL Benfica,Benfica,Bayern,Group E,0,4,https://fixturedownload.com/feed/json/champions-league-2021,4,-4,A
+2021-22,44,3,2021-10-20 19:00:00+00:00,Stadion Wankdorf,Young Boys,Villarreal,Group F,1,4,https://fixturedownload.com/feed/json/champions-league-2021,5,-3,A
+2021-22,45,3,2021-10-20 19:00:00+00:00,Old Trafford,Man. United,Atalanta,Group F,3,2,https://fixturedownload.com/feed/json/champions-league-2021,5,1,H
+2021-22,46,3,2021-10-20 19:00:00+00:00,Stade Pierre Mauroy,LOSC,Sevilla,Group G,0,0,https://fixturedownload.com/feed/json/champions-league-2021,0,0,D
+2021-22,47,3,2021-10-20 19:00:00+00:00,Stamford Bridge,Chelsea,Malmö,Group H,4,0,https://fixturedownload.com/feed/json/champions-league-2021,4,4,H
+2021-22,48,3,2021-10-20 19:00:00+00:00,Gazprom Arena,Zenit,Juventus,Group H,0,1,https://fixturedownload.com/feed/json/champions-league-2021,1,-1,A
+2021-22,49,4,2021-11-02 17:45:00+00:00,VfL Wolfsburg Arena,Wolfsburg,Salzburg,Group G,2,1,https://fixturedownload.com/feed/json/champions-league-2021,3,1,H
+2021-22,50,4,2021-11-02 17:45:00+00:00,Malmö New Stadium,Malmö,Chelsea,Group H,0,1,https://fixturedownload.com/feed/json/champions-league-2021,1,-1,A
+2021-22,51,4,2021-11-02 20:00:00+00:00,NSC Olimpiyskiy,Dynamo Kyiv,Barcelona,Group E,0,1,https://fixturedownload.com/feed/json/champions-league-2021,1,-1,A
+2021-22,52,4,2021-11-02 20:00:00+00:00,Fußball Arena München,Bayern,Benfica,Group E,5,2,https://fixturedownload.com/feed/json/champions-league-2021,7,3,H
+2021-22,53,4,2021-11-02 20:00:00+00:00,Estadio de la Cerámica,Villarreal,Young Boys,Group F,2,0,https://fixturedownload.com/feed/json/champions-league-2021,2,2,H
+2021-22,54,4,2021-11-02 20:00:00+00:00,Stadio di Bergamo,Atalanta,Man. United,Group F,2,2,https://fixturedownload.com/feed/json/champions-league-2021,4,0,D
+2021-22,55,4,2021-11-02 20:00:00+00:00,Estadio Ramón Sánchez-Pizjuán,Sevilla,LOSC,Group G,1,2,https://fixturedownload.com/feed/json/champions-league-2021,3,-1,A
+2021-22,56,4,2021-11-02 20:00:00+00:00,Juventus Stadium,Juventus,Zenit,Group H,4,2,https://fixturedownload.com/feed/json/champions-league-2021,6,2,H
+2021-22,57,4,2021-11-03 17:45:00+00:00,Stadio San Siro,Milan,Porto,Group B,1,1,https://fixturedownload.com/feed/json/champions-league-2021,2,0,D
+2021-22,58,4,2021-11-03 17:45:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Shakhtar Donetsk,Group D,2,1,https://fixturedownload.com/feed/json/champions-league-2021,3,1,H
+2021-22,59,4,2021-11-03 20:00:00+00:00,City of Manchester Stadium,Man. City,Club Brugge,Group A,4,1,https://fixturedownload.com/feed/json/champions-league-2021,5,3,H
+2021-22,60,4,2021-11-03 20:00:00+00:00,RB Arena,Leipzig,Paris,Group A,2,2,https://fixturedownload.com/feed/json/champions-league-2021,4,0,D
+2021-22,61,4,2021-11-03 20:00:00+00:00,Anfield,Liverpool,Atlético,Group B,2,0,https://fixturedownload.com/feed/json/champions-league-2021,2,2,H
+2021-22,62,4,2021-11-03 20:00:00+00:00,Estádio José Alvalade,Sporting CP,Besiktas,Group C,4,0,https://fixturedownload.com/feed/json/champions-league-2021,4,4,H
+2021-22,63,4,2021-11-03 20:00:00+00:00,BVB Stadion Dortmund,Dortmund,Ajax,Group C,1,3,https://fixturedownload.com/feed/json/champions-league-2021,4,-2,A
+2021-22,64,4,2021-11-03 20:00:00+00:00,Sheriff Stadion,Sheriff,Inter,Group D,1,3,https://fixturedownload.com/feed/json/champions-league-2021,4,-2,A
+2021-22,65,5,2021-11-23 17:45:00+00:00,NSC Olimpiyskiy,Dynamo Kyiv,Bayern,Group E,1,2,https://fixturedownload.com/feed/json/champions-league-2021,3,-1,A
+2021-22,66,5,2021-11-23 17:45:00+00:00,Estadio de la Cerámica,Villarreal,Man. United,Group F,0,2,https://fixturedownload.com/feed/json/champions-league-2021,2,-2,A
+2021-22,67,5,2021-11-23 20:00:00+00:00,Camp Nou,Barcelona,Benfica,Group E,0,0,https://fixturedownload.com/feed/json/champions-league-2021,0,0,D
+2021-22,68,5,2021-11-23 20:00:00+00:00,Stadion Wankdorf,Young Boys,Atalanta,Group F,3,3,https://fixturedownload.com/feed/json/champions-league-2021,6,0,D
+2021-22,69,5,2021-11-23 20:00:00+00:00,Stade Pierre Mauroy,LOSC,Salzburg,Group G,1,0,https://fixturedownload.com/feed/json/champions-league-2021,1,1,H
+2021-22,70,5,2021-11-23 20:00:00+00:00,Estadio Ramón Sánchez-Pizjuán,Sevilla,Wolfsburg,Group G,2,0,https://fixturedownload.com/feed/json/champions-league-2021,2,2,H
+2021-22,71,5,2021-11-23 20:00:00+00:00,Malmö New Stadium,Malmö,Zenit,Group H,1,1,https://fixturedownload.com/feed/json/champions-league-2021,2,0,D
+2021-22,72,5,2021-11-23 20:00:00+00:00,Stamford Bridge,Chelsea,Juventus,Group H,4,0,https://fixturedownload.com/feed/json/champions-league-2021,4,4,H
+2021-22,73,5,2021-11-24 17:45:00+00:00,Besiktas Park,Besiktas,Ajax,Group C,1,2,https://fixturedownload.com/feed/json/champions-league-2021,3,-1,A
+2021-22,74,5,2021-11-24 17:45:00+00:00,Stadio San Siro,Inter,Shakhtar Donetsk,Group D,2,0,https://fixturedownload.com/feed/json/champions-league-2021,2,2,H
+2021-22,75,5,2021-11-24 20:00:00+00:00,Jan Breydelstadion,Club Brugge,Leipzig,Group A,0,5,https://fixturedownload.com/feed/json/champions-league-2021,5,-5,A
+2021-22,76,5,2021-11-24 20:00:00+00:00,City of Manchester Stadium,Man. City,Paris,Group A,2,1,https://fixturedownload.com/feed/json/champions-league-2021,3,1,H
+2021-22,77,5,2021-11-24 20:00:00+00:00,Estadio Metropolitano,Atlético,Milan,Group B,0,1,https://fixturedownload.com/feed/json/champions-league-2021,1,-1,A
+2021-22,78,5,2021-11-24 20:00:00+00:00,Anfield,Liverpool,Porto,Group B,2,0,https://fixturedownload.com/feed/json/champions-league-2021,2,2,H
+2021-22,79,5,2021-11-24 20:00:00+00:00,Estádio José Alvalade,Sporting CP,Dortmund,Group C,3,1,https://fixturedownload.com/feed/json/champions-league-2021,4,2,H
+2021-22,80,5,2021-11-24 20:00:00+00:00,Sheriff Stadion,Sheriff,Real Madrid,Group D,0,3,https://fixturedownload.com/feed/json/champions-league-2021,3,-3,A
+2021-22,81,6,2021-12-07 17:45:00+00:00,Parc des Princes,Paris,Club Brugge,Group A,4,1,https://fixturedownload.com/feed/json/champions-league-2021,5,3,H
+2021-22,82,6,2021-12-07 17:45:00+00:00,RB Arena,Leipzig,Man. City,Group A,2,1,https://fixturedownload.com/feed/json/champions-league-2021,3,1,H
+2021-22,83,6,2021-12-07 20:00:00+00:00,Stadio San Siro,Milan,Liverpool,Group B,1,2,https://fixturedownload.com/feed/json/champions-league-2021,3,-1,A
+2021-22,84,6,2021-12-07 20:00:00+00:00,Estádio do Dragão,Porto,Atlético,Group B,1,3,https://fixturedownload.com/feed/json/champions-league-2021,4,-2,A
+2021-22,85,6,2021-12-07 20:00:00+00:00,BVB Stadion Dortmund,Dortmund,Besiktas,Group C,5,0,https://fixturedownload.com/feed/json/champions-league-2021,5,5,H
+2021-22,86,6,2021-12-07 20:00:00+00:00,Johan Cruijff ArenA,Ajax,Sporting CP,Group C,4,2,https://fixturedownload.com/feed/json/champions-league-2021,6,2,H
+2021-22,87,6,2021-12-07 20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Inter,Group D,2,0,https://fixturedownload.com/feed/json/champions-league-2021,2,2,H
+2021-22,88,6,2021-12-07 20:00:00+00:00,NSC Olimpiyskiy,Shakhtar Donetsk,Sheriff,Group D,1,1,https://fixturedownload.com/feed/json/champions-league-2021,2,0,D
+2021-22,89,6,2021-12-08 17:45:00+00:00,Juventus Stadium,Juventus,Malmö,Group H,1,0,https://fixturedownload.com/feed/json/champions-league-2021,1,1,H
+2021-22,90,6,2021-12-08 17:45:00+00:00,Gazprom Arena,Zenit,Chelsea,Group H,3,3,https://fixturedownload.com/feed/json/champions-league-2021,6,0,D
+2021-22,91,6,2021-12-08 20:00:00+00:00,Estádio do SL Benfica,Benfica,Dynamo Kyiv,Group E,2,0,https://fixturedownload.com/feed/json/champions-league-2021,2,2,H
+2021-22,92,6,2021-12-08 20:00:00+00:00,Fußball Arena München,Bayern,Barcelona,Group E,3,0,https://fixturedownload.com/feed/json/champions-league-2021,3,3,H
+2021-22,93,6,2021-12-08 20:00:00+00:00,Old Trafford,Man. United,Young Boys,Group F,1,1,https://fixturedownload.com/feed/json/champions-league-2021,2,0,D
+2021-22,95,6,2021-12-08 20:00:00+00:00,Stadion Salzburg,Salzburg,Sevilla,Group G,1,0,https://fixturedownload.com/feed/json/champions-league-2021,1,1,H
+2021-22,96,6,2021-12-08 20:00:00+00:00,VfL Wolfsburg Arena,Wolfsburg,LOSC,Group G,1,3,https://fixturedownload.com/feed/json/champions-league-2021,4,-2,A
+2021-22,94,6,2021-12-09 18:00:00+00:00,Stadio di Bergamo,Atalanta,Villarreal,Group F,2,3,https://fixturedownload.com/feed/json/champions-league-2021,5,-1,A
+2021-22,97,7,2022-02-15 20:00:00+00:00,Parc des Princes,Paris,Real Madrid,,1,0,https://fixturedownload.com/feed/json/champions-league-2021,1,1,H
+2021-22,98,7,2022-02-15 20:00:00+00:00,Estádio José Alvalade,Sporting CP,Man. City,,0,5,https://fixturedownload.com/feed/json/champions-league-2021,5,-5,A
+2021-22,99,7,2022-02-16 20:00:00+00:00,Stadio San Siro,Inter,Liverpool,,0,2,https://fixturedownload.com/feed/json/champions-league-2021,2,-2,A
+2021-22,100,7,2022-02-16 20:00:00+00:00,Stadion Salzburg,Salzburg,Bayern,,1,1,https://fixturedownload.com/feed/json/champions-league-2021,2,0,D
+2021-22,101,7,2022-02-22 20:00:00+00:00,Estadio de la Cerámica,Villarreal,Juventus,,1,1,https://fixturedownload.com/feed/json/champions-league-2021,2,0,D
+2021-22,102,7,2022-02-22 20:00:00+00:00,Stamford Bridge,Chelsea,LOSC,,2,0,https://fixturedownload.com/feed/json/champions-league-2021,2,2,H
+2021-22,103,7,2022-02-23 20:00:00+00:00,Estadio Metropolitano,Atlético,Man. United,,1,1,https://fixturedownload.com/feed/json/champions-league-2021,2,0,D
+2021-22,104,7,2022-02-23 20:00:00+00:00,Estádio do SL Benfica,Benfica,Ajax,,2,2,https://fixturedownload.com/feed/json/champions-league-2021,4,0,D
+2021-22,105,8,2022-03-08 20:00:00+00:00,Fußball Arena München,Bayern,Salzburg,,7,1,https://fixturedownload.com/feed/json/champions-league-2021,8,6,H
+2021-22,106,8,2022-03-08 20:00:00+00:00,Anfield,Liverpool,Inter,,0,1,https://fixturedownload.com/feed/json/champions-league-2021,1,-1,A
+2021-22,107,8,2022-03-09 20:00:00+00:00,City of Manchester Stadium,Man. City,Sporting CP,,0,0,https://fixturedownload.com/feed/json/champions-league-2021,0,0,D
+2021-22,108,8,2022-03-09 20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Paris,,3,1,https://fixturedownload.com/feed/json/champions-league-2021,4,2,H
+2021-22,109,8,2022-03-15 20:00:00+00:00,Johan Cruijff ArenA,Ajax,Benfica,,0,1,https://fixturedownload.com/feed/json/champions-league-2021,1,-1,A
+2021-22,110,8,2022-03-15 20:00:00+00:00,Old Trafford,Man. United,Atlético,,0,1,https://fixturedownload.com/feed/json/champions-league-2021,1,-1,A
+2021-22,111,8,2022-03-16 20:00:00+00:00,Stade Pierre Mauroy,LOSC,Chelsea,,1,2,https://fixturedownload.com/feed/json/champions-league-2021,3,-1,A
+2021-22,112,8,2022-03-16 20:00:00+00:00,Juventus Stadium,Juventus,Villarreal,,0,3,https://fixturedownload.com/feed/json/champions-league-2021,3,-3,A
+2021-22,113,9,2022-04-05 19:00:00+00:00,City of Manchester Stadium,Man. City,Atlético,,1,0,https://fixturedownload.com/feed/json/champions-league-2021,1,1,H
+2021-22,114,9,2022-04-05 19:00:00+00:00,Estádio do SL Benfica,Benfica,Liverpool,,1,3,https://fixturedownload.com/feed/json/champions-league-2021,4,-2,A
+2021-22,115,9,2022-04-06 19:00:00+00:00,Stamford Bridge,Chelsea,Real Madrid,,1,3,https://fixturedownload.com/feed/json/champions-league-2021,4,-2,A
+2021-22,116,9,2022-04-06 19:00:00+00:00,Estadio de la Cerámica,Villarreal,Bayern,,1,0,https://fixturedownload.com/feed/json/champions-league-2021,1,1,H
+2021-22,117,10,2022-04-12 19:00:00+00:00,Fußball Arena München,Bayern,Villarreal,,1,1,https://fixturedownload.com/feed/json/champions-league-2021,2,0,D
+2021-22,118,10,2022-04-12 19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Chelsea,,2,3,https://fixturedownload.com/feed/json/champions-league-2021,5,-1,A
+2021-22,119,10,2022-04-13 19:00:00+00:00,Anfield,Liverpool,Benfica,,3,3,https://fixturedownload.com/feed/json/champions-league-2021,6,0,D
+2021-22,120,10,2022-04-13 19:00:00+00:00,Estadio Metropolitano,Atlético,Man. City,,0,0,https://fixturedownload.com/feed/json/champions-league-2021,0,0,D
+2021-22,121,11,2022-04-26 19:00:00+00:00,City of Manchester Stadium,Man. City,Real Madrid,,4,3,https://fixturedownload.com/feed/json/champions-league-2021,7,1,H
+2021-22,122,11,2022-04-27 19:00:00+00:00,Anfield,Liverpool,Villarreal,,2,0,https://fixturedownload.com/feed/json/champions-league-2021,2,2,H
+2021-22,123,12,2022-05-03 19:00:00+00:00,Estadio de la Cerámica,Villarreal,Liverpool,,2,3,https://fixturedownload.com/feed/json/champions-league-2021,5,-1,A
+2021-22,124,12,2022-05-04 19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Man. City,,3,1,https://fixturedownload.com/feed/json/champions-league-2021,4,2,H
+2021-22,125,13,2022-05-28 19:00:00+00:00,Stade de France,Liverpool,Real Madrid,,0,1,https://fixturedownload.com/feed/json/champions-league-2021,1,-1,A
+2022-23,1,1,2022-09-06 16:45:00+00:00,Stadion Maksimir,Dinamo Zagreb,Chelsea,Group E,1,0,https://fixturedownload.com/feed/json/champions-league-2022,1,1,H
+2022-23,2,1,2022-09-06 16:45:00+00:00,BVB Stadion Dortmund,Dortmund,Copenhagen,Group G,3,0,https://fixturedownload.com/feed/json/champions-league-2022,3,3,H
+2022-23,3,1,2022-09-06 19:00:00+00:00,Stadion Salzburg,Salzburg,Milan,Group E,1,1,https://fixturedownload.com/feed/json/champions-league-2022,2,0,D
+2022-23,4,1,2022-09-06 19:00:00+00:00,Celtic Park,Celtic,Real Madrid,Group F,0,3,https://fixturedownload.com/feed/json/champions-league-2022,3,-3,A
+2022-23,5,1,2022-09-06 19:00:00+00:00,RB Arena,Leipzig,Shakhtar Donetsk,Group F,1,4,https://fixturedownload.com/feed/json/champions-league-2022,5,-3,A
+2022-23,6,1,2022-09-06 19:00:00+00:00,Estadio Ramón Sánchez-Pizjuán,Sevilla,Man City,Group G,0,4,https://fixturedownload.com/feed/json/champions-league-2022,4,-4,A
+2022-23,7,1,2022-09-06 19:00:00+00:00,Parc des Princes,Paris,Juventus,Group H,2,1,https://fixturedownload.com/feed/json/champions-league-2022,3,1,H
+2022-23,8,1,2022-09-06 19:00:00+00:00,Estádio do SL Benfica,Benfica,M. Haifa,Group H,2,0,https://fixturedownload.com/feed/json/champions-league-2022,2,2,H
+2022-23,9,1,2022-09-07 16:45:00+00:00,Johan Cruijff ArenA,Ajax,Rangers,Group A,4,0,https://fixturedownload.com/feed/json/champions-league-2022,4,4,H
+2022-23,10,1,2022-09-07 16:45:00+00:00,Frankfurt Stadion,Frankfurt,Sporting CP,Group D,0,3,https://fixturedownload.com/feed/json/champions-league-2022,3,-3,A
+2022-23,11,1,2022-09-07 19:00:00+00:00,Stadio Diego Armando Maradona,Napoli,Liverpool,Group A,4,1,https://fixturedownload.com/feed/json/champions-league-2022,5,3,H
+2022-23,12,1,2022-09-07 19:00:00+00:00,Estadio Metropolitano,Atlético,Porto,Group B,2,1,https://fixturedownload.com/feed/json/champions-league-2022,3,1,H
+2022-23,13,1,2022-09-07 19:00:00+00:00,Jan Breydelstadion,Club Brugge,Leverkusen,Group B,1,0,https://fixturedownload.com/feed/json/champions-league-2022,1,1,H
+2022-23,14,1,2022-09-07 19:00:00+00:00,Camp Nou,Barcelona,Plzen,Group C,5,1,https://fixturedownload.com/feed/json/champions-league-2022,6,4,H
+2022-23,15,1,2022-09-07 19:00:00+00:00,Stadio San Siro,Inter,Bayern,Group C,0,2,https://fixturedownload.com/feed/json/champions-league-2022,2,-2,A
+2022-23,16,1,2022-09-07 19:00:00+00:00,Tottenham Hotspur Stadium,Tottenham,Marseille,Group D,2,0,https://fixturedownload.com/feed/json/champions-league-2022,2,2,H
+2022-23,17,2,2022-09-13 16:45:00+00:00,Stadion mesta Plzne,Plzen,Inter,Group C,0,2,https://fixturedownload.com/feed/json/champions-league-2022,2,-2,A
+2022-23,18,2,2022-09-13 16:45:00+00:00,Estádio José Alvalade,Sporting CP,Tottenham,Group D,2,0,https://fixturedownload.com/feed/json/champions-league-2022,2,2,H
+2022-23,19,2,2022-09-13 19:00:00+00:00,Anfield,Liverpool,Ajax,Group A,2,1,https://fixturedownload.com/feed/json/champions-league-2022,3,1,H
+2022-23,21,2,2022-09-13 19:00:00+00:00,Estádio do Dragão,Porto,Club Brugge,Group B,0,4,https://fixturedownload.com/feed/json/champions-league-2022,4,-4,A
+2022-23,22,2,2022-09-13 19:00:00+00:00,BayArena,Leverkusen,Atlético,Group B,2,0,https://fixturedownload.com/feed/json/champions-league-2022,2,2,H
+2022-23,23,2,2022-09-13 19:00:00+00:00,Fußball Arena München,Bayern,Barcelona,Group C,2,0,https://fixturedownload.com/feed/json/champions-league-2022,2,2,H
+2022-23,24,2,2022-09-13 19:00:00+00:00,Stade de Marseille,Marseille,Frankfurt,Group D,0,1,https://fixturedownload.com/feed/json/champions-league-2022,1,-1,A
+2022-23,25,2,2022-09-14 16:45:00+00:00,Stadio San Siro,Milan,Dinamo Zagreb,Group E,3,1,https://fixturedownload.com/feed/json/champions-league-2022,4,2,H
+2022-23,26,2,2022-09-14 16:45:00+00:00,Municipal Stadium of Legia Warszawa,Shakhtar Donetsk,Celtic,Group F,1,1,https://fixturedownload.com/feed/json/champions-league-2022,2,0,D
+2022-23,20,2,2022-09-14 19:00:00+00:00,Ibrox Stadium,Rangers,Napoli,Group A,0,3,https://fixturedownload.com/feed/json/champions-league-2022,3,-3,A
+2022-23,27,2,2022-09-14 19:00:00+00:00,Stamford Bridge,Chelsea,Salzburg,Group E,1,1,https://fixturedownload.com/feed/json/champions-league-2022,2,0,D
+2022-23,28,2,2022-09-14 19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Leipzig,Group F,2,0,https://fixturedownload.com/feed/json/champions-league-2022,2,2,H
+2022-23,29,2,2022-09-14 19:00:00+00:00,City of Manchester Stadium,Man City,Dortmund,Group G,2,1,https://fixturedownload.com/feed/json/champions-league-2022,3,1,H
+2022-23,30,2,2022-09-14 19:00:00+00:00,Parken,Copenhagen,Sevilla,Group G,0,0,https://fixturedownload.com/feed/json/champions-league-2022,0,0,D
+2022-23,31,2,2022-09-14 19:00:00+00:00,Juventus Stadium,Juventus,Benfica,Group H,1,2,https://fixturedownload.com/feed/json/champions-league-2022,3,-1,A
+2022-23,32,2,2022-09-14 19:00:00+00:00,Sammy Ofer Stadium,M. Haifa,Paris,Group H,1,3,https://fixturedownload.com/feed/json/champions-league-2022,4,-2,A
+2022-23,33,3,2022-10-04 16:45:00+00:00,Fußball Arena München,Bayern,Plzen,Group C,5,0,https://fixturedownload.com/feed/json/champions-league-2022,5,5,H
+2022-23,34,3,2022-10-04 16:45:00+00:00,Stade de Marseille,Marseille,Sporting CP,Group D,4,1,https://fixturedownload.com/feed/json/champions-league-2022,5,3,H
+2022-23,35,3,2022-10-04 19:00:00+00:00,Anfield,Liverpool,Rangers,Group A,2,0,https://fixturedownload.com/feed/json/champions-league-2022,2,2,H
+2022-23,36,3,2022-10-04 19:00:00+00:00,Johan Cruijff ArenA,Ajax,Napoli,Group A,1,6,https://fixturedownload.com/feed/json/champions-league-2022,7,-5,A
+2022-23,37,3,2022-10-04 19:00:00+00:00,Estádio do Dragão,Porto,Leverkusen,Group B,2,0,https://fixturedownload.com/feed/json/champions-league-2022,2,2,H
+2022-23,38,3,2022-10-04 19:00:00+00:00,Jan Breydelstadion,Club Brugge,Atlético,Group B,2,0,https://fixturedownload.com/feed/json/champions-league-2022,2,2,H
+2022-23,39,3,2022-10-04 19:00:00+00:00,Stadio San Siro,Inter,Barcelona,Group C,1,0,https://fixturedownload.com/feed/json/champions-league-2022,1,1,H
+2022-23,40,3,2022-10-04 19:00:00+00:00,Frankfurt Stadion,Frankfurt,Tottenham,Group D,0,0,https://fixturedownload.com/feed/json/champions-league-2022,0,0,D
+2022-23,41,3,2022-10-05 16:45:00+00:00,Stadion Salzburg,Salzburg,Dinamo Zagreb,Group E,1,0,https://fixturedownload.com/feed/json/champions-league-2022,1,1,H
+2022-23,42,3,2022-10-05 16:45:00+00:00,RB Arena,Leipzig,Celtic,Group F,3,1,https://fixturedownload.com/feed/json/champions-league-2022,4,2,H
+2022-23,43,3,2022-10-05 19:00:00+00:00,Stamford Bridge,Chelsea,Milan,Group E,3,0,https://fixturedownload.com/feed/json/champions-league-2022,3,3,H
+2022-23,44,3,2022-10-05 19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Shakhtar Donetsk,Group F,2,1,https://fixturedownload.com/feed/json/champions-league-2022,3,1,H
+2022-23,45,3,2022-10-05 19:00:00+00:00,City of Manchester Stadium,Man City,Copenhagen,Group G,5,0,https://fixturedownload.com/feed/json/champions-league-2022,5,5,H
+2022-23,46,3,2022-10-05 19:00:00+00:00,Estadio Ramón Sánchez-Pizjuán,Sevilla,Dortmund,Group G,1,4,https://fixturedownload.com/feed/json/champions-league-2022,5,-3,A
+2022-23,47,3,2022-10-05 19:00:00+00:00,Juventus Stadium,Juventus,M. Haifa,Group H,3,1,https://fixturedownload.com/feed/json/champions-league-2022,4,2,H
+2022-23,48,3,2022-10-05 19:00:00+00:00,Estádio do SL Benfica,Benfica,Paris,Group H,1,1,https://fixturedownload.com/feed/json/champions-league-2022,2,0,D
+2022-23,49,4,2022-10-11 16:45:00+00:00,Parken,Copenhagen,Man City,Group G,0,0,https://fixturedownload.com/feed/json/champions-league-2022,0,0,D
+2022-23,50,4,2022-10-11 16:45:00+00:00,Sammy Ofer Stadium,M. Haifa,Juventus,Group H,2,0,https://fixturedownload.com/feed/json/champions-league-2022,2,2,H
+2022-23,51,4,2022-10-11 19:00:00+00:00,Stadion Maksimir,Dinamo Zagreb,Salzburg,Group E,1,1,https://fixturedownload.com/feed/json/champions-league-2022,2,0,D
+2022-23,52,4,2022-10-11 19:00:00+00:00,Stadio San Siro,Milan,Chelsea,Group E,0,2,https://fixturedownload.com/feed/json/champions-league-2022,2,-2,A
+2022-23,53,4,2022-10-11 19:00:00+00:00,Municipal Stadium of Legia Warszawa,Shakhtar Donetsk,Real Madrid,Group F,1,1,https://fixturedownload.com/feed/json/champions-league-2022,2,0,D
+2022-23,54,4,2022-10-11 19:00:00+00:00,Celtic Park,Celtic,Leipzig,Group F,0,2,https://fixturedownload.com/feed/json/champions-league-2022,2,-2,A
+2022-23,55,4,2022-10-11 19:00:00+00:00,BVB Stadion Dortmund,Dortmund,Sevilla,Group G,1,1,https://fixturedownload.com/feed/json/champions-league-2022,2,0,D
+2022-23,56,4,2022-10-11 19:00:00+00:00,Parc des Princes,Paris,Benfica,Group H,1,1,https://fixturedownload.com/feed/json/champions-league-2022,2,0,D
+2022-23,57,4,2022-10-12 16:45:00+00:00,Stadio Diego Armando Maradona,Napoli,Ajax,Group A,4,2,https://fixturedownload.com/feed/json/champions-league-2022,6,2,H
+2022-23,58,4,2022-10-12 16:45:00+00:00,Estadio Metropolitano,Atlético,Club Brugge,Group B,0,0,https://fixturedownload.com/feed/json/champions-league-2022,0,0,D
+2022-23,59,4,2022-10-12 19:00:00+00:00,Ibrox Stadium,Rangers,Liverpool,Group A,1,7,https://fixturedownload.com/feed/json/champions-league-2022,8,-6,A
+2022-23,60,4,2022-10-12 19:00:00+00:00,BayArena,Leverkusen,Porto,Group B,0,3,https://fixturedownload.com/feed/json/champions-league-2022,3,-3,A
+2022-23,61,4,2022-10-12 19:00:00+00:00,Camp Nou,Barcelona,Inter,Group C,3,3,https://fixturedownload.com/feed/json/champions-league-2022,6,0,D
+2022-23,62,4,2022-10-12 19:00:00+00:00,Stadion mesta Plzne,Plzen,Bayern,Group C,2,4,https://fixturedownload.com/feed/json/champions-league-2022,6,-2,A
+2022-23,63,4,2022-10-12 19:00:00+00:00,Tottenham Hotspur Stadium,Tottenham,Frankfurt,Group D,3,2,https://fixturedownload.com/feed/json/champions-league-2022,5,1,H
+2022-23,64,4,2022-10-12 19:00:00+00:00,Estádio José Alvalade,Sporting CP,Marseille,Group D,0,2,https://fixturedownload.com/feed/json/champions-league-2022,2,-2,A
+2022-23,65,5,2022-10-25 16:45:00+00:00,Stadion Salzburg,Salzburg,Chelsea,Group E,1,2,https://fixturedownload.com/feed/json/champions-league-2022,3,-1,A
+2022-23,66,5,2022-10-25 16:45:00+00:00,Estadio Ramón Sánchez-Pizjuán,Sevilla,Copenhagen,Group G,3,0,https://fixturedownload.com/feed/json/champions-league-2022,3,3,H
+2022-23,67,5,2022-10-25 19:00:00+00:00,Stadion Maksimir,Dinamo Zagreb,Milan,Group E,0,4,https://fixturedownload.com/feed/json/champions-league-2022,4,-4,A
+2022-23,68,5,2022-10-25 19:00:00+00:00,Celtic Park,Celtic,Shakhtar Donetsk,Group F,1,1,https://fixturedownload.com/feed/json/champions-league-2022,2,0,D
+2022-23,69,5,2022-10-25 19:00:00+00:00,RB Arena,Leipzig,Real Madrid,Group F,3,2,https://fixturedownload.com/feed/json/champions-league-2022,5,1,H
+2022-23,70,5,2022-10-25 19:00:00+00:00,BVB Stadion Dortmund,Dortmund,Man City,Group G,0,0,https://fixturedownload.com/feed/json/champions-league-2022,0,0,D
+2022-23,71,5,2022-10-25 19:00:00+00:00,Parc des Princes,Paris,M. Haifa,Group H,7,2,https://fixturedownload.com/feed/json/champions-league-2022,9,5,H
+2022-23,72,5,2022-10-25 19:00:00+00:00,Estádio do SL Benfica,Benfica,Juventus,Group H,4,3,https://fixturedownload.com/feed/json/champions-league-2022,7,1,H
+2022-23,73,5,2022-10-26 16:45:00+00:00,Jan Breydelstadion,Club Brugge,Porto,Group B,0,4,https://fixturedownload.com/feed/json/champions-league-2022,4,-4,A
+2022-23,74,5,2022-10-26 16:45:00+00:00,Stadio San Siro,Inter,Plzen,Group C,4,0,https://fixturedownload.com/feed/json/champions-league-2022,4,4,H
+2022-23,75,5,2022-10-26 19:00:00+00:00,Stadio Diego Armando Maradona,Napoli,Rangers,Group A,3,0,https://fixturedownload.com/feed/json/champions-league-2022,3,3,H
+2022-23,76,5,2022-10-26 19:00:00+00:00,Johan Cruijff ArenA,Ajax,Liverpool,Group A,0,3,https://fixturedownload.com/feed/json/champions-league-2022,3,-3,A
+2022-23,77,5,2022-10-26 19:00:00+00:00,Estadio Metropolitano,Atlético,Leverkusen,Group B,2,2,https://fixturedownload.com/feed/json/champions-league-2022,4,0,D
+2022-23,78,5,2022-10-26 19:00:00+00:00,Camp Nou,Barcelona,Bayern,Group C,0,3,https://fixturedownload.com/feed/json/champions-league-2022,3,-3,A
+2022-23,79,5,2022-10-26 19:00:00+00:00,Tottenham Hotspur Stadium,Tottenham,Sporting CP,Group D,1,1,https://fixturedownload.com/feed/json/champions-league-2022,2,0,D
+2022-23,80,5,2022-10-26 19:00:00+00:00,Frankfurt Stadion,Frankfurt,Marseille,Group D,2,1,https://fixturedownload.com/feed/json/champions-league-2022,3,1,H
+2022-23,81,6,2022-11-01 17:45:00+00:00,Estádio do Dragão,Porto,Atlético,Group B,2,1,https://fixturedownload.com/feed/json/champions-league-2022,3,1,H
+2022-23,82,6,2022-11-01 17:45:00+00:00,BayArena,Leverkusen,Club Brugge,Group B,0,0,https://fixturedownload.com/feed/json/champions-league-2022,0,0,D
+2022-23,83,6,2022-11-01 20:00:00+00:00,Anfield,Liverpool,Napoli,Group A,2,0,https://fixturedownload.com/feed/json/champions-league-2022,2,2,H
+2022-23,84,6,2022-11-01 20:00:00+00:00,Ibrox Stadium,Rangers,Ajax,Group A,1,3,https://fixturedownload.com/feed/json/champions-league-2022,4,-2,A
+2022-23,85,6,2022-11-01 20:00:00+00:00,Fußball Arena München,Bayern,Inter,Group C,2,0,https://fixturedownload.com/feed/json/champions-league-2022,2,2,H
+2022-23,86,6,2022-11-01 20:00:00+00:00,Stadion mesta Plzne,Plzen,Barcelona,Group C,2,4,https://fixturedownload.com/feed/json/champions-league-2022,6,-2,A
+2022-23,87,6,2022-11-01 20:00:00+00:00,Estádio José Alvalade,Sporting CP,Frankfurt,Group D,1,2,https://fixturedownload.com/feed/json/champions-league-2022,3,-1,A
+2022-23,88,6,2022-11-01 20:00:00+00:00,Stade de Marseille,Marseille,Tottenham,Group D,1,2,https://fixturedownload.com/feed/json/champions-league-2022,3,-1,A
+2022-23,89,6,2022-11-02 17:45:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Celtic,Group F,5,1,https://fixturedownload.com/feed/json/champions-league-2022,6,4,H
+2022-23,90,6,2022-11-02 17:45:00+00:00,Municipal Stadium of Legia Warszawa,Shakhtar Donetsk,Leipzig,Group F,0,4,https://fixturedownload.com/feed/json/champions-league-2022,4,-4,A
+2022-23,91,6,2022-11-02 20:00:00+00:00,Stamford Bridge,Chelsea,Dinamo Zagreb,Group E,2,1,https://fixturedownload.com/feed/json/champions-league-2022,3,1,H
+2022-23,92,6,2022-11-02 20:00:00+00:00,Stadio San Siro,Milan,Salzburg,Group E,4,0,https://fixturedownload.com/feed/json/champions-league-2022,4,4,H
+2022-23,93,6,2022-11-02 20:00:00+00:00,City of Manchester Stadium,Man City,Sevilla,Group G,3,1,https://fixturedownload.com/feed/json/champions-league-2022,4,2,H
+2022-23,94,6,2022-11-02 20:00:00+00:00,Parken,Copenhagen,Dortmund,Group G,1,1,https://fixturedownload.com/feed/json/champions-league-2022,2,0,D
+2022-23,95,6,2022-11-02 20:00:00+00:00,Juventus Stadium,Juventus,Paris,Group H,1,2,https://fixturedownload.com/feed/json/champions-league-2022,3,-1,A
+2022-23,96,6,2022-11-02 20:00:00+00:00,Sammy Ofer Stadium,M. Haifa,Benfica,Group H,1,6,https://fixturedownload.com/feed/json/champions-league-2022,7,-5,A
+2022-23,97,7,2023-02-14 20:00:00+00:00,Stadio San Siro,Milan,Tottenham,,1,0,https://fixturedownload.com/feed/json/champions-league-2022,1,1,H
+2022-23,98,7,2023-02-14 20:00:00+00:00,Parc des Princes,Paris,Bayern,,0,1,https://fixturedownload.com/feed/json/champions-league-2022,1,-1,A
+2022-23,99,7,2023-02-15 20:00:00+00:00,Jan Breydelstadion,Club Brugge,Benfica,,0,2,https://fixturedownload.com/feed/json/champions-league-2022,2,-2,A
+2022-23,100,7,2023-02-15 20:00:00+00:00,BVB Stadion Dortmund,Dortmund,Chelsea,,1,0,https://fixturedownload.com/feed/json/champions-league-2022,1,1,H
+2022-23,101,7,2023-02-21 20:00:00+00:00,Anfield,Liverpool,Real Madrid,,2,5,https://fixturedownload.com/feed/json/champions-league-2022,7,-3,A
+2022-23,102,7,2023-02-21 20:00:00+00:00,Frankfurt Stadion,Frankfurt,Napoli,,0,2,https://fixturedownload.com/feed/json/champions-league-2022,2,-2,A
+2022-23,103,7,2023-02-22 20:00:00+00:00,RB Arena,Leipzig,Man City,,1,1,https://fixturedownload.com/feed/json/champions-league-2022,2,0,D
+2022-23,104,7,2023-02-22 20:00:00+00:00,Stadio San Siro,Inter,Porto,,1,0,https://fixturedownload.com/feed/json/champions-league-2022,1,1,H
+2022-23,105,8,2023-03-07 20:00:00+00:00,Estádio do SL Benfica,Benfica,Club Brugge,,5,1,https://fixturedownload.com/feed/json/champions-league-2022,6,4,H
+2022-23,106,8,2023-03-07 20:10:00+00:00,Stamford Bridge,Chelsea,Dortmund,,2,0,https://fixturedownload.com/feed/json/champions-league-2022,2,2,H
+2022-23,108,8,2023-03-08 20:00:00+00:00,Fußball Arena München,Bayern,Paris,,2,0,https://fixturedownload.com/feed/json/champions-league-2022,2,2,H
+2022-23,107,8,2023-03-08 20:10:00+00:00,Tottenham Hotspur Stadium,Tottenham,Milan,,0,0,https://fixturedownload.com/feed/json/champions-league-2022,0,0,D
+2022-23,109,8,2023-03-14 20:00:00+00:00,City of Manchester Stadium,Man City,Leipzig,,7,0,https://fixturedownload.com/feed/json/champions-league-2022,7,7,H
+2022-23,110,8,2023-03-14 20:00:00+00:00,Estádio do Dragão,Porto,Inter,,0,0,https://fixturedownload.com/feed/json/champions-league-2022,0,0,D
+2022-23,111,8,2023-03-15 20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Liverpool,,1,0,https://fixturedownload.com/feed/json/champions-league-2022,1,1,H
+2022-23,112,8,2023-03-15 20:00:00+00:00,Stadio Diego Armando Maradona,Napoli,Frankfurt,,3,0,https://fixturedownload.com/feed/json/champions-league-2022,3,3,H
+2022-23,113,9,2023-04-11 19:00:00+00:00,Estádio do SL Benfica,Benfica,Inter,,0,2,https://fixturedownload.com/feed/json/champions-league-2022,2,-2,A
+2022-23,114,9,2023-04-11 19:00:00+00:00,City of Manchester Stadium,Man City,Bayern,,3,0,https://fixturedownload.com/feed/json/champions-league-2022,3,3,H
+2022-23,115,9,2023-04-12 19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Chelsea,,2,0,https://fixturedownload.com/feed/json/champions-league-2022,2,2,H
+2022-23,116,9,2023-04-12 19:00:00+00:00,Stadio San Siro,Milan,Napoli,,1,0,https://fixturedownload.com/feed/json/champions-league-2022,1,1,H
+2022-23,117,10,2023-04-18 19:00:00+00:00,Stadio Diego Armando Maradona,Napoli,Milan,,1,1,https://fixturedownload.com/feed/json/champions-league-2022,2,0,D
+2022-23,118,10,2023-04-18 19:00:00+00:00,Stamford Bridge,Chelsea,Real Madrid,,0,2,https://fixturedownload.com/feed/json/champions-league-2022,2,-2,A
+2022-23,119,10,2023-04-19 19:00:00+00:00,Fußball Arena München,Bayern,Man City,,1,1,https://fixturedownload.com/feed/json/champions-league-2022,2,0,D
+2022-23,120,10,2023-04-19 19:00:00+00:00,Stadio San Siro,Inter,Benfica,,3,3,https://fixturedownload.com/feed/json/champions-league-2022,6,0,D
+2022-23,121,11,2023-05-09 19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Man City,,1,1,https://fixturedownload.com/feed/json/champions-league-2022,2,0,D
+2022-23,122,11,2023-05-10 19:00:00+00:00,Stadio San Siro,Milan,Inter,,0,2,https://fixturedownload.com/feed/json/champions-league-2022,2,-2,A
+2022-23,123,12,2023-05-16 19:00:00+00:00,Stadio San Siro,Inter,Milan,,1,0,https://fixturedownload.com/feed/json/champions-league-2022,1,1,H
+2022-23,124,12,2023-05-17 19:00:00+00:00,City of Manchester Stadium,Man City,Real Madrid,,4,0,https://fixturedownload.com/feed/json/champions-league-2022,4,4,H
+2022-23,125,13,2023-06-10 19:00:00+00:00,Atatürk Olimpiyat Stadyumu,Man City,Inter,,1,0,https://fixturedownload.com/feed/json/champions-league-2022,1,1,H
+2023-24,1,1,2023-09-19 16:45:00+00:00,Stadio San Siro,Milan,Newcastle,Group F,0,0,https://fixturedownload.com/feed/json/champions-league-2023,0,0,D
+2023-24,2,1,2023-09-19 16:45:00+00:00,Stadion Wankdorf,Young Boys,Leipzig,Group G,1,3,https://fixturedownload.com/feed/json/champions-league-2023,4,-2,A
+2023-24,3,1,2023-09-19 19:00:00+00:00,Stadion Feijenoord 'De Kuip',Feyenoord,Celtic,Group E,2,0,https://fixturedownload.com/feed/json/champions-league-2023,2,2,H
+2023-24,4,1,2023-09-19 19:00:00+00:00,Stadio Olimpico,Lazio,Atlético de Madrid,Group E,1,1,https://fixturedownload.com/feed/json/champions-league-2023,2,0,D
+2023-24,5,1,2023-09-19 19:00:00+00:00,Parc des Princes,Paris,Dortmund,Group F,2,0,https://fixturedownload.com/feed/json/champions-league-2023,2,2,H
+2023-24,6,1,2023-09-19 19:00:00+00:00,City of Manchester Stadium,Man City,Crvena zvezda,Group G,3,1,https://fixturedownload.com/feed/json/champions-league-2023,4,2,H
+2023-24,7,1,2023-09-19 19:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,Antwerp,Group H,5,0,https://fixturedownload.com/feed/json/champions-league-2023,5,5,H
+2023-24,8,1,2023-09-19 19:00:00+00:00,Volksparkstadion,Shakhtar Donetsk,FC Porto,Group H,1,3,https://fixturedownload.com/feed/json/champions-league-2023,4,-2,A
+2023-24,9,1,2023-09-20 16:45:00+00:00,Ali Sami Yen Spor Kompleksi,Galatasaray,Copenhagen,Group A,2,2,https://fixturedownload.com/feed/json/champions-league-2023,4,0,D
+2023-24,10,1,2023-09-20 16:45:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Union Berlin,Group C,1,0,https://fixturedownload.com/feed/json/champions-league-2023,1,1,H
+2023-24,11,1,2023-09-20 19:00:00+00:00,Fußball Arena München,Bayern,Man United,Group A,4,3,https://fixturedownload.com/feed/json/champions-league-2023,7,1,H
+2023-24,12,1,2023-09-20 19:00:00+00:00,Estadio Ramón Sánchez-Pizjuán,Sevilla,Lens,Group B,1,1,https://fixturedownload.com/feed/json/champions-league-2023,2,0,D
+2023-24,13,1,2023-09-20 19:00:00+00:00,Arsenal Stadium,Arsenal,PSV,Group B,4,0,https://fixturedownload.com/feed/json/champions-league-2023,4,4,H
+2023-24,14,1,2023-09-20 19:00:00+00:00,Estádio Municipal de Braga,Braga,Napoli,Group C,1,2,https://fixturedownload.com/feed/json/champions-league-2023,3,-1,A
+2023-24,15,1,2023-09-20 19:00:00+00:00,Reale Arena,Real Sociedad,Inter,Group D,1,1,https://fixturedownload.com/feed/json/champions-league-2023,2,0,D
+2023-24,16,1,2023-09-20 19:00:00+00:00,Estádio do SL Benfica,Benfica,Salzburg,Group D,0,2,https://fixturedownload.com/feed/json/champions-league-2023,2,-2,A
+2023-24,17,2,2023-10-03 16:45:00+00:00,Olympiastadion,Union Berlin,Braga,Group C,2,3,https://fixturedownload.com/feed/json/champions-league-2023,5,-1,A
+2023-24,18,2,2023-10-03 16:45:00+00:00,Stadion Salzburg,Salzburg,Real Sociedad,Group D,0,2,https://fixturedownload.com/feed/json/champions-league-2023,2,-2,A
+2023-24,19,2,2023-10-03 19:00:00+00:00,Old Trafford,Man United,Galatasaray,Group A,2,3,https://fixturedownload.com/feed/json/champions-league-2023,5,-1,A
+2023-24,20,2,2023-10-03 19:00:00+00:00,Parken,Copenhagen,Bayern,Group A,1,2,https://fixturedownload.com/feed/json/champions-league-2023,3,-1,A
+2023-24,21,2,2023-10-03 19:00:00+00:00,Stade Bollaert-Delelis,Lens,Arsenal,Group B,2,1,https://fixturedownload.com/feed/json/champions-league-2023,3,1,H
+2023-24,22,2,2023-10-03 19:00:00+00:00,PSV Stadion,PSV,Sevilla,Group B,2,2,https://fixturedownload.com/feed/json/champions-league-2023,4,0,D
+2023-24,23,2,2023-10-03 19:00:00+00:00,Stadio Diego Armando Maradona,Napoli,Real Madrid,Group C,2,3,https://fixturedownload.com/feed/json/champions-league-2023,5,-1,A
+2023-24,24,2,2023-10-03 19:00:00+00:00,Stadio San Siro,Inter,Benfica,Group D,1,0,https://fixturedownload.com/feed/json/champions-league-2023,1,1,H
+2023-24,25,2,2023-10-04 16:45:00+00:00,Estadio Metropolitano,Atlético de Madrid,Feyenoord,Group E,3,2,https://fixturedownload.com/feed/json/champions-league-2023,5,1,H
+2023-24,26,2,2023-10-04 16:45:00+00:00,Bosuil,Antwerp,Shakhtar Donetsk,Group H,2,3,https://fixturedownload.com/feed/json/champions-league-2023,5,-1,A
+2023-24,27,2,2023-10-04 19:00:00+00:00,Celtic Park,Celtic,Lazio,Group E,1,2,https://fixturedownload.com/feed/json/champions-league-2023,3,-1,A
+2023-24,28,2,2023-10-04 19:00:00+00:00,BVB Stadion Dortmund,Dortmund,Milan,Group F,0,0,https://fixturedownload.com/feed/json/champions-league-2023,0,0,D
+2023-24,29,2,2023-10-04 19:00:00+00:00,St James' Park,Newcastle,Paris,Group F,4,1,https://fixturedownload.com/feed/json/champions-league-2023,5,3,H
+2023-24,30,2,2023-10-04 19:00:00+00:00,RB Arena,Leipzig,Man City,Group G,1,3,https://fixturedownload.com/feed/json/champions-league-2023,4,-2,A
+2023-24,31,2,2023-10-04 19:00:00+00:00,Stadion Rajko Mitic,Crvena zvezda,Young Boys,Group G,2,2,https://fixturedownload.com/feed/json/champions-league-2023,4,0,D
+2023-24,32,2,2023-10-04 19:00:00+00:00,Estádio do Dragão,FC Porto,Barcelona,Group H,0,1,https://fixturedownload.com/feed/json/champions-league-2023,1,-1,A
+2023-24,33,3,2023-10-24 16:45:00+00:00,Ali Sami Yen Spor Kompleksi,Galatasaray,Bayern,Group A,1,3,https://fixturedownload.com/feed/json/champions-league-2023,4,-2,A
+2023-24,34,3,2023-10-24 16:45:00+00:00,Stadio San Siro,Inter,Salzburg,Group D,2,1,https://fixturedownload.com/feed/json/champions-league-2023,3,1,H
+2023-24,35,3,2023-10-24 19:00:00+00:00,Old Trafford,Man United,Copenhagen,Group A,1,0,https://fixturedownload.com/feed/json/champions-league-2023,1,1,H
+2023-24,36,3,2023-10-24 19:00:00+00:00,Estadio Ramón Sánchez-Pizjuán,Sevilla,Arsenal,Group B,1,2,https://fixturedownload.com/feed/json/champions-league-2023,3,-1,A
+2023-24,37,3,2023-10-24 19:00:00+00:00,Stade Bollaert-Delelis,Lens,PSV,Group B,1,1,https://fixturedownload.com/feed/json/champions-league-2023,2,0,D
+2023-24,38,3,2023-10-24 19:00:00+00:00,Estádio Municipal de Braga,Braga,Real Madrid,Group C,1,2,https://fixturedownload.com/feed/json/champions-league-2023,3,-1,A
+2023-24,39,3,2023-10-24 19:00:00+00:00,Olympiastadion,Union Berlin,Napoli,Group C,0,1,https://fixturedownload.com/feed/json/champions-league-2023,1,-1,A
+2023-24,40,3,2023-10-24 19:00:00+00:00,Estádio do SL Benfica,Benfica,Real Sociedad,Group D,0,1,https://fixturedownload.com/feed/json/champions-league-2023,1,-1,A
+2023-24,41,3,2023-10-25 16:45:00+00:00,Stadion Feijenoord 'De Kuip',Feyenoord,Lazio,Group E,3,1,https://fixturedownload.com/feed/json/champions-league-2023,4,2,H
+2023-24,42,3,2023-10-25 16:45:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,Shakhtar Donetsk,Group H,2,1,https://fixturedownload.com/feed/json/champions-league-2023,3,1,H
+2023-24,43,3,2023-10-25 19:00:00+00:00,Celtic Park,Celtic,Atlético de Madrid,Group E,2,2,https://fixturedownload.com/feed/json/champions-league-2023,4,0,D
+2023-24,44,3,2023-10-25 19:00:00+00:00,Parc des Princes,Paris,Milan,Group F,3,0,https://fixturedownload.com/feed/json/champions-league-2023,3,3,H
+2023-24,45,3,2023-10-25 19:00:00+00:00,St James' Park,Newcastle,Dortmund,Group F,0,1,https://fixturedownload.com/feed/json/champions-league-2023,1,-1,A
+2023-24,46,3,2023-10-25 19:00:00+00:00,RB Arena,Leipzig,Crvena zvezda,Group G,3,1,https://fixturedownload.com/feed/json/champions-league-2023,4,2,H
+2023-24,47,3,2023-10-25 19:00:00+00:00,Stadion Wankdorf,Young Boys,Man City,Group G,1,3,https://fixturedownload.com/feed/json/champions-league-2023,4,-2,A
+2023-24,48,3,2023-10-25 19:00:00+00:00,Bosuil,Antwerp,FC Porto,Group H,1,4,https://fixturedownload.com/feed/json/champions-league-2023,5,-3,A
+2023-24,49,4,2023-11-07 17:45:00+00:00,BVB Stadion Dortmund,Dortmund,Newcastle,Group F,2,0,https://fixturedownload.com/feed/json/champions-league-2023,2,2,H
+2023-24,50,4,2023-11-07 17:45:00+00:00,Volksparkstadion,Shakhtar Donetsk,Barcelona,Group H,1,0,https://fixturedownload.com/feed/json/champions-league-2023,1,1,H
+2023-24,51,4,2023-11-07 20:00:00+00:00,Estadio Metropolitano,Atlético de Madrid,Celtic,Group E,6,0,https://fixturedownload.com/feed/json/champions-league-2023,6,6,H
+2023-24,52,4,2023-11-07 20:00:00+00:00,Stadio Olimpico,Lazio,Feyenoord,Group E,1,0,https://fixturedownload.com/feed/json/champions-league-2023,1,1,H
+2023-24,53,4,2023-11-07 20:00:00+00:00,Stadio San Siro,Milan,Paris,Group F,2,1,https://fixturedownload.com/feed/json/champions-league-2023,3,1,H
+2023-24,54,4,2023-11-07 20:00:00+00:00,City of Manchester Stadium,Man City,Young Boys,Group G,3,0,https://fixturedownload.com/feed/json/champions-league-2023,3,3,H
+2023-24,55,4,2023-11-07 20:00:00+00:00,Stadion Rajko Mitic,Crvena zvezda,Leipzig,Group G,1,2,https://fixturedownload.com/feed/json/champions-league-2023,3,-1,A
+2023-24,56,4,2023-11-07 20:00:00+00:00,Estádio do Dragão,FC Porto,Antwerp,Group H,2,0,https://fixturedownload.com/feed/json/champions-league-2023,2,2,H
+2023-24,57,4,2023-11-08 17:45:00+00:00,Stadio Diego Armando Maradona,Napoli,Union Berlin,Group C,1,1,https://fixturedownload.com/feed/json/champions-league-2023,2,0,D
+2023-24,58,4,2023-11-08 17:45:00+00:00,Reale Arena,Real Sociedad,Benfica,Group D,3,1,https://fixturedownload.com/feed/json/champions-league-2023,4,2,H
+2023-24,59,4,2023-11-08 20:00:00+00:00,Fußball Arena München,Bayern,Galatasaray,Group A,2,1,https://fixturedownload.com/feed/json/champions-league-2023,3,1,H
+2023-24,60,4,2023-11-08 20:00:00+00:00,Parken,Copenhagen,Man United,Group A,4,3,https://fixturedownload.com/feed/json/champions-league-2023,7,1,H
+2023-24,61,4,2023-11-08 20:00:00+00:00,Arsenal Stadium,Arsenal,Sevilla,Group B,2,0,https://fixturedownload.com/feed/json/champions-league-2023,2,2,H
+2023-24,62,4,2023-11-08 20:00:00+00:00,PSV Stadion,PSV,Lens,Group B,1,0,https://fixturedownload.com/feed/json/champions-league-2023,1,1,H
+2023-24,63,4,2023-11-08 20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Braga,Group C,3,0,https://fixturedownload.com/feed/json/champions-league-2023,3,3,H
+2023-24,64,4,2023-11-08 20:00:00+00:00,Stadion Salzburg,Salzburg,Inter,Group D,0,1,https://fixturedownload.com/feed/json/champions-league-2023,1,-1,A
+2023-24,65,5,2023-11-28 17:45:00+00:00,Stadio Olimpico,Lazio,Celtic,Group E,2,0,https://fixturedownload.com/feed/json/champions-league-2023,2,2,H
+2023-24,66,5,2023-11-28 17:45:00+00:00,Volksparkstadion,Shakhtar Donetsk,Antwerp,Group H,1,0,https://fixturedownload.com/feed/json/champions-league-2023,1,1,H
+2023-24,67,5,2023-11-28 20:00:00+00:00,Stadion Feijenoord 'De Kuip',Feyenoord,Atlético de Madrid,Group E,1,3,https://fixturedownload.com/feed/json/champions-league-2023,4,-2,A
+2023-24,68,5,2023-11-28 20:00:00+00:00,Parc des Princes,Paris,Newcastle,Group F,1,1,https://fixturedownload.com/feed/json/champions-league-2023,2,0,D
+2023-24,69,5,2023-11-28 20:00:00+00:00,Stadio San Siro,Milan,Dortmund,Group F,1,3,https://fixturedownload.com/feed/json/champions-league-2023,4,-2,A
+2023-24,70,5,2023-11-28 20:00:00+00:00,City of Manchester Stadium,Man City,Leipzig,Group G,3,2,https://fixturedownload.com/feed/json/champions-league-2023,5,1,H
+2023-24,71,5,2023-11-28 20:00:00+00:00,Stadion Wankdorf,Young Boys,Crvena zvezda,Group G,2,0,https://fixturedownload.com/feed/json/champions-league-2023,2,2,H
+2023-24,72,5,2023-11-28 20:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,FC Porto,Group H,2,1,https://fixturedownload.com/feed/json/champions-league-2023,3,1,H
+2023-24,73,5,2023-11-29 17:45:00+00:00,Ali Sami Yen Spor Kompleksi,Galatasaray,Man United,Group A,3,3,https://fixturedownload.com/feed/json/champions-league-2023,6,0,D
+2023-24,74,5,2023-11-29 17:45:00+00:00,Estadio Ramón Sánchez-Pizjuán,Sevilla,PSV,Group B,2,3,https://fixturedownload.com/feed/json/champions-league-2023,5,-1,A
+2023-24,75,5,2023-11-29 20:00:00+00:00,Fußball Arena München,Bayern,Copenhagen,Group A,0,0,https://fixturedownload.com/feed/json/champions-league-2023,0,0,D
+2023-24,76,5,2023-11-29 20:00:00+00:00,Arsenal Stadium,Arsenal,Lens,Group B,6,0,https://fixturedownload.com/feed/json/champions-league-2023,6,6,H
+2023-24,77,5,2023-11-29 20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Napoli,Group C,4,2,https://fixturedownload.com/feed/json/champions-league-2023,6,2,H
+2023-24,78,5,2023-11-29 20:00:00+00:00,Estádio Municipal de Braga,Braga,Union Berlin,Group C,1,1,https://fixturedownload.com/feed/json/champions-league-2023,2,0,D
+2023-24,79,5,2023-11-29 20:00:00+00:00,Estádio do SL Benfica,Benfica,Inter,Group D,3,3,https://fixturedownload.com/feed/json/champions-league-2023,6,0,D
+2023-24,80,5,2023-11-29 20:00:00+00:00,Reale Arena,Real Sociedad,Salzburg,Group D,0,0,https://fixturedownload.com/feed/json/champions-league-2023,0,0,D
+2023-24,81,6,2023-12-12 17:45:00+00:00,Stade Bollaert-Delelis,Lens,Sevilla,Group B,2,1,https://fixturedownload.com/feed/json/champions-league-2023,3,1,H
+2023-24,82,6,2023-12-12 17:45:00+00:00,PSV Stadion,PSV,Arsenal,Group B,1,1,https://fixturedownload.com/feed/json/champions-league-2023,2,0,D
+2023-24,83,6,2023-12-12 20:00:00+00:00,Old Trafford,Man United,Bayern,Group A,0,1,https://fixturedownload.com/feed/json/champions-league-2023,1,-1,A
+2023-24,84,6,2023-12-12 20:00:00+00:00,Parken,Copenhagen,Galatasaray,Group A,1,0,https://fixturedownload.com/feed/json/champions-league-2023,1,1,H
+2023-24,85,6,2023-12-12 20:00:00+00:00,Stadio Diego Armando Maradona,Napoli,Braga,Group C,2,0,https://fixturedownload.com/feed/json/champions-league-2023,2,2,H
+2023-24,86,6,2023-12-12 20:00:00+00:00,Olympiastadion,Union Berlin,Real Madrid,Group C,2,3,https://fixturedownload.com/feed/json/champions-league-2023,5,-1,A
+2023-24,87,6,2023-12-12 20:00:00+00:00,Stadio San Siro,Inter,Real Sociedad,Group D,0,0,https://fixturedownload.com/feed/json/champions-league-2023,0,0,D
+2023-24,88,6,2023-12-12 20:00:00+00:00,Stadion Salzburg,Salzburg,Benfica,Group D,1,3,https://fixturedownload.com/feed/json/champions-league-2023,4,-2,A
+2023-24,89,6,2023-12-13 17:45:00+00:00,RB Arena,Leipzig,Young Boys,Group G,2,1,https://fixturedownload.com/feed/json/champions-league-2023,3,1,H
+2023-24,90,6,2023-12-13 17:45:00+00:00,Stadion Rajko Mitic,Crvena zvezda,Man City,Group G,2,3,https://fixturedownload.com/feed/json/champions-league-2023,5,-1,A
+2023-24,91,6,2023-12-13 20:00:00+00:00,Estadio Metropolitano,Atlético de Madrid,Lazio,Group E,2,0,https://fixturedownload.com/feed/json/champions-league-2023,2,2,H
+2023-24,92,6,2023-12-13 20:00:00+00:00,Celtic Park,Celtic,Feyenoord,Group E,2,1,https://fixturedownload.com/feed/json/champions-league-2023,3,1,H
+2023-24,93,6,2023-12-13 20:00:00+00:00,BVB Stadion Dortmund,Dortmund,Paris,Group F,1,1,https://fixturedownload.com/feed/json/champions-league-2023,2,0,D
+2023-24,94,6,2023-12-13 20:00:00+00:00,St James' Park,Newcastle,Milan,Group F,1,2,https://fixturedownload.com/feed/json/champions-league-2023,3,-1,A
+2023-24,95,6,2023-12-13 20:00:00+00:00,Estádio do Dragão,FC Porto,Shakhtar Donetsk,Group H,5,3,https://fixturedownload.com/feed/json/champions-league-2023,8,2,H
+2023-24,96,6,2023-12-13 20:00:00+00:00,Bosuil,Antwerp,Barcelona,Group H,3,2,https://fixturedownload.com/feed/json/champions-league-2023,5,1,H
+2023-24,97,7,2024-02-13 20:00:00+00:00,RB Arena,Leipzig,Real Madrid,,0,1,https://fixturedownload.com/feed/json/champions-league-2023,1,-1,A
+2023-24,98,7,2024-02-13 20:00:00+00:00,Parken,Copenhagen,Man City,,1,3,https://fixturedownload.com/feed/json/champions-league-2023,4,-2,A
+2023-24,99,7,2024-02-14 20:00:00+00:00,Stadio Olimpico,Lazio,Bayern,,1,0,https://fixturedownload.com/feed/json/champions-league-2023,1,1,H
+2023-24,100,7,2024-02-14 20:00:00+00:00,Parc des Princes,Paris,Real Sociedad,,2,0,https://fixturedownload.com/feed/json/champions-league-2023,2,2,H
+2023-24,101,7,2024-02-20 20:00:00+00:00,Stadio San Siro,Inter,Atlético de Madrid,,1,0,https://fixturedownload.com/feed/json/champions-league-2023,1,1,H
+2023-24,102,7,2024-02-20 20:00:00+00:00,PSV Stadion,PSV,Dortmund,,1,1,https://fixturedownload.com/feed/json/champions-league-2023,2,0,D
+2023-24,103,7,2024-02-21 20:00:00+00:00,Estádio do Dragão,FC Porto,Arsenal,,1,0,https://fixturedownload.com/feed/json/champions-league-2023,1,1,H
+2023-24,104,7,2024-02-21 20:00:00+00:00,Stadio Diego Armando Maradona,Napoli,Barcelona,,1,1,https://fixturedownload.com/feed/json/champions-league-2023,2,0,D
+2023-24,105,8,2024-03-05 20:00:00+00:00,Fußball Arena München,Bayern,Lazio,,3,0,https://fixturedownload.com/feed/json/champions-league-2023,3,3,H
+2023-24,106,8,2024-03-05 20:00:00+00:00,Reale Arena,Real Sociedad,Paris,,1,2,https://fixturedownload.com/feed/json/champions-league-2023,3,-1,A
+2023-24,107,8,2024-03-06 20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Leipzig,,1,1,https://fixturedownload.com/feed/json/champions-league-2023,2,0,D
+2023-24,108,8,2024-03-06 20:00:00+00:00,City of Manchester Stadium,Man City,Copenhagen,,3,1,https://fixturedownload.com/feed/json/champions-league-2023,4,2,H
+2023-24,109,8,2024-03-12 20:00:00+00:00,Arsenal Stadium,Arsenal,FC Porto,,1,0,https://fixturedownload.com/feed/json/champions-league-2023,1,1,H
+2023-24,110,8,2024-03-12 20:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,Napoli,,3,1,https://fixturedownload.com/feed/json/champions-league-2023,4,2,H
+2023-24,111,8,2024-03-13 20:00:00+00:00,Estadio Metropolitano,Atlético de Madrid,Inter,,2,1,https://fixturedownload.com/feed/json/champions-league-2023,3,1,H
+2023-24,112,8,2024-03-13 20:00:00+00:00,BVB Stadion Dortmund,Dortmund,PSV,,2,0,https://fixturedownload.com/feed/json/champions-league-2023,2,2,H
+2023-24,113,9,2024-04-09 19:00:00+00:00,Arsenal Stadium,Arsenal,Bayern,,2,2,https://fixturedownload.com/feed/json/champions-league-2023,4,0,D
+2023-24,114,9,2024-04-09 19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Man City,,3,3,https://fixturedownload.com/feed/json/champions-league-2023,6,0,D
+2023-24,115,9,2024-04-10 19:00:00+00:00,Estadio Metropolitano,Atlético de Madrid,Dortmund,,2,1,https://fixturedownload.com/feed/json/champions-league-2023,3,1,H
+2023-24,116,9,2024-04-10 19:00:00+00:00,Parc des Princes,Paris,Barcelona,,2,3,https://fixturedownload.com/feed/json/champions-league-2023,5,-1,A
+2023-24,117,10,2024-04-16 19:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,Paris,,1,4,https://fixturedownload.com/feed/json/champions-league-2023,5,-3,A
+2023-24,118,10,2024-04-16 19:00:00+00:00,BVB Stadion Dortmund,Dortmund,Atlético de Madrid,,4,2,https://fixturedownload.com/feed/json/champions-league-2023,6,2,H
+2023-24,119,10,2024-04-17 19:00:00+00:00,City of Manchester Stadium,Man City,Real Madrid,,1,1,https://fixturedownload.com/feed/json/champions-league-2023,2,0,D
+2023-24,120,10,2024-04-17 19:00:00+00:00,Fußball Arena München,Bayern,Arsenal,,1,0,https://fixturedownload.com/feed/json/champions-league-2023,1,1,H
+2023-24,121,11,2024-04-30 19:00:00+00:00,Fußball Arena München,Bayern,Real Madrid,,2,2,https://fixturedownload.com/feed/json/champions-league-2023,4,0,D
+2023-24,122,11,2024-05-01 19:00:00+00:00,BVB Stadion Dortmund,Dortmund,Paris,,1,0,https://fixturedownload.com/feed/json/champions-league-2023,1,1,H
+2023-24,123,12,2024-05-07 19:00:00+00:00,Parc des Princes,Paris,Dortmund,,0,1,https://fixturedownload.com/feed/json/champions-league-2023,1,-1,A
+2023-24,124,12,2024-05-08 19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Bayern,,2,1,https://fixturedownload.com/feed/json/champions-league-2023,3,1,H
+2023-24,125,13,2024-06-01 19:00:00+00:00,Wembley Stadium,Dortmund,Real Madrid,,0,2,https://fixturedownload.com/feed/json/champions-league-2023,2,-2,A
+2024-25,1,1,2024-09-17 16:45:00+00:00,Juventus Stadium,Juventus,PSV,,3,1,https://fixturedownload.com/feed/json/champions-league-2024,4,2,H
+2024-25,2,1,2024-09-17 16:45:00+00:00,Stadion Wankdorf,Young Boys,Aston Villa,,0,3,https://fixturedownload.com/feed/json/champions-league-2024,3,-3,A
+2024-25,3,1,2024-09-17 19:00:00+00:00,Fußball Arena München,Bayern München,GNK Dinamo,,9,2,https://fixturedownload.com/feed/json/champions-league-2024,11,7,H
+2024-25,4,1,2024-09-17 19:00:00+00:00,Stadio San Siro,Milan,Liverpool,,1,3,https://fixturedownload.com/feed/json/champions-league-2024,4,-2,A
+2024-25,5,1,2024-09-17 19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Stuttgart,,3,1,https://fixturedownload.com/feed/json/champions-league-2024,4,2,H
+2024-25,6,1,2024-09-17 19:00:00+00:00,Estádio José Alvalade,Sporting CP,Lille,,2,0,https://fixturedownload.com/feed/json/champions-league-2024,2,2,H
+2024-25,7,1,2024-09-18 16:45:00+00:00,Stadio Renato Dall'Ara,Bologna,Shakhtar,,0,0,https://fixturedownload.com/feed/json/champions-league-2024,0,0,D
+2024-25,8,1,2024-09-18 16:45:00+00:00,Stadion Letná,Sparta Praha,Salzburg,,3,0,https://fixturedownload.com/feed/json/champions-league-2024,3,3,H
+2024-25,9,1,2024-09-18 19:00:00+00:00,Jan Breydelstadion,Club Brugge,B. Dortmund,,0,3,https://fixturedownload.com/feed/json/champions-league-2024,3,-3,A
+2024-25,10,1,2024-09-18 19:00:00+00:00,Celtic Park,Celtic,S. Bratislava,,5,1,https://fixturedownload.com/feed/json/champions-league-2024,6,4,H
+2024-25,11,1,2024-09-18 19:00:00+00:00,City of Manchester Stadium,Man City,Inter,,0,0,https://fixturedownload.com/feed/json/champions-league-2024,0,0,D
+2024-25,12,1,2024-09-18 19:00:00+00:00,Parc des Princes,Paris,Girona,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,13,1,2024-09-19 16:45:00+00:00,Stadion Rajko Mitic,Crvena Zvezda,Benfica,,1,2,https://fixturedownload.com/feed/json/champions-league-2024,3,-1,A
+2024-25,14,1,2024-09-19 16:45:00+00:00,Stadion Feijenoord 'De Kuip',Feyenoord,Leverkusen,,0,4,https://fixturedownload.com/feed/json/champions-league-2024,4,-4,A
+2024-25,15,1,2024-09-19 19:00:00+00:00,Stadio di Bergamo,Atalanta,Arsenal,,0,0,https://fixturedownload.com/feed/json/champions-league-2024,0,0,D
+2024-25,16,1,2024-09-19 19:00:00+00:00,Estadio Metropolitano,Atleti,Leipzig,,2,1,https://fixturedownload.com/feed/json/champions-league-2024,3,1,H
+2024-25,17,1,2024-09-19 19:00:00+00:00,Stade Louis II,Monaco,Barcelona,,2,1,https://fixturedownload.com/feed/json/champions-league-2024,3,1,H
+2024-25,18,1,2024-09-19 19:00:00+00:00,Stade de Roudourou,Brest,Sturm Graz,,2,1,https://fixturedownload.com/feed/json/champions-league-2024,3,1,H
+2024-25,19,2,2024-10-01 16:45:00+00:00,Stadion Salzburg,Salzburg,Brest,,0,4,https://fixturedownload.com/feed/json/champions-league-2024,4,-4,A
+2024-25,20,2,2024-10-01 16:45:00+00:00,Arena Stuttgart,Stuttgart,Sparta Praha,,1,1,https://fixturedownload.com/feed/json/champions-league-2024,2,0,D
+2024-25,21,2,2024-10-01 19:00:00+00:00,Stadio San Siro,Inter,Crvena Zvezda,,4,0,https://fixturedownload.com/feed/json/champions-league-2024,4,4,H
+2024-25,22,2,2024-10-01 19:00:00+00:00,BVB Stadion Dortmund,B. Dortmund,Celtic,,7,1,https://fixturedownload.com/feed/json/champions-league-2024,8,6,H
+2024-25,23,2,2024-10-01 19:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,Young Boys,,5,0,https://fixturedownload.com/feed/json/champions-league-2024,5,5,H
+2024-25,24,2,2024-10-01 19:00:00+00:00,BayArena,Leverkusen,Milan,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,25,2,2024-10-01 19:00:00+00:00,Arsenal Stadium,Arsenal,Paris,,2,0,https://fixturedownload.com/feed/json/champions-league-2024,2,2,H
+2024-25,26,2,2024-10-01 19:00:00+00:00,PSV Stadion,PSV,Sporting CP,,1,1,https://fixturedownload.com/feed/json/champions-league-2024,2,0,D
+2024-25,27,2,2024-10-01 19:00:00+00:00,Národný futbalový štadión,S. Bratislava,Man City,,0,4,https://fixturedownload.com/feed/json/champions-league-2024,4,-4,A
+2024-25,28,2,2024-10-02 16:45:00+00:00,Arena AufSchalke,Shakhtar,Atalanta,,0,3,https://fixturedownload.com/feed/json/champions-league-2024,3,-3,A
+2024-25,29,2,2024-10-02 16:45:00+00:00,Estadi Montilivi,Girona,Feyenoord,,2,3,https://fixturedownload.com/feed/json/champions-league-2024,5,-1,A
+2024-25,30,2,2024-10-02 19:00:00+00:00,Anfield,Liverpool,Bologna,,2,0,https://fixturedownload.com/feed/json/champions-league-2024,2,2,H
+2024-25,31,2,2024-10-02 19:00:00+00:00,RB Arena,Leipzig,Juventus,,2,3,https://fixturedownload.com/feed/json/champions-league-2024,5,-1,A
+2024-25,32,2,2024-10-02 19:00:00+00:00,Estádio do SL Benfica,Benfica,Atleti,,4,0,https://fixturedownload.com/feed/json/champions-league-2024,4,4,H
+2024-25,33,2,2024-10-02 19:00:00+00:00,Stadion Maksimir,GNK Dinamo,Monaco,,2,2,https://fixturedownload.com/feed/json/champions-league-2024,4,0,D
+2024-25,34,2,2024-10-02 19:00:00+00:00,Stade Pierre Mauroy,Lille,Real Madrid,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,35,2,2024-10-02 19:00:00+00:00,Villa Park,Aston Villa,Bayern München,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,36,2,2024-10-02 19:00:00+00:00,Wörthersee Stadion,Sturm Graz,Club Brugge,,0,1,https://fixturedownload.com/feed/json/champions-league-2024,1,-1,A
+2024-25,37,3,2024-10-22 16:45:00+00:00,Stadio San Siro,Milan,Club Brugge,,3,1,https://fixturedownload.com/feed/json/champions-league-2024,4,2,H
+2024-25,38,3,2024-10-22 16:45:00+00:00,Stade Louis II,Monaco,Crvena Zvezda,,5,1,https://fixturedownload.com/feed/json/champions-league-2024,6,4,H
+2024-25,39,3,2024-10-22 19:00:00+00:00,Parc des Princes,Paris,PSV,,1,1,https://fixturedownload.com/feed/json/champions-league-2024,2,0,D
+2024-25,40,3,2024-10-22 19:00:00+00:00,Juventus Stadium,Juventus,Stuttgart,,0,1,https://fixturedownload.com/feed/json/champions-league-2024,1,-1,A
+2024-25,41,3,2024-10-22 19:00:00+00:00,Arsenal Stadium,Arsenal,Shakhtar,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,42,3,2024-10-22 19:00:00+00:00,Villa Park,Aston Villa,Bologna,,2,0,https://fixturedownload.com/feed/json/champions-league-2024,2,2,H
+2024-25,43,3,2024-10-22 19:00:00+00:00,Estadi Montilivi,Girona,S. Bratislava,,2,0,https://fixturedownload.com/feed/json/champions-league-2024,2,2,H
+2024-25,44,3,2024-10-22 19:00:00+00:00,Wörthersee Stadion,Sturm Graz,Sporting CP,,0,2,https://fixturedownload.com/feed/json/champions-league-2024,2,-2,A
+2024-25,45,3,2024-10-22 19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,B. Dortmund,,5,2,https://fixturedownload.com/feed/json/champions-league-2024,7,3,H
+2024-25,46,3,2024-10-23 16:45:00+00:00,Stadio di Bergamo,Atalanta,Celtic,,0,0,https://fixturedownload.com/feed/json/champions-league-2024,0,0,D
+2024-25,47,3,2024-10-23 16:45:00+00:00,Stade de Roudourou,Brest,Leverkusen,,1,1,https://fixturedownload.com/feed/json/champions-league-2024,2,0,D
+2024-25,48,3,2024-10-23 19:00:00+00:00,City of Manchester Stadium,Man City,Sparta Praha,,5,0,https://fixturedownload.com/feed/json/champions-league-2024,5,5,H
+2024-25,49,3,2024-10-23 19:00:00+00:00,RB Arena,Leipzig,Liverpool,,0,1,https://fixturedownload.com/feed/json/champions-league-2024,1,-1,A
+2024-25,50,3,2024-10-23 19:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,Bayern München,,4,1,https://fixturedownload.com/feed/json/champions-league-2024,5,3,H
+2024-25,51,3,2024-10-23 19:00:00+00:00,Estadio Metropolitano,Atleti,Lille,,1,3,https://fixturedownload.com/feed/json/champions-league-2024,4,-2,A
+2024-25,52,3,2024-10-23 19:00:00+00:00,Estádio do SL Benfica,Benfica,Feyenoord,,1,3,https://fixturedownload.com/feed/json/champions-league-2024,4,-2,A
+2024-25,53,3,2024-10-23 19:00:00+00:00,Stadion Salzburg,Salzburg,GNK Dinamo,,0,2,https://fixturedownload.com/feed/json/champions-league-2024,2,-2,A
+2024-25,54,3,2024-10-23 19:00:00+00:00,Stadion Wankdorf,Young Boys,Inter,,0,1,https://fixturedownload.com/feed/json/champions-league-2024,1,-1,A
+2024-25,55,4,2024-11-05 17:45:00+00:00,PSV Stadion,PSV,Girona,,4,0,https://fixturedownload.com/feed/json/champions-league-2024,4,4,H
+2024-25,56,4,2024-11-05 17:45:00+00:00,Národný futbalový štadión,S. Bratislava,GNK Dinamo,,1,4,https://fixturedownload.com/feed/json/champions-league-2024,5,-3,A
+2024-25,57,4,2024-11-05 20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Milan,,1,3,https://fixturedownload.com/feed/json/champions-league-2024,4,-2,A
+2024-25,58,4,2024-11-05 20:00:00+00:00,Anfield,Liverpool,Leverkusen,,4,0,https://fixturedownload.com/feed/json/champions-league-2024,4,4,H
+2024-25,59,4,2024-11-05 20:00:00+00:00,BVB Stadion Dortmund,B. Dortmund,Sturm Graz,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,60,4,2024-11-05 20:00:00+00:00,Estádio José Alvalade,Sporting CP,Man City,,4,1,https://fixturedownload.com/feed/json/champions-league-2024,5,3,H
+2024-25,61,4,2024-11-05 20:00:00+00:00,Stade Pierre Mauroy,Lille,Juventus,,1,1,https://fixturedownload.com/feed/json/champions-league-2024,2,0,D
+2024-25,62,4,2024-11-05 20:00:00+00:00,Celtic Park,Celtic,Leipzig,,3,1,https://fixturedownload.com/feed/json/champions-league-2024,4,2,H
+2024-25,63,4,2024-11-05 20:00:00+00:00,Stadio Renato Dall'Ara,Bologna,Monaco,,0,1,https://fixturedownload.com/feed/json/champions-league-2024,1,-1,A
+2024-25,64,4,2024-11-06 17:45:00+00:00,Jan Breydelstadion,Club Brugge,Aston Villa,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,65,4,2024-11-06 17:45:00+00:00,Arena AufSchalke,Shakhtar,Young Boys,,2,1,https://fixturedownload.com/feed/json/champions-league-2024,3,1,H
+2024-25,67,4,2024-11-06 20:00:00+00:00,Parc des Princes,Paris,Atleti,,1,2,https://fixturedownload.com/feed/json/champions-league-2024,3,-1,A
+2024-25,68,4,2024-11-06 20:00:00+00:00,Stadio San Siro,Inter,Arsenal,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,69,4,2024-11-06 20:00:00+00:00,Stadion Feijenoord 'De Kuip',Feyenoord,Salzburg,,1,3,https://fixturedownload.com/feed/json/champions-league-2024,4,-2,A
+2024-25,70,4,2024-11-06 20:00:00+00:00,Stadion Rajko Mitic,Crvena Zvezda,Barcelona,,2,5,https://fixturedownload.com/feed/json/champions-league-2024,7,-3,A
+2024-25,71,4,2024-11-06 20:00:00+00:00,Stadion Letná,Sparta Praha,Brest,,1,2,https://fixturedownload.com/feed/json/champions-league-2024,3,-1,A
+2024-25,72,4,2024-11-06 20:00:00+00:00,Arena Stuttgart,Stuttgart,Atalanta,,0,2,https://fixturedownload.com/feed/json/champions-league-2024,2,-2,A
+2024-25,66,4,2024-11-06 20:15:00+00:00,Fußball Arena München,Bayern München,Benfica,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,73,5,2024-11-26 17:45:00+00:00,Národný futbalový štadión,S. Bratislava,Milan,,2,3,https://fixturedownload.com/feed/json/champions-league-2024,5,-1,A
+2024-25,74,5,2024-11-26 17:45:00+00:00,Stadion Letná,Sparta Praha,Atleti,,0,6,https://fixturedownload.com/feed/json/champions-league-2024,6,-6,A
+2024-25,75,5,2024-11-26 20:00:00+00:00,City of Manchester Stadium,Man City,Feyenoord,,3,3,https://fixturedownload.com/feed/json/champions-league-2024,6,0,D
+2024-25,76,5,2024-11-26 20:00:00+00:00,Fußball Arena München,Bayern München,Paris,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,77,5,2024-11-26 20:00:00+00:00,Stadio San Siro,Inter,Leipzig,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,78,5,2024-11-26 20:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,Brest,,3,0,https://fixturedownload.com/feed/json/champions-league-2024,3,3,H
+2024-25,79,5,2024-11-26 20:00:00+00:00,BayArena,Leverkusen,Salzburg,,5,0,https://fixturedownload.com/feed/json/champions-league-2024,5,5,H
+2024-25,80,5,2024-11-26 20:00:00+00:00,Estádio José Alvalade,Sporting CP,Arsenal,,1,5,https://fixturedownload.com/feed/json/champions-league-2024,6,-4,A
+2024-25,81,5,2024-11-26 20:00:00+00:00,Stadion Wankdorf,Young Boys,Atalanta,,1,6,https://fixturedownload.com/feed/json/champions-league-2024,7,-5,A
+2024-25,82,5,2024-11-27 17:45:00+00:00,Stadion Rajko Mitic,Crvena Zvezda,Stuttgart,,5,1,https://fixturedownload.com/feed/json/champions-league-2024,6,4,H
+2024-25,83,5,2024-11-27 17:45:00+00:00,Wörthersee Stadion,Sturm Graz,Girona,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,84,5,2024-11-27 20:00:00+00:00,Anfield,Liverpool,Real Madrid,,2,0,https://fixturedownload.com/feed/json/champions-league-2024,2,2,H
+2024-25,85,5,2024-11-27 20:00:00+00:00,PSV Stadion,PSV,Shakhtar,,3,2,https://fixturedownload.com/feed/json/champions-league-2024,5,1,H
+2024-25,86,5,2024-11-27 20:00:00+00:00,Stadion Maksimir,GNK Dinamo,B. Dortmund,,0,3,https://fixturedownload.com/feed/json/champions-league-2024,3,-3,A
+2024-25,87,5,2024-11-27 20:00:00+00:00,Celtic Park,Celtic,Club Brugge,,1,1,https://fixturedownload.com/feed/json/champions-league-2024,2,0,D
+2024-25,88,5,2024-11-27 20:00:00+00:00,Stade Louis II,Monaco,Benfica,,2,3,https://fixturedownload.com/feed/json/champions-league-2024,5,-1,A
+2024-25,89,5,2024-11-27 20:00:00+00:00,Villa Park,Aston Villa,Juventus,,0,0,https://fixturedownload.com/feed/json/champions-league-2024,0,0,D
+2024-25,90,5,2024-11-27 20:00:00+00:00,Stadio Renato Dall'Ara,Bologna,Lille,,1,2,https://fixturedownload.com/feed/json/champions-league-2024,3,-1,A
+2024-25,91,6,2024-12-10 17:45:00+00:00,Stadion Maksimir,GNK Dinamo,Celtic,,0,0,https://fixturedownload.com/feed/json/champions-league-2024,0,0,D
+2024-25,92,6,2024-12-10 17:45:00+00:00,Estadi Montilivi,Girona,Liverpool,,0,1,https://fixturedownload.com/feed/json/champions-league-2024,1,-1,A
+2024-25,93,6,2024-12-10 20:00:00+00:00,RB Arena,Leipzig,Aston Villa,,2,3,https://fixturedownload.com/feed/json/champions-league-2024,5,-1,A
+2024-25,94,6,2024-12-10 20:00:00+00:00,BayArena,Leverkusen,Inter,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,95,6,2024-12-10 20:00:00+00:00,Stadio di Bergamo,Atalanta,Real Madrid,,2,3,https://fixturedownload.com/feed/json/champions-league-2024,5,-1,A
+2024-25,96,6,2024-12-10 20:00:00+00:00,Jan Breydelstadion,Club Brugge,Sporting CP,,2,1,https://fixturedownload.com/feed/json/champions-league-2024,3,1,H
+2024-25,97,6,2024-12-10 20:00:00+00:00,Arena AufSchalke,Shakhtar,Bayern München,,1,5,https://fixturedownload.com/feed/json/champions-league-2024,6,-4,A
+2024-25,98,6,2024-12-10 20:00:00+00:00,Stadion Salzburg,Salzburg,Paris,,0,3,https://fixturedownload.com/feed/json/champions-league-2024,3,-3,A
+2024-25,99,6,2024-12-10 20:00:00+00:00,Stade de Roudourou,Brest,PSV,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,100,6,2024-12-11 17:45:00+00:00,Estadio Metropolitano,Atleti,S. Bratislava,,3,1,https://fixturedownload.com/feed/json/champions-league-2024,4,2,H
+2024-25,101,6,2024-12-11 17:45:00+00:00,Stade Pierre Mauroy,Lille,Sturm Graz,,3,2,https://fixturedownload.com/feed/json/champions-league-2024,5,1,H
+2024-25,102,6,2024-12-11 20:00:00+00:00,BVB Stadion Dortmund,B. Dortmund,Barcelona,,2,3,https://fixturedownload.com/feed/json/champions-league-2024,5,-1,A
+2024-25,103,6,2024-12-11 20:00:00+00:00,Juventus Stadium,Juventus,Man City,,2,0,https://fixturedownload.com/feed/json/champions-league-2024,2,2,H
+2024-25,104,6,2024-12-11 20:00:00+00:00,Estádio do SL Benfica,Benfica,Bologna,,0,0,https://fixturedownload.com/feed/json/champions-league-2024,0,0,D
+2024-25,105,6,2024-12-11 20:00:00+00:00,Arsenal Stadium,Arsenal,Monaco,,3,0,https://fixturedownload.com/feed/json/champions-league-2024,3,3,H
+2024-25,106,6,2024-12-11 20:00:00+00:00,Stadio San Siro,Milan,Crvena Zvezda,,2,1,https://fixturedownload.com/feed/json/champions-league-2024,3,1,H
+2024-25,107,6,2024-12-11 20:00:00+00:00,Stadion Feijenoord 'De Kuip',Feyenoord,Sparta Praha,,4,2,https://fixturedownload.com/feed/json/champions-league-2024,6,2,H
+2024-25,108,6,2024-12-11 20:00:00+00:00,Arena Stuttgart,Stuttgart,Young Boys,,5,1,https://fixturedownload.com/feed/json/champions-league-2024,6,4,H
+2024-25,109,7,2025-01-21 17:45:00+00:00,Stadio di Bergamo,Atalanta,Sturm Graz,,5,0,https://fixturedownload.com/feed/json/champions-league-2024,5,5,H
+2024-25,110,7,2025-01-21 17:45:00+00:00,Stade Louis II,Monaco,Aston Villa,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,111,7,2025-01-21 20:00:00+00:00,Národný futbalový štadión,S. Bratislava,Stuttgart,,1,3,https://fixturedownload.com/feed/json/champions-league-2024,4,-2,A
+2024-25,112,7,2025-01-21 20:00:00+00:00,Jan Breydelstadion,Club Brugge,Juventus,,0,0,https://fixturedownload.com/feed/json/champions-league-2024,0,0,D
+2024-25,113,7,2025-01-21 20:00:00+00:00,Estadio Metropolitano,Atleti,Leverkusen,,2,1,https://fixturedownload.com/feed/json/champions-league-2024,3,1,H
+2024-25,114,7,2025-01-21 20:00:00+00:00,Estádio do SL Benfica,Benfica,Barcelona,,4,5,https://fixturedownload.com/feed/json/champions-league-2024,9,-1,A
+2024-25,115,7,2025-01-21 20:00:00+00:00,Anfield,Liverpool,Lille,,2,1,https://fixturedownload.com/feed/json/champions-league-2024,3,1,H
+2024-25,116,7,2025-01-21 20:00:00+00:00,Stadio Renato Dall'Ara,Bologna,B. Dortmund,,2,1,https://fixturedownload.com/feed/json/champions-league-2024,3,1,H
+2024-25,117,7,2025-01-21 20:00:00+00:00,Stadion Rajko Mitic,Crvena Zvezda,PSV,,2,3,https://fixturedownload.com/feed/json/champions-league-2024,5,-1,A
+2024-25,118,7,2025-01-22 17:45:00+00:00,RB Arena,Leipzig,Sporting CP,,2,1,https://fixturedownload.com/feed/json/champions-league-2024,3,1,H
+2024-25,119,7,2025-01-22 17:45:00+00:00,Arena AufSchalke,Shakhtar,Brest,,2,0,https://fixturedownload.com/feed/json/champions-league-2024,2,2,H
+2024-25,120,7,2025-01-22 20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Salzburg,,5,1,https://fixturedownload.com/feed/json/champions-league-2024,6,4,H
+2024-25,121,7,2025-01-22 20:00:00+00:00,Parc des Princes,Paris,Man City,,4,2,https://fixturedownload.com/feed/json/champions-league-2024,6,2,H
+2024-25,122,7,2025-01-22 20:00:00+00:00,Stadion Letná,Sparta Praha,Inter,,0,1,https://fixturedownload.com/feed/json/champions-league-2024,1,-1,A
+2024-25,123,7,2025-01-22 20:00:00+00:00,Arsenal Stadium,Arsenal,GNK Dinamo,,3,0,https://fixturedownload.com/feed/json/champions-league-2024,3,3,H
+2024-25,124,7,2025-01-22 20:00:00+00:00,Celtic Park,Celtic,Young Boys,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,125,7,2025-01-22 20:00:00+00:00,Stadion Feijenoord 'De Kuip',Feyenoord,Bayern München,,3,0,https://fixturedownload.com/feed/json/champions-league-2024,3,3,H
+2024-25,126,7,2025-01-22 20:00:00+00:00,Stadio San Siro,Milan,Girona,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,127,8,2025-01-29 20:00:00+00:00,Estádio José Alvalade,Sporting CP,Bologna,,1,1,https://fixturedownload.com/feed/json/champions-league-2024,2,0,D
+2024-25,128,8,2025-01-29 20:00:00+00:00,PSV Stadion,PSV,Liverpool,,3,2,https://fixturedownload.com/feed/json/champions-league-2024,5,1,H
+2024-25,129,8,2025-01-29 20:00:00+00:00,Stadion Wankdorf,Young Boys,Crvena Zvezda,,0,1,https://fixturedownload.com/feed/json/champions-league-2024,1,-1,A
+2024-25,130,8,2025-01-29 20:00:00+00:00,Arena Stuttgart,Stuttgart,Paris,,1,4,https://fixturedownload.com/feed/json/champions-league-2024,5,-3,A
+2024-25,131,8,2025-01-29 20:00:00+00:00,Wörthersee Stadion,Sturm Graz,Leipzig,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,132,8,2025-01-29 20:00:00+00:00,City of Manchester Stadium,Man City,Club Brugge,,3,1,https://fixturedownload.com/feed/json/champions-league-2024,4,2,H
+2024-25,133,8,2025-01-29 20:00:00+00:00,Fußball Arena München,Bayern München,S. Bratislava,,3,1,https://fixturedownload.com/feed/json/champions-league-2024,4,2,H
+2024-25,134,8,2025-01-29 20:00:00+00:00,Stadio San Siro,Inter,Monaco,,3,0,https://fixturedownload.com/feed/json/champions-league-2024,3,3,H
+2024-25,135,8,2025-01-29 20:00:00+00:00,BVB Stadion Dortmund,B. Dortmund,Shakhtar,,3,1,https://fixturedownload.com/feed/json/champions-league-2024,4,2,H
+2024-25,136,8,2025-01-29 20:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,Atalanta,,2,2,https://fixturedownload.com/feed/json/champions-league-2024,4,0,D
+2024-25,137,8,2025-01-29 20:00:00+00:00,BayArena,Leverkusen,Sparta Praha,,2,0,https://fixturedownload.com/feed/json/champions-league-2024,2,2,H
+2024-25,138,8,2025-01-29 20:00:00+00:00,Juventus Stadium,Juventus,Benfica,,0,2,https://fixturedownload.com/feed/json/champions-league-2024,2,-2,A
+2024-25,139,8,2025-01-29 20:00:00+00:00,Stadion Maksimir,GNK Dinamo,Milan,,2,1,https://fixturedownload.com/feed/json/champions-league-2024,3,1,H
+2024-25,140,8,2025-01-29 20:00:00+00:00,Stadion Salzburg,Salzburg,Atleti,,1,4,https://fixturedownload.com/feed/json/champions-league-2024,5,-3,A
+2024-25,141,8,2025-01-29 20:00:00+00:00,Stade Pierre Mauroy,Lille,Feyenoord,,6,1,https://fixturedownload.com/feed/json/champions-league-2024,7,5,H
+2024-25,142,8,2025-01-29 20:00:00+00:00,Villa Park,Aston Villa,Celtic,,4,2,https://fixturedownload.com/feed/json/champions-league-2024,6,2,H
+2024-25,143,8,2025-01-29 20:00:00+00:00,Estadi Montilivi,Girona,Arsenal,,1,2,https://fixturedownload.com/feed/json/champions-league-2024,3,-1,A
+2024-25,144,8,2025-01-29 20:00:00+00:00,Stade de Roudourou,Brest,Real Madrid,,0,3,https://fixturedownload.com/feed/json/champions-league-2024,3,-3,A
+2024-25,145,9,2025-02-11 17:45:00+00:00,Stade de Roudourou,Brest,Paris,,0,3,https://fixturedownload.com/feed/json/champions-league-2024,3,-3,A
+2024-25,146,9,2025-02-11 20:00:00+00:00,City of Manchester Stadium,Man City,Real Madrid,,2,3,https://fixturedownload.com/feed/json/champions-league-2024,5,-1,A
+2024-25,147,9,2025-02-11 20:00:00+00:00,Juventus Stadium,Juventus,PSV,,2,1,https://fixturedownload.com/feed/json/champions-league-2024,3,1,H
+2024-25,148,9,2025-02-11 20:00:00+00:00,Estádio José Alvalade,Sporting CP,B. Dortmund,,0,3,https://fixturedownload.com/feed/json/champions-league-2024,3,-3,A
+2024-25,149,9,2025-02-12 17:45:00+00:00,Jan Breydelstadion,Club Brugge,Atalanta,,2,1,https://fixturedownload.com/feed/json/champions-league-2024,3,1,H
+2024-25,150,9,2025-02-12 20:00:00+00:00,Stadion Feijenoord 'De Kuip',Feyenoord,Milan,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,151,9,2025-02-12 20:00:00+00:00,Celtic Park,Celtic,Bayern München,,1,2,https://fixturedownload.com/feed/json/champions-league-2024,3,-1,A
+2024-25,152,9,2025-02-12 20:00:00+00:00,Stade Louis II,Monaco,Benfica,,0,1,https://fixturedownload.com/feed/json/champions-league-2024,1,-1,A
+2024-25,153,10,2025-02-18 17:45:00+00:00,Stadio San Siro,Milan,Feyenoord,,1,1,https://fixturedownload.com/feed/json/champions-league-2024,2,0,D
+2024-25,154,10,2025-02-18 20:00:00+00:00,Stadio di Bergamo,Atalanta,Club Brugge,,1,3,https://fixturedownload.com/feed/json/champions-league-2024,4,-2,A
+2024-25,155,10,2025-02-18 20:00:00+00:00,Fußball Arena München,Bayern München,Celtic,,1,1,https://fixturedownload.com/feed/json/champions-league-2024,2,0,D
+2024-25,156,10,2025-02-18 20:00:00+00:00,Estádio do SL Benfica,Benfica,Monaco,,3,3,https://fixturedownload.com/feed/json/champions-league-2024,6,0,D
+2024-25,157,10,2025-02-19 17:45:00+00:00,BVB Stadion Dortmund,B. Dortmund,Sporting CP,,0,0,https://fixturedownload.com/feed/json/champions-league-2024,0,0,D
+2024-25,158,10,2025-02-19 20:00:00+00:00,Parc des Princes,Paris,Brest,,7,0,https://fixturedownload.com/feed/json/champions-league-2024,7,7,H
+2024-25,159,10,2025-02-19 20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Man City,,3,1,https://fixturedownload.com/feed/json/champions-league-2024,4,2,H
+2024-25,160,10,2025-02-19 20:00:00+00:00,PSV Stadion,PSV,Juventus,,3,1,https://fixturedownload.com/feed/json/champions-league-2024,4,2,H
+2024-25,161,11,2025-03-04 17:45:00+00:00,Jan Breydelstadion,Club Brugge,Aston Villa,,1,3,https://fixturedownload.com/feed/json/champions-league-2024,4,-2,A
+2024-25,162,11,2025-03-04 20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Atleti,,2,1,https://fixturedownload.com/feed/json/champions-league-2024,3,1,H
+2024-25,163,11,2025-03-04 20:00:00+00:00,PSV Stadion,PSV,Arsenal,,1,7,https://fixturedownload.com/feed/json/champions-league-2024,8,-6,A
+2024-25,164,11,2025-03-04 20:00:00+00:00,BVB Stadion Dortmund,B. Dortmund,Lille,,1,1,https://fixturedownload.com/feed/json/champions-league-2024,2,0,D
+2024-25,165,11,2025-03-05 17:45:00+00:00,Stadion Feijenoord 'De Kuip',Feyenoord,Inter,,0,2,https://fixturedownload.com/feed/json/champions-league-2024,2,-2,A
+2024-25,166,11,2025-03-05 20:00:00+00:00,Parc des Princes,Paris,Liverpool,,0,1,https://fixturedownload.com/feed/json/champions-league-2024,1,-1,A
+2024-25,167,11,2025-03-05 20:00:00+00:00,Fußball Arena München,Bayern München,Leverkusen,,3,0,https://fixturedownload.com/feed/json/champions-league-2024,3,3,H
+2024-25,168,11,2025-03-05 20:00:00+00:00,Estádio do SL Benfica,Benfica,Barcelona,,0,1,https://fixturedownload.com/feed/json/champions-league-2024,1,-1,A
+2024-25,169,12,2025-03-11 17:45:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,Benfica,,3,1,https://fixturedownload.com/feed/json/champions-league-2024,4,2,H
+2024-25,170,12,2025-03-11 20:00:00+00:00,Anfield,Liverpool,Paris,,0,1,https://fixturedownload.com/feed/json/champions-league-2024,1,-1,A
+2024-25,171,12,2025-03-11 20:00:00+00:00,Stadio San Siro,Inter,Feyenoord,,2,1,https://fixturedownload.com/feed/json/champions-league-2024,3,1,H
+2024-25,172,12,2025-03-11 20:00:00+00:00,BayArena,Leverkusen,Bayern München,,0,2,https://fixturedownload.com/feed/json/champions-league-2024,2,-2,A
+2024-25,173,12,2025-03-12 17:45:00+00:00,Stade Pierre Mauroy,Lille,B. Dortmund,,1,2,https://fixturedownload.com/feed/json/champions-league-2024,3,-1,A
+2024-25,174,12,2025-03-12 20:00:00+00:00,Villa Park,Aston Villa,Club Brugge,,3,0,https://fixturedownload.com/feed/json/champions-league-2024,3,3,H
+2024-25,175,12,2025-03-12 20:00:00+00:00,Estadio Metropolitano,Atleti,Real Madrid,,1,0,https://fixturedownload.com/feed/json/champions-league-2024,1,1,H
+2024-25,176,12,2025-03-12 20:00:00+00:00,Arsenal Stadium,Arsenal,PSV,,2,2,https://fixturedownload.com/feed/json/champions-league-2024,4,0,D
+2024-25,177,13,2025-04-08 19:00:00+00:00,Arsenal Stadium,Arsenal,Real Madrid,,3,0,https://fixturedownload.com/feed/json/champions-league-2024,3,3,H
+2024-25,178,13,2025-04-08 19:00:00+00:00,Fußball Arena München,Bayern München,Inter,,1,2,https://fixturedownload.com/feed/json/champions-league-2024,3,-1,A
+2024-25,179,13,2025-04-09 19:00:00+00:00,Parc des Princes,Paris,Aston Villa,,3,1,https://fixturedownload.com/feed/json/champions-league-2024,4,2,H
+2024-25,180,13,2025-04-09 19:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,B. Dortmund,,4,0,https://fixturedownload.com/feed/json/champions-league-2024,4,4,H
+2024-25,181,14,2025-04-15 19:00:00+00:00,BVB Stadion Dortmund,B. Dortmund,Barcelona,,3,1,https://fixturedownload.com/feed/json/champions-league-2024,4,2,H
+2024-25,182,14,2025-04-15 19:00:00+00:00,Villa Park,Aston Villa,Paris,,3,2,https://fixturedownload.com/feed/json/champions-league-2024,5,1,H
+2024-25,183,14,2025-04-16 19:00:00+00:00,Stadio San Siro,Inter,Bayern München,,2,2,https://fixturedownload.com/feed/json/champions-league-2024,4,0,D
+2024-25,184,14,2025-04-16 19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Arsenal,,1,2,https://fixturedownload.com/feed/json/champions-league-2024,3,-1,A
+2024-25,185,15,2025-04-29 19:00:00+00:00,Arsenal Stadium,Arsenal,Paris,,0,1,https://fixturedownload.com/feed/json/champions-league-2024,1,-1,A
+2024-25,186,15,2025-04-30 19:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,Inter,,3,3,https://fixturedownload.com/feed/json/champions-league-2024,6,0,D
+2024-25,187,16,2025-05-06 19:00:00+00:00,Stadio San Siro,Inter,Barcelona,,4,3,https://fixturedownload.com/feed/json/champions-league-2024,7,1,H
+2024-25,188,16,2025-05-07 19:00:00+00:00,Parc des Princes,Paris,Arsenal,,2,1,https://fixturedownload.com/feed/json/champions-league-2024,3,1,H
+2024-25,189,17,2025-05-31 19:00:00+00:00,Fußball Arena München,Paris,Inter,,5,0,https://fixturedownload.com/feed/json/champions-league-2024,5,5,H
+2025-26,1,1,2025-09-16 16:45:00+00:00,PSV Stadion,PSV,Union SG,,1,3,https://fixturedownload.com/feed/json/champions-league-2025,4,-2,A
+2025-26,2,1,2025-09-16 16:45:00+00:00,Estadio de San Mamés,Athletic Club,Arsenal,,0,2,https://fixturedownload.com/feed/json/champions-league-2025,2,-2,A
+2025-26,3,1,2025-09-16 19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Marseille,,2,1,https://fixturedownload.com/feed/json/champions-league-2025,3,1,H
+2025-26,4,1,2025-09-16 19:00:00+00:00,Estádio do SL Benfica,Benfica,Qarabag,,2,3,https://fixturedownload.com/feed/json/champions-league-2025,5,-1,A
+2025-26,5,1,2025-09-16 19:00:00+00:00,Juventus Stadium,Juventus,B. Dortmund,,4,4,https://fixturedownload.com/feed/json/champions-league-2025,8,0,D
+2025-26,6,1,2025-09-16 19:00:00+00:00,Tottenham Hotspur Stadium,Tottenham,Villarreal,,1,0,https://fixturedownload.com/feed/json/champions-league-2025,1,1,H
+2025-26,7,1,2025-09-17 16:45:00+00:00,Stadio Georgios Karaiskakis,Olympiacos,Pafos,,0,0,https://fixturedownload.com/feed/json/champions-league-2025,0,0,D
+2025-26,8,1,2025-09-17 16:45:00+00:00,Eden Arena,Slavia Praha,Bodø/Glimt,,2,2,https://fixturedownload.com/feed/json/champions-league-2025,4,0,D
+2025-26,9,1,2025-09-17 19:00:00+00:00,Parc des Princes,Paris,Atalanta,,4,0,https://fixturedownload.com/feed/json/champions-league-2025,4,4,H
+2025-26,10,1,2025-09-17 19:00:00+00:00,Fußball Arena München,Bayern München,Chelsea,,3,1,https://fixturedownload.com/feed/json/champions-league-2025,4,2,H
+2025-26,11,1,2025-09-17 19:00:00+00:00,Anfield,Liverpool,Atleti,,3,2,https://fixturedownload.com/feed/json/champions-league-2025,5,1,H
+2025-26,12,1,2025-09-17 19:00:00+00:00,Johan Cruijff ArenA,Ajax,Inter,,0,2,https://fixturedownload.com/feed/json/champions-league-2025,2,-2,A
+2025-26,13,1,2025-09-18 16:45:00+00:00,Jan Breydelstadion,Club Brugge,Monaco,,4,1,https://fixturedownload.com/feed/json/champions-league-2025,5,3,H
+2025-26,14,1,2025-09-18 16:45:00+00:00,Parken,Copenhagen,Leverkusen,,2,2,https://fixturedownload.com/feed/json/champions-league-2025,4,0,D
+2025-26,15,1,2025-09-18 19:00:00+00:00,City of Manchester Stadium,Man City,Napoli,,2,0,https://fixturedownload.com/feed/json/champions-league-2025,2,2,H
+2025-26,16,1,2025-09-18 19:00:00+00:00,Frankfurt Stadion,Frankfurt,Galatasaray,,5,1,https://fixturedownload.com/feed/json/champions-league-2025,6,4,H
+2025-26,17,1,2025-09-18 19:00:00+00:00,Estádio José Alvalade,Sporting CP,Kairat Almaty,,4,1,https://fixturedownload.com/feed/json/champions-league-2025,5,3,H
+2025-26,18,1,2025-09-18 19:00:00+00:00,St James' Park,Newcastle,Barcelona,,1,2,https://fixturedownload.com/feed/json/champions-league-2025,3,-1,A
+2025-26,19,2,2025-09-30 16:45:00+00:00,Stadio di Bergamo,Atalanta,Club Brugge,,2,1,https://fixturedownload.com/feed/json/champions-league-2025,3,1,H
+2025-26,20,2,2025-09-30 16:45:00+00:00,Almaty Ortalyk Stadion,Kairat Almaty,Real Madrid,,0,5,https://fixturedownload.com/feed/json/champions-league-2025,5,-5,A
+2025-26,21,2,2025-09-30 19:00:00+00:00,Stadio San Siro,Inter,Slavia Praha,,3,0,https://fixturedownload.com/feed/json/champions-league-2025,3,3,H
+2025-26,22,2,2025-09-30 19:00:00+00:00,Stamford Bridge,Chelsea,Benfica,,1,0,https://fixturedownload.com/feed/json/champions-league-2025,1,1,H
+2025-26,23,2,2025-09-30 19:00:00+00:00,Estadio Metropolitano,Atleti,Frankfurt,,5,1,https://fixturedownload.com/feed/json/champions-league-2025,6,4,H
+2025-26,24,2,2025-09-30 19:00:00+00:00,Aspmyra,Bodø/Glimt,Tottenham,,2,2,https://fixturedownload.com/feed/json/champions-league-2025,4,0,D
+2025-26,25,2,2025-09-30 19:00:00+00:00,Stade de Marseille,Marseille,Ajax,,4,0,https://fixturedownload.com/feed/json/champions-league-2025,4,4,H
+2025-26,26,2,2025-09-30 19:00:00+00:00,Ali Sami Yen Spor Kompleksi,Galatasaray,Liverpool,,1,0,https://fixturedownload.com/feed/json/champions-league-2025,1,1,H
+2025-26,27,2,2025-09-30 19:00:00+00:00,Limassol Stadium,Pafos,Bayern München,,1,5,https://fixturedownload.com/feed/json/champions-league-2025,6,-4,A
+2025-26,28,2,2025-10-01 16:45:00+00:00,RSC Anderlecht Stadium,Union SG,Newcastle,,0,4,https://fixturedownload.com/feed/json/champions-league-2025,4,-4,A
+2025-26,29,2,2025-10-01 16:45:00+00:00,Tofiq Bahramov Republican Stadium,Qarabag,Copenhagen,,2,0,https://fixturedownload.com/feed/json/champions-league-2025,2,2,H
+2025-26,30,2,2025-10-01 19:00:00+00:00,Arsenal Stadium,Arsenal,Olympiacos,,2,0,https://fixturedownload.com/feed/json/champions-league-2025,2,2,H
+2025-26,31,2,2025-10-01 19:00:00+00:00,BayArena,Leverkusen,PSV,,1,1,https://fixturedownload.com/feed/json/champions-league-2025,2,0,D
+2025-26,32,2,2025-10-01 19:00:00+00:00,Estadio de la Cerámica,Villarreal,Juventus,,2,2,https://fixturedownload.com/feed/json/champions-league-2025,4,0,D
+2025-26,33,2,2025-10-01 19:00:00+00:00,Stadio Diego Armando Maradona,Napoli,Sporting CP,,2,1,https://fixturedownload.com/feed/json/champions-league-2025,3,1,H
+2025-26,34,2,2025-10-01 19:00:00+00:00,Stade Louis II,Monaco,Man City,,2,2,https://fixturedownload.com/feed/json/champions-league-2025,4,0,D
+2025-26,35,2,2025-10-01 19:00:00+00:00,BVB Stadion Dortmund,B. Dortmund,Athletic Club,,4,1,https://fixturedownload.com/feed/json/champions-league-2025,5,3,H
+2025-26,36,2,2025-10-01 19:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,Paris,,1,2,https://fixturedownload.com/feed/json/champions-league-2025,3,-1,A
+2025-26,37,3,2025-10-21 16:45:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,Olympiacos,,6,1,https://fixturedownload.com/feed/json/champions-league-2025,7,5,H
+2025-26,38,3,2025-10-21 16:45:00+00:00,Almaty Ortalyk Stadion,Kairat Almaty,Pafos,,0,0,https://fixturedownload.com/feed/json/champions-league-2025,0,0,D
+2025-26,39,3,2025-10-21 19:00:00+00:00,Arsenal Stadium,Arsenal,Atleti,,4,0,https://fixturedownload.com/feed/json/champions-league-2025,4,4,H
+2025-26,40,3,2025-10-21 19:00:00+00:00,BayArena,Leverkusen,Paris,,2,7,https://fixturedownload.com/feed/json/champions-league-2025,9,-5,A
+2025-26,41,3,2025-10-21 19:00:00+00:00,Estadio de la Cerámica,Villarreal,Man City,,0,2,https://fixturedownload.com/feed/json/champions-league-2025,2,-2,A
+2025-26,42,3,2025-10-21 19:00:00+00:00,PSV Stadion,PSV,Napoli,,6,2,https://fixturedownload.com/feed/json/champions-league-2025,8,4,H
+2025-26,43,3,2025-10-21 19:00:00+00:00,Parken,Copenhagen,B. Dortmund,,2,4,https://fixturedownload.com/feed/json/champions-league-2025,6,-2,A
+2025-26,44,3,2025-10-21 19:00:00+00:00,RSC Anderlecht Stadium,Union SG,Inter,,0,4,https://fixturedownload.com/feed/json/champions-league-2025,4,-4,A
+2025-26,45,3,2025-10-21 19:00:00+00:00,St James' Park,Newcastle,Benfica,,3,0,https://fixturedownload.com/feed/json/champions-league-2025,3,3,H
+2025-26,46,3,2025-10-22 16:45:00+00:00,Ali Sami Yen Spor Kompleksi,Galatasaray,Bodø/Glimt,,3,1,https://fixturedownload.com/feed/json/champions-league-2025,4,2,H
+2025-26,47,3,2025-10-22 16:45:00+00:00,Estadio de San Mamés,Athletic Club,Qarabag,,3,1,https://fixturedownload.com/feed/json/champions-league-2025,4,2,H
+2025-26,48,3,2025-10-22 19:00:00+00:00,Stamford Bridge,Chelsea,Ajax,,5,1,https://fixturedownload.com/feed/json/champions-league-2025,6,4,H
+2025-26,49,3,2025-10-22 19:00:00+00:00,Stadio di Bergamo,Atalanta,Slavia Praha,,0,0,https://fixturedownload.com/feed/json/champions-league-2025,0,0,D
+2025-26,50,3,2025-10-22 19:00:00+00:00,Frankfurt Stadion,Frankfurt,Liverpool,,1,5,https://fixturedownload.com/feed/json/champions-league-2025,6,-4,A
+2025-26,51,3,2025-10-22 19:00:00+00:00,Estádio José Alvalade,Sporting CP,Marseille,,2,1,https://fixturedownload.com/feed/json/champions-league-2025,3,1,H
+2025-26,52,3,2025-10-22 19:00:00+00:00,Stade Louis II,Monaco,Tottenham,,0,0,https://fixturedownload.com/feed/json/champions-league-2025,0,0,D
+2025-26,53,3,2025-10-22 19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Juventus,,1,0,https://fixturedownload.com/feed/json/champions-league-2025,1,1,H
+2025-26,54,3,2025-10-22 19:00:00+00:00,Fußball Arena München,Bayern München,Club Brugge,,4,0,https://fixturedownload.com/feed/json/champions-league-2025,4,4,H
+2025-26,55,4,2025-11-04 17:45:00+00:00,Stadio Diego Armando Maradona,Napoli,Frankfurt,,0,0,https://fixturedownload.com/feed/json/champions-league-2025,0,0,D
+2025-26,56,4,2025-11-04 17:45:00+00:00,Eden Arena,Slavia Praha,Arsenal,,0,3,https://fixturedownload.com/feed/json/champions-league-2025,3,-3,A
+2025-26,57,4,2025-11-04 20:00:00+00:00,Parc des Princes,Paris,Bayern München,,1,2,https://fixturedownload.com/feed/json/champions-league-2025,3,-1,A
+2025-26,58,4,2025-11-04 20:00:00+00:00,Anfield,Liverpool,Real Madrid,,1,0,https://fixturedownload.com/feed/json/champions-league-2025,1,1,H
+2025-26,59,4,2025-11-04 20:00:00+00:00,Estadio Metropolitano,Atleti,Union SG,,3,1,https://fixturedownload.com/feed/json/champions-league-2025,4,2,H
+2025-26,60,4,2025-11-04 20:00:00+00:00,Juventus Stadium,Juventus,Sporting CP,,1,1,https://fixturedownload.com/feed/json/champions-league-2025,2,0,D
+2025-26,61,4,2025-11-04 20:00:00+00:00,Tottenham Hotspur Stadium,Tottenham,Copenhagen,,4,0,https://fixturedownload.com/feed/json/champions-league-2025,4,4,H
+2025-26,62,4,2025-11-04 20:00:00+00:00,Stadio Georgios Karaiskakis,Olympiacos,PSV,,1,1,https://fixturedownload.com/feed/json/champions-league-2025,2,0,D
+2025-26,63,4,2025-11-04 20:00:00+00:00,Aspmyra,Bodø/Glimt,Monaco,,0,1,https://fixturedownload.com/feed/json/champions-league-2025,1,-1,A
+2025-26,64,4,2025-11-05 17:45:00+00:00,Tofiq Bahramov Republican Stadium,Qarabag,Chelsea,,2,2,https://fixturedownload.com/feed/json/champions-league-2025,4,0,D
+2025-26,65,4,2025-11-05 17:45:00+00:00,Limassol Stadium,Pafos,Villarreal,,1,0,https://fixturedownload.com/feed/json/champions-league-2025,1,1,H
+2025-26,66,4,2025-11-05 20:00:00+00:00,City of Manchester Stadium,Man City,B. Dortmund,,4,1,https://fixturedownload.com/feed/json/champions-league-2025,5,3,H
+2025-26,67,4,2025-11-05 20:00:00+00:00,Stadio San Siro,Inter,Kairat Almaty,,2,1,https://fixturedownload.com/feed/json/champions-league-2025,3,1,H
+2025-26,68,4,2025-11-05 20:00:00+00:00,Estádio do SL Benfica,Benfica,Leverkusen,,0,1,https://fixturedownload.com/feed/json/champions-league-2025,1,-1,A
+2025-26,69,4,2025-11-05 20:00:00+00:00,Jan Breydelstadion,Club Brugge,Barcelona,,3,3,https://fixturedownload.com/feed/json/champions-league-2025,6,0,D
+2025-26,70,4,2025-11-05 20:00:00+00:00,Johan Cruijff ArenA,Ajax,Galatasaray,,0,3,https://fixturedownload.com/feed/json/champions-league-2025,3,-3,A
+2025-26,71,4,2025-11-05 20:00:00+00:00,Stade de Marseille,Marseille,Atalanta,,0,1,https://fixturedownload.com/feed/json/champions-league-2025,1,-1,A
+2025-26,72,4,2025-11-05 20:00:00+00:00,St James' Park,Newcastle,Athletic Club,,2,0,https://fixturedownload.com/feed/json/champions-league-2025,2,2,H
+2025-26,73,5,2025-11-25 17:45:00+00:00,Johan Cruijff ArenA,Ajax,Benfica,,0,2,https://fixturedownload.com/feed/json/champions-league-2025,2,-2,A
+2025-26,74,5,2025-11-25 17:45:00+00:00,Ali Sami Yen Spor Kompleksi,Galatasaray,Union SG,,0,1,https://fixturedownload.com/feed/json/champions-league-2025,1,-1,A
+2025-26,75,5,2025-11-25 20:00:00+00:00,City of Manchester Stadium,Man City,Leverkusen,,0,2,https://fixturedownload.com/feed/json/champions-league-2025,2,-2,A
+2025-26,76,5,2025-11-25 20:00:00+00:00,Stamford Bridge,Chelsea,Barcelona,,3,0,https://fixturedownload.com/feed/json/champions-league-2025,3,3,H
+2025-26,77,5,2025-11-25 20:00:00+00:00,BVB Stadion Dortmund,B. Dortmund,Villarreal,,4,0,https://fixturedownload.com/feed/json/champions-league-2025,4,4,H
+2025-26,78,5,2025-11-25 20:00:00+00:00,Stadio Diego Armando Maradona,Napoli,Qarabag,,2,0,https://fixturedownload.com/feed/json/champions-league-2025,2,2,H
+2025-26,79,5,2025-11-25 20:00:00+00:00,Eden Arena,Slavia Praha,Athletic Club,,0,0,https://fixturedownload.com/feed/json/champions-league-2025,0,0,D
+2025-26,80,5,2025-11-25 20:00:00+00:00,Aspmyra,Bodø/Glimt,Juventus,,2,3,https://fixturedownload.com/feed/json/champions-league-2025,5,-1,A
+2025-26,81,5,2025-11-25 20:00:00+00:00,Stade de Marseille,Marseille,Newcastle,,2,1,https://fixturedownload.com/feed/json/champions-league-2025,3,1,H
+2025-26,82,5,2025-11-26 17:45:00+00:00,Parken,Copenhagen,Kairat Almaty,,3,2,https://fixturedownload.com/feed/json/champions-league-2025,5,1,H
+2025-26,83,5,2025-11-26 17:45:00+00:00,Limassol Stadium,Pafos,Monaco,,2,2,https://fixturedownload.com/feed/json/champions-league-2025,4,0,D
+2025-26,84,5,2025-11-26 20:00:00+00:00,Parc des Princes,Paris,Tottenham,,5,3,https://fixturedownload.com/feed/json/champions-league-2025,8,2,H
+2025-26,85,5,2025-11-26 20:00:00+00:00,Anfield,Liverpool,PSV,,1,4,https://fixturedownload.com/feed/json/champions-league-2025,5,-3,A
+2025-26,86,5,2025-11-26 20:00:00+00:00,Arsenal Stadium,Arsenal,Bayern München,,3,1,https://fixturedownload.com/feed/json/champions-league-2025,4,2,H
+2025-26,87,5,2025-11-26 20:00:00+00:00,Estadio Metropolitano,Atleti,Inter,,2,1,https://fixturedownload.com/feed/json/champions-league-2025,3,1,H
+2025-26,88,5,2025-11-26 20:00:00+00:00,Frankfurt Stadion,Frankfurt,Atalanta,,0,3,https://fixturedownload.com/feed/json/champions-league-2025,3,-3,A
+2025-26,89,5,2025-11-26 20:00:00+00:00,Estádio José Alvalade,Sporting CP,Club Brugge,,3,0,https://fixturedownload.com/feed/json/champions-league-2025,3,3,H
+2025-26,90,5,2025-11-26 20:00:00+00:00,Stadio Georgios Karaiskakis,Olympiacos,Real Madrid,,3,4,https://fixturedownload.com/feed/json/champions-league-2025,7,-1,A
+2025-26,91,6,2025-12-09 15:30:00+00:00,Astana Arena,Kairat Almaty,Olympiacos,,0,1,https://fixturedownload.com/feed/json/champions-league-2025,1,-1,A
+2025-26,92,6,2025-12-09 17:45:00+00:00,Fußball Arena München,Bayern München,Sporting CP,,3,1,https://fixturedownload.com/feed/json/champions-league-2025,4,2,H
+2025-26,93,6,2025-12-09 20:00:00+00:00,Stadio San Siro,Inter,Liverpool,,0,1,https://fixturedownload.com/feed/json/champions-league-2025,1,-1,A
+2025-26,94,6,2025-12-09 20:00:00+00:00,Camp Nou,Barcelona,Frankfurt,,2,1,https://fixturedownload.com/feed/json/champions-league-2025,3,1,H
+2025-26,95,6,2025-12-09 20:00:00+00:00,Stadio di Bergamo,Atalanta,Chelsea,,2,1,https://fixturedownload.com/feed/json/champions-league-2025,3,1,H
+2025-26,96,6,2025-12-09 20:00:00+00:00,Tottenham Hotspur Stadium,Tottenham,Slavia Praha,,3,0,https://fixturedownload.com/feed/json/champions-league-2025,3,3,H
+2025-26,97,6,2025-12-09 20:00:00+00:00,PSV Stadion,PSV,Atleti,,2,3,https://fixturedownload.com/feed/json/champions-league-2025,5,-1,A
+2025-26,98,6,2025-12-09 20:00:00+00:00,Stade Louis II,Monaco,Galatasaray,,1,0,https://fixturedownload.com/feed/json/champions-league-2025,1,1,H
+2025-26,99,6,2025-12-09 20:00:00+00:00,RSC Anderlecht Stadium,Union SG,Marseille,,2,3,https://fixturedownload.com/feed/json/champions-league-2025,5,-1,A
+2025-26,100,6,2025-12-10 17:45:00+00:00,Estadio de la Cerámica,Villarreal,Copenhagen,,2,3,https://fixturedownload.com/feed/json/champions-league-2025,5,-1,A
+2025-26,101,6,2025-12-10 17:45:00+00:00,Tofiq Bahramov Republican Stadium,Qarabag,Ajax,,2,4,https://fixturedownload.com/feed/json/champions-league-2025,6,-2,A
+2025-26,102,6,2025-12-10 20:00:00+00:00,BVB Stadion Dortmund,B. Dortmund,Bodø/Glimt,,2,2,https://fixturedownload.com/feed/json/champions-league-2025,4,0,D
+2025-26,103,6,2025-12-10 20:00:00+00:00,BayArena,Leverkusen,Newcastle,,2,2,https://fixturedownload.com/feed/json/champions-league-2025,4,0,D
+2025-26,104,6,2025-12-10 20:00:00+00:00,Estádio do SL Benfica,Benfica,Napoli,,2,0,https://fixturedownload.com/feed/json/champions-league-2025,2,2,H
+2025-26,105,6,2025-12-10 20:00:00+00:00,Juventus Stadium,Juventus,Pafos,,2,0,https://fixturedownload.com/feed/json/champions-league-2025,2,2,H
+2025-26,106,6,2025-12-10 20:00:00+00:00,Jan Breydelstadion,Club Brugge,Arsenal,,0,3,https://fixturedownload.com/feed/json/champions-league-2025,3,-3,A
+2025-26,107,6,2025-12-10 20:00:00+00:00,Estadio de San Mamés,Athletic Club,Paris,,0,0,https://fixturedownload.com/feed/json/champions-league-2025,0,0,D
+2025-26,108,6,2025-12-10 20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Man City,,1,2,https://fixturedownload.com/feed/json/champions-league-2025,3,-1,A
+2025-26,109,7,2026-01-20 15:30:00+00:00,Astana Arena,Kairat Almaty,Club Brugge,,1,4,https://fixturedownload.com/feed/json/champions-league-2025,5,-3,A
+2025-26,110,7,2026-01-20 17:45:00+00:00,Aspmyra,Bodø/Glimt,Man City,,3,1,https://fixturedownload.com/feed/json/champions-league-2025,4,2,H
+2025-26,111,7,2026-01-20 20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Monaco,,6,1,https://fixturedownload.com/feed/json/champions-league-2025,7,5,H
+2025-26,112,7,2026-01-20 20:00:00+00:00,Stadio San Siro,Inter,Arsenal,,1,3,https://fixturedownload.com/feed/json/champions-league-2025,4,-2,A
+2025-26,113,7,2026-01-20 20:00:00+00:00,Estadio de la Cerámica,Villarreal,Ajax,,1,2,https://fixturedownload.com/feed/json/champions-league-2025,3,-1,A
+2025-26,114,7,2026-01-20 20:00:00+00:00,Tottenham Hotspur Stadium,Tottenham,B. Dortmund,,2,0,https://fixturedownload.com/feed/json/champions-league-2025,2,2,H
+2025-26,115,7,2026-01-20 20:00:00+00:00,Estádio José Alvalade,Sporting CP,Paris,,2,1,https://fixturedownload.com/feed/json/champions-league-2025,3,1,H
+2025-26,116,7,2026-01-20 20:00:00+00:00,Stadio Georgios Karaiskakis,Olympiacos,Leverkusen,,2,0,https://fixturedownload.com/feed/json/champions-league-2025,2,2,H
+2025-26,117,7,2026-01-20 20:00:00+00:00,Parken,Copenhagen,Napoli,,1,1,https://fixturedownload.com/feed/json/champions-league-2025,2,0,D
+2025-26,118,7,2026-01-21 17:45:00+00:00,Ali Sami Yen Spor Kompleksi,Galatasaray,Atleti,,1,1,https://fixturedownload.com/feed/json/champions-league-2025,2,0,D
+2025-26,119,7,2026-01-21 17:45:00+00:00,Tofiq Bahramov Republican Stadium,Qarabag,Frankfurt,,3,2,https://fixturedownload.com/feed/json/champions-league-2025,5,1,H
+2025-26,120,7,2026-01-21 20:00:00+00:00,Stamford Bridge,Chelsea,Pafos,,1,0,https://fixturedownload.com/feed/json/champions-league-2025,1,1,H
+2025-26,121,7,2026-01-21 20:00:00+00:00,Stadio di Bergamo,Atalanta,Athletic Club,,2,3,https://fixturedownload.com/feed/json/champions-league-2025,5,-1,A
+2025-26,122,7,2026-01-21 20:00:00+00:00,Juventus Stadium,Juventus,Benfica,,2,0,https://fixturedownload.com/feed/json/champions-league-2025,2,2,H
+2025-26,123,7,2026-01-21 20:00:00+00:00,Eden Arena,Slavia Praha,Barcelona,,2,4,https://fixturedownload.com/feed/json/champions-league-2025,6,-2,A
+2025-26,124,7,2026-01-21 20:00:00+00:00,Stade de Marseille,Marseille,Liverpool,,0,3,https://fixturedownload.com/feed/json/champions-league-2025,3,-3,A
+2025-26,125,7,2026-01-21 20:00:00+00:00,St James' Park,Newcastle,PSV,,3,0,https://fixturedownload.com/feed/json/champions-league-2025,3,3,H
+2025-26,126,7,2026-01-21 20:00:00+00:00,Fußball Arena München,Bayern München,Union SG,,2,0,https://fixturedownload.com/feed/json/champions-league-2025,2,2,H
+2025-26,127,8,2026-01-28 20:00:00+00:00,Parc des Princes,Paris,Newcastle,,1,1,https://fixturedownload.com/feed/json/champions-league-2025,2,0,D
+2025-26,128,8,2026-01-28 20:00:00+00:00,City of Manchester Stadium,Man City,Galatasaray,,2,0,https://fixturedownload.com/feed/json/champions-league-2025,2,2,H
+2025-26,129,8,2026-01-28 20:00:00+00:00,Anfield,Liverpool,Qarabag,,6,0,https://fixturedownload.com/feed/json/champions-league-2025,6,6,H
+2025-26,130,8,2026-01-28 20:00:00+00:00,BVB Stadion Dortmund,B. Dortmund,Inter,,0,2,https://fixturedownload.com/feed/json/champions-league-2025,2,-2,A
+2025-26,131,8,2026-01-28 20:00:00+00:00,Camp Nou,Barcelona,Copenhagen,,4,1,https://fixturedownload.com/feed/json/champions-league-2025,5,3,H
+2025-26,132,8,2026-01-28 20:00:00+00:00,Arsenal Stadium,Arsenal,Kairat Almaty,,3,2,https://fixturedownload.com/feed/json/champions-league-2025,5,1,H
+2025-26,133,8,2026-01-28 20:00:00+00:00,BayArena,Leverkusen,Villarreal,,3,0,https://fixturedownload.com/feed/json/champions-league-2025,3,3,H
+2025-26,134,8,2026-01-28 20:00:00+00:00,Estadio Metropolitano,Atleti,Bodø/Glimt,,1,2,https://fixturedownload.com/feed/json/champions-league-2025,3,-1,A
+2025-26,135,8,2026-01-28 20:00:00+00:00,Estádio do SL Benfica,Benfica,Real Madrid,,4,2,https://fixturedownload.com/feed/json/champions-league-2025,6,2,H
+2025-26,136,8,2026-01-28 20:00:00+00:00,Frankfurt Stadion,Frankfurt,Tottenham,,0,2,https://fixturedownload.com/feed/json/champions-league-2025,2,-2,A
+2025-26,137,8,2026-01-28 20:00:00+00:00,Jan Breydelstadion,Club Brugge,Marseille,,3,0,https://fixturedownload.com/feed/json/champions-league-2025,3,3,H
+2025-26,138,8,2026-01-28 20:00:00+00:00,PSV Stadion,PSV,Bayern München,,1,2,https://fixturedownload.com/feed/json/champions-league-2025,3,-1,A
+2025-26,139,8,2026-01-28 20:00:00+00:00,Johan Cruijff ArenA,Ajax,Olympiacos,,1,2,https://fixturedownload.com/feed/json/champions-league-2025,3,-1,A
+2025-26,140,8,2026-01-28 20:00:00+00:00,Stadio Diego Armando Maradona,Napoli,Chelsea,,2,3,https://fixturedownload.com/feed/json/champions-league-2025,5,-1,A
+2025-26,141,8,2026-01-28 20:00:00+00:00,Stade Louis II,Monaco,Juventus,,0,0,https://fixturedownload.com/feed/json/champions-league-2025,0,0,D
+2025-26,142,8,2026-01-28 20:00:00+00:00,RSC Anderlecht Stadium,Union SG,Atalanta,,1,0,https://fixturedownload.com/feed/json/champions-league-2025,1,1,H
+2025-26,143,8,2026-01-28 20:00:00+00:00,Estadio de San Mamés,Athletic Club,Sporting CP,,2,3,https://fixturedownload.com/feed/json/champions-league-2025,5,-1,A
+2025-26,144,8,2026-01-28 20:00:00+00:00,Limassol Stadium,Pafos,Slavia Praha,,4,1,https://fixturedownload.com/feed/json/champions-league-2025,5,3,H
+2025-26,145,9,2026-02-17 17:45:00+00:00,Ali Sami Yen Spor Kompleksi,Galatasaray,Juventus,,5,2,https://fixturedownload.com/feed/json/champions-league-2025,7,3,H
+2025-26,146,9,2026-02-17 20:00:00+00:00,Stade Louis II,Monaco,Paris,,2,3,https://fixturedownload.com/feed/json/champions-league-2025,5,-1,A
+2025-26,147,9,2026-02-17 20:00:00+00:00,Estádio do SL Benfica,Benfica,Real Madrid,,0,1,https://fixturedownload.com/feed/json/champions-league-2025,1,-1,A
+2025-26,148,9,2026-02-17 20:15:00+00:00,BVB Stadion Dortmund,B. Dortmund,Atalanta,,2,0,https://fixturedownload.com/feed/json/champions-league-2025,2,2,H
+2025-26,149,9,2026-02-18 17:45:00+00:00,Tofiq Bahramov Republican Stadium,Qarabag,Newcastle,,1,6,https://fixturedownload.com/feed/json/champions-league-2025,7,-5,A
+2025-26,150,9,2026-02-18 20:00:00+00:00,Stadio Georgios Karaiskakis,Olympiacos,Leverkusen,,0,2,https://fixturedownload.com/feed/json/champions-league-2025,2,-2,A
+2025-26,151,9,2026-02-18 20:00:00+00:00,Aspmyra,Bodø/Glimt,Inter,,3,1,https://fixturedownload.com/feed/json/champions-league-2025,4,2,H
+2025-26,152,9,2026-02-18 20:00:00+00:00,Jan Breydelstadion,Club Brugge,Atleti,,3,3,https://fixturedownload.com/feed/json/champions-league-2025,6,0,D
+2025-26,153,10,2026-02-24 17:45:00+00:00,Estadio Metropolitano,Atleti,Club Brugge,,4,1,https://fixturedownload.com/feed/json/champions-league-2025,5,3,H
+2025-26,154,10,2026-02-24 20:00:00+00:00,BayArena,Leverkusen,Olympiacos,,0,0,https://fixturedownload.com/feed/json/champions-league-2025,0,0,D
+2025-26,155,10,2026-02-24 20:00:00+00:00,Stadio San Siro,Inter,Bodø/Glimt,,1,2,https://fixturedownload.com/feed/json/champions-league-2025,3,-1,A
+2025-26,156,10,2026-02-24 20:00:00+00:00,St James' Park,Newcastle,Qarabag,,3,2,https://fixturedownload.com/feed/json/champions-league-2025,5,1,H
+2025-26,157,10,2026-02-25 17:45:00+00:00,Stadio di Bergamo,Atalanta,B. Dortmund,,4,1,https://fixturedownload.com/feed/json/champions-league-2025,5,3,H
+2025-26,158,10,2026-02-25 20:00:00+00:00,Parc des Princes,Paris,Monaco,,2,2,https://fixturedownload.com/feed/json/champions-league-2025,4,0,D
+2025-26,159,10,2026-02-25 20:00:00+00:00,Juventus Stadium,Juventus,Galatasaray,,3,2,https://fixturedownload.com/feed/json/champions-league-2025,5,1,H
+2025-26,160,10,2026-02-25 20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Benfica,,2,1,https://fixturedownload.com/feed/json/champions-league-2025,3,1,H
+2025-26,161,11,2026-03-10 17:45:00+00:00,Ali Sami Yen Spor Kompleksi,Galatasaray,Liverpool,,1,0,https://fixturedownload.com/feed/json/champions-league-2025,1,1,H
+2025-26,162,11,2026-03-10 20:00:00+00:00,Stadio di Bergamo,Atalanta,Bayern München,,1,6,https://fixturedownload.com/feed/json/champions-league-2025,7,-5,A
+2025-26,163,11,2026-03-10 20:00:00+00:00,St James' Park,Newcastle,Barcelona,,1,1,https://fixturedownload.com/feed/json/champions-league-2025,2,0,D
+2025-26,164,11,2026-03-10 20:00:00+00:00,Estadio Metropolitano,Atleti,Tottenham,,5,2,https://fixturedownload.com/feed/json/champions-league-2025,7,3,H
+2025-26,165,11,2026-03-11 17:45:00+00:00,BayArena,Leverkusen,Arsenal,,1,1,https://fixturedownload.com/feed/json/champions-league-2025,2,0,D
+2025-26,166,11,2026-03-11 20:00:00+00:00,Parc des Princes,Paris,Chelsea,,5,2,https://fixturedownload.com/feed/json/champions-league-2025,7,3,H
+2025-26,167,11,2026-03-11 20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Man City,,3,0,https://fixturedownload.com/feed/json/champions-league-2025,3,3,H
+2025-26,168,11,2026-03-11 20:00:00+00:00,Aspmyra,Bodø/Glimt,Sporting CP,,3,0,https://fixturedownload.com/feed/json/champions-league-2025,3,3,H
+2025-26,169,12,2026-03-17 17:45:00+00:00,Estádio José Alvalade,Sporting CP,Bodø/Glimt,,5,0,https://fixturedownload.com/feed/json/champions-league-2025,5,5,H
+2025-26,170,12,2026-03-17 20:00:00+00:00,Stamford Bridge,Chelsea,Paris,,0,3,https://fixturedownload.com/feed/json/champions-league-2025,3,-3,A
+2025-26,171,12,2026-03-17 20:00:00+00:00,City of Manchester Stadium,Man City,Real Madrid,,1,2,https://fixturedownload.com/feed/json/champions-league-2025,3,-1,A
+2025-26,172,12,2026-03-17 20:00:00+00:00,Arsenal Stadium,Arsenal,Leverkusen,,2,0,https://fixturedownload.com/feed/json/champions-league-2025,2,2,H
+2025-26,173,12,2026-03-18 17:45:00+00:00,Camp Nou,Barcelona,Newcastle,,7,2,https://fixturedownload.com/feed/json/champions-league-2025,9,5,H
+2025-26,174,12,2026-03-18 20:00:00+00:00,Anfield,Liverpool,Galatasaray,,4,0,https://fixturedownload.com/feed/json/champions-league-2025,4,4,H
+2025-26,175,12,2026-03-18 20:00:00+00:00,Fußball Arena München,Bayern München,Atalanta,,4,1,https://fixturedownload.com/feed/json/champions-league-2025,5,3,H
+2025-26,176,12,2026-03-18 20:00:00+00:00,Tottenham Hotspur Stadium,Tottenham,Atleti,,3,2,https://fixturedownload.com/feed/json/champions-league-2025,5,1,H
+2025-26,177,13,2026-04-07 19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,Bayern München,,1,2,https://fixturedownload.com/feed/json/champions-league-2025,3,-1,A
+2025-26,178,13,2026-04-07 19:00:00+00:00,Estádio José Alvalade,Sporting CP,Arsenal,,0,1,https://fixturedownload.com/feed/json/champions-league-2025,1,-1,A
+2025-26,179,13,2026-04-08 19:00:00+00:00,Parc des Princes,Paris,Liverpool,,2,0,https://fixturedownload.com/feed/json/champions-league-2025,2,2,H
+2025-26,180,13,2026-04-08 19:00:00+00:00,Camp Nou,Barcelona,Atleti,,0,2,https://fixturedownload.com/feed/json/champions-league-2025,2,-2,A
+2025-26,181,14,2026-04-14 19:00:00+00:00,Estadio Metropolitano,Atleti,Barcelona,,1,2,https://fixturedownload.com/feed/json/champions-league-2025,3,-1,A
+2025-26,182,14,2026-04-14 19:00:00+00:00,Anfield,Liverpool,Paris,,0,2,https://fixturedownload.com/feed/json/champions-league-2025,2,-2,A
+2025-26,183,14,2026-04-15 19:00:00+00:00,Arsenal Stadium,Arsenal,Sporting CP,,0,0,https://fixturedownload.com/feed/json/champions-league-2025,0,0,D
+2025-26,184,14,2026-04-15 19:00:00+00:00,Fußball Arena München,Bayern München,Real Madrid,,4,3,https://fixturedownload.com/feed/json/champions-league-2025,7,1,H
+2025-26,185,15,2026-04-28 19:00:00+00:00,Parc des Princes,Paris,Bayern München,,5,4,https://fixturedownload.com/feed/json/champions-league-2025,9,1,H
+2025-26,186,15,2026-04-29 19:00:00+00:00,Estadio Metropolitano,Atleti,Arsenal,,1,1,https://fixturedownload.com/feed/json/champions-league-2025,2,0,D
+2025-26,187,16,2026-05-05 19:00:00+00:00,Arsenal Stadium,Arsenal,Atleti,,1,0,https://fixturedownload.com/feed/json/champions-league-2025,1,1,H
+2025-26,188,16,2026-05-06 19:00:00+00:00,Fußball Arena München,Bayern München,Paris,,1,1,https://fixturedownload.com/feed/json/champions-league-2025,2,0,D
+2025-26,189,17,2026-05-30 16:00:00+00:00,Puskás Aréna,Paris,Arsenal,,,,https://fixturedownload.com/feed/json/champions-league-2025,,,D
