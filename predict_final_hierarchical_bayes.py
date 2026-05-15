@@ -324,10 +324,10 @@ def fit_hierarchical_model(train: pd.DataFrame) -> tuple[pm.Model, object, pd.Se
         pm.Bernoulli("obs", logit_p=logit_p, observed=y)
 
         trace = pm.sample(
-            draws=300,
-            tune=400,
-            chains=2,
-            cores=1,
+            draws=1000,
+            tune=1000,
+            chains=4,
+            cores=4,
             target_accept=0.99,
             random_seed=42,
             progressbar=False,
