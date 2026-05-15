@@ -5,3 +5,4 @@ __pycache__/
 .DS_Store
 predict_final_knn.py
 predict_final_knn_binary.py
+test_features.py

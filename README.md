@@ -5,6 +5,13 @@ This repository contains two supervised models for predicting the Champions Leag
 - `predict_final_form_rf.py`: Random Forest baseline
 - `predict_final_hierarchical_bayes.py`: hierarchical Bayesian model
 
+## Project layout
+
+- `data/`: source and cleaned match datasets
+- `predict_final_form_rf.py`: Random Forest baseline pipeline
+- `predict_final_hierarchical_bayes.py`: hierarchical Bayesian pipeline
+- `data_clean.ipynb`: data cleaning and feature engineering notebook
+
 ## Data
 
 The project uses `data/dataset_cleaned.csv`, which contains Champions League matches from the 2021-22 to 2025-26 seasons.
@@ -36,6 +43,17 @@ This avoids training on future match outcomes relative to the validation season.
 ## Final prediction
 
 The final prediction is adjusted for a neutral venue by symmetrizing both team orderings rather than treating Paris as a true home team.
+
+## Latest results
+
+From the latest run of the Bayesian script:
+
+- Temporal holdout season (`2024-25`):
+	- Random Forest: accuracy `0.6250`, Brier score `0.1917`
+	- Hierarchical Bayes: accuracy `0.8750`, Brier score `0.1088`
+- Neutral-venue final forecast:
+	- Paris win probability: ~`0.80`
+	- Arsenal win probability: ~`0.20`
 
 ## Requirements
 
