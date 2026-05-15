@@ -55,6 +55,16 @@ From the latest run of the Bayesian script:
 	- Paris win probability: ~`0.80`
 	- Arsenal win probability: ~`0.20`
 
+## Data provenance
+
+The match-level CSV in `data/ucl_matches_2021_22_to_2025_26.csv` was compiled from the FixtureDownload JSON feeds (per-row `source_url` fields), which aggregate publicly available match results. Example feed used in the file: `https://fixturedownload.com/feed/json/champions-league-2021`.
+
+Suggested short attribution for LinkedIn or publication:
+
+"Match results data sourced from FixtureDownload (https://fixturedownload.com) and curated into `data/ucl_matches_2021_22_to_2025_26.csv`. Official match reports are available from UEFA: https://www.uefa.com."
+
+Please check FixtureDownload and UEFA terms of use before republishing match data or automated extracts.
+
 ## Requirements
 
 Install dependencies with:
